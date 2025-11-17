@@ -1,14 +1,14 @@
 {
-    "updated": "2025-11-17T16:05:32+03:00",
+    "updated": "2025-11-17T16:06:31+03:00",
     "count": 7,
     "data": [
         {
             "symbol": "KRDMD.IS",
-            "price": 24.540000915527344,
+            "price": 24.520000457763672,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.022670025188912,
-            "range15": 1,
+            "chg": 2.9387069689336665,
+            "range15": 0.8888865341447305,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:50:12+03:00"
+            "time": "2025-11-17T15:51:11+03:00"
         },
         {
-            "symbol": "ODAS.IS",
-            "price": 5.480000019073486,
+            "symbol": "ULKER.IS",
+            "price": 115.0999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 4.580152671755729,
+            "chg": 2.311111111111106,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:49:35+03:00"
+            "time": "2025-11-17T15:51:17+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -52,14 +52,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T15:49:00+03:00"
+            "time": "2025-11-17T15:50:25+03:00"
         },
         {
             "symbol": "LIDER.IS",
-            "price": 83.5999984741211,
+            "price": 83.94999694824219,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 6.293706293706279,
+            "chg": 6.738715829624916,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -69,7 +69,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:50:19+03:00"
+            "time": "2025-11-17T15:51:23+03:00"
+        },
+        {
+            "symbol": "PETKM.IS",
+            "price": 17.100000381469727,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.1505376344086202,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T15:51:13+03:00"
+        },
+        {
+            "symbol": "TOASO.IS",
+            "price": 236.3000030517578,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.6344086021505426,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T15:51:13+03:00"
         },
         {
             "symbol": "AKSEN.IS",
@@ -85,38 +117,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:49:45+03:00"
-        },
-        {
-            "symbol": "DOHOL.IS",
-            "price": 17.3799991607666,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.8757327080890993,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:49:52+03:00"
-        },
-        {
-            "symbol": "TOASO.IS",
-            "price": 236.10000610351562,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.548387096774191,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-11-17T15:50:08+03:00"
+            "time": "2025-11-17T15:50:43+03:00"
         }
     ]
 }
