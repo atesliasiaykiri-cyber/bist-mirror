@@ -1,17 +1,16 @@
 {
-    "updated": "2025-11-17T17:11:32+03:00",
-    "count": 4,
+    "updated": "2025-11-17T17:12:32+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 47.279998779296875,
-            "score": 100,
+            "price": 47.02000045776367,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 7.846715328467148,
-            "range15": 1,
+            "chg": 7.253649635036495,
+            "range15": 0.8659801517622397,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
@@ -19,14 +18,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:56:10+03:00"
+            "time": "2025-11-17T16:57:11+03:00"
         },
         {
             "symbol": "KUYAS.IS",
-            "price": 37.08000183105469,
+            "price": 37.380001068115234,
             "score": 65,
             "label": "Watchlist",
-            "chg": -5.6488549618320585,
+            "chg": -4.885496183206094,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +34,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:56:25+03:00"
+            "time": "2025-11-17T16:57:25+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 106.30000305175781,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.0153550863723555,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:56:56+03:00"
+        },
+        {
+            "symbol": "DERIM.IS",
+            "price": 36.52000045776367,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.670378619153679,
+            "range15": 0.8666649712641283,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:56:33+03:00"
         },
         {
             "symbol": "EUREN.IS",
@@ -51,23 +82,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:56:17+03:00"
-        },
-        {
-            "symbol": "SEKUR.IS",
-            "price": 14.949999809265137,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.562499999999991,
-            "range15": 0.9473671001702161,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:54:52+03:00"
+            "time": "2025-11-17T16:57:19+03:00"
         }
     ]
 }
