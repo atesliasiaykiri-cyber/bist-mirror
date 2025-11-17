@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T13:44:34+03:00",
+    "updated": "2025-11-17T13:45:38+03:00",
     "count": 10,
     "data": [
         {
-            "symbol": "ASELS.IS",
-            "price": 186.39999389648438,
-            "score": 80,
+            "symbol": "GSDDE.IS",
+            "price": 9.699999809265137,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 5.909090909090913,
+            "chg": 2.5369978858350786,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -15,16 +15,17 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-11-17T13:29:06+03:00"
+            "time": "2025-11-17T13:30:23+03:00"
         },
         {
-            "symbol": "GUBRF.IS",
-            "price": 328.25,
+            "symbol": "ASELS.IS",
+            "price": 186.89999389648438,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 4.455051710421639,
+            "chg": 6.193181818181821,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,7 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T13:29:05+03:00"
+            "time": "2025-11-17T13:30:10+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -51,32 +52,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T13:28:24+03:00"
-        },
-        {
-            "symbol": "KOZAA.IS",
-            "price": 99.30000305175781,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.5296850800206534,
-            "range15": 0.928577656676135,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T13:29:13+03:00"
+            "time": "2025-11-17T13:29:36+03:00"
         },
         {
             "symbol": "KOZAL.IS",
-            "price": 34.47999954223633,
+            "price": 34.459999084472656,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.1327014218009444,
-            "range15": 0.9090885446002703,
+            "chg": 2.073459715639819,
+            "range15": 0.8636328169026662,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -85,7 +69,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T13:29:14+03:00"
+            "time": "2025-11-17T13:30:16+03:00"
         },
         {
             "symbol": "ODAS.IS",
@@ -102,58 +86,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T13:28:52+03:00"
-        },
-        {
-            "symbol": "SASA.IS",
-            "price": 2.9100000858306885,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.3937282229965169,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T13:29:16+03:00"
-        },
-        {
-            "symbol": "GSDDE.IS",
-            "price": 9.699999809265137,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.5369978858350786,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T13:29:15+03:00"
-        },
-        {
-            "symbol": "MAVI.IS",
-            "price": 39.119998931884766,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.677165354330698,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T13:27:39+03:00"
+            "time": "2025-11-17T13:30:19+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -170,7 +103,71 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T13:29:11+03:00"
+            "time": "2025-11-17T13:30:15+03:00"
+        },
+        {
+            "symbol": "OTKAR.IS",
+            "price": 464.5,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.3638843426077467,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T13:30:18+03:00"
+        },
+        {
+            "symbol": "BSOKE.IS",
+            "price": 15.399999618530273,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.598267821452369,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T13:29:12+03:00"
+        },
+        {
+            "symbol": "KONYA.IS",
+            "price": 4995,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.0111223458038423,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T13:29:07+03:00"
+        },
+        {
+            "symbol": "TLMAN.IS",
+            "price": 96.75,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 4.032258064516129,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T13:28:42+03:00"
         }
     ]
 }
