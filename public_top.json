@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T17:09:32+03:00",
-    "count": 3,
+    "updated": "2025-11-17T17:10:38+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 47,
+            "price": 47.279998779296875,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 7.2080291970802834,
+            "chg": 7.846715328467148,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,14 +19,30 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:54:09+03:00"
+            "time": "2025-11-17T16:55:14+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 36.959999084472656,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -5.954198473282434,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:55:29+03:00"
         },
         {
             "symbol": "EUREN.IS",
-            "price": 7.409999847412109,
+            "price": 7.420000076293945,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.34806629834254,
+            "chg": 2.4861878453038635,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,15 +51,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:54:21+03:00"
+            "time": "2025-11-17T16:55:20+03:00"
         },
         {
             "symbol": "SEKUR.IS",
-            "price": 14.960000038146973,
+            "price": 14.949999809265137,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.630434782608697,
-            "range15": 1,
+            "chg": 1.562499999999991,
+            "range15": 0.9473671001702161,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -51,7 +67,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:53:50+03:00"
+            "time": "2025-11-17T16:54:52+03:00"
         }
     ]
 }
