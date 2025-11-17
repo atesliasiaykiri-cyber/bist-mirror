@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T17:00:48+03:00",
-    "count": 7,
+    "updated": "2025-11-17T17:01:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 45.70000076293945,
+            "price": 45.720001220703125,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 4.242700729927005,
+            "chg": 4.2883211678832005,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:45:25+03:00"
+            "time": "2025-11-17T16:46:09+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -36,14 +36,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:43:57+03:00"
+            "time": "2025-11-17T16:46:08+03:00"
         },
         {
             "symbol": "KOZAL.IS",
-            "price": 35.7599983215332,
+            "price": 35.779998779296875,
             "score": 70,
             "label": "Watchlist",
-            "chg": 5.924170616113744,
+            "chg": 5.983412322274892,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,7 +53,40 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T16:45:28+03:00"
+            "time": "2025-11-17T16:46:12+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 49.52000045776367,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.6003282724661492,
+            "range15": 0.9285704554457372,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T16:45:12+03:00"
+        },
+        {
+            "symbol": "ASELS.IS",
+            "price": 187.89999389648438,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 6.761363636363639,
+            "range15": 0.8571335149796766,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:45:00+03:00"
         },
         {
             "symbol": "GSDDE.IS",
@@ -70,54 +103,6 @@
                 "rp60"
             ],
             "time": "2025-11-17T16:41:29+03:00"
-        },
-        {
-            "symbol": "NTHOL.IS",
-            "price": 49.52000045776367,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.6003282724661492,
-            "range15": 0.9285704554457372,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:45:12+03:00"
-        },
-        {
-            "symbol": "OBASE.IS",
-            "price": 37.540000915527344,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 5.095184770436731,
-            "range15": 0.5000158947123229,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:43:47+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.480000019073486,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.2831050228310628,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:45:43+03:00"
         }
     ]
 }
