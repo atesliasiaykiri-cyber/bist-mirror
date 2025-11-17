@@ -1,16 +1,17 @@
 {
-    "updated": "2025-11-17T17:05:35+03:00",
-    "count": 8,
+    "updated": "2025-11-17T17:06:33+03:00",
+    "count": 1,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 46.040000915527344,
-            "score": 80,
+            "price": 46.08000183105469,
+            "score": 100,
             "label": "Strong Short Zone",
-            "chg": 5.018248175182471,
-            "range15": 0.8961040569529513,
+            "chg": 5.1094890510948785,
+            "range15": 0.9189196155407573,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
@@ -18,120 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:50:13+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.550000190734863,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 4.597701149425292,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:50:11+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 97.69999694824219,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 7.12719298245614,
-            "range15": 0.8571335149858076,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:50:08+03:00"
-        },
-        {
-            "symbol": "SUNTK.IS",
-            "price": 37.380001068115234,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.2682403433476433,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:50:29+03:00"
-        },
-        {
-            "symbol": "ARCLK.IS",
-            "price": 106.30000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.0153550863723555,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:49:54+03:00"
-        },
-        {
-            "symbol": "CANTE.IS",
-            "price": 2.4000000953674316,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.8403361344537823,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:50:10+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 7.409999847412109,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.34806629834254,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:49:52+03:00"
-        },
-        {
-            "symbol": "SEKUR.IS",
-            "price": 14.960000038146973,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.630434782608697,
-            "range15": 0.9499988079051074,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:48:56+03:00"
+            "time": "2025-11-17T16:51:11+03:00"
         }
     ]
 }
