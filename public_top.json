@@ -1,64 +1,32 @@
 {
-    "updated": "2025-11-17T19:19:32+03:00",
+    "updated": "2025-11-17T19:20:37+03:00",
     "count": 10,
     "data": [
         {
             "symbol": "BIOEN.IS",
             "price": 20.440000534057617,
-            "score": 45,
+            "score": 35,
             "label": "Neutral",
             "chg": 3.441295546558703,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
-                "rp60"
+                "strongUpDay"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
             "symbol": "CEMTS.IS",
             "price": 10.520000457763672,
-            "score": 45,
+            "score": 35,
             "label": "Neutral",
             "chg": 3.6453201970443274,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "KCHOL.IS",
-            "price": 167.8000030517578,
-            "score": 45,
-            "label": "Neutral",
-            "chg": 2.3170731707317143,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "TSKB.IS",
-            "price": 11.979999542236328,
-            "score": 45,
-            "label": "Neutral",
-            "chg": 1.1824324324324371,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp60"
+                "strongUpDay"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
@@ -68,6 +36,20 @@
             "score": 35,
             "label": "Neutral",
             "chg": 7.346491228070179,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 167.8000030517578,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 2.3170731707317143,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -133,16 +115,29 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "TSKB.IS",
+            "price": 11.979999542236328,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 1.1824324324324371,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "TRCAS.IS",
             "price": 40.29999923706055,
-            "score": 30,
+            "score": 20,
             "label": "Neutral",
             "chg": 0.4486540378863403,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
-                "rp60"
+                "dayHighClose"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         }
