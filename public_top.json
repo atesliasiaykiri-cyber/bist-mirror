@@ -1,7 +1,26 @@
 {
-    "updated": "2025-11-17T17:34:34+03:00",
-    "count": 4,
+    "updated": "2025-11-17T17:35:39+03:00",
+    "count": 9,
     "data": [
+        {
+            "symbol": "KUYAS.IS",
+            "price": 41.5,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 5.597964376590339,
+            "range15": 0.9930068344420607,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T17:20:31+03:00"
+        },
         {
             "symbol": "KRVGD.IS",
             "price": 2.630000114440918,
@@ -17,14 +36,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:19:16+03:00"
+            "time": "2025-11-17T17:20:01+03:00"
         },
         {
-            "symbol": "FENER.IS",
-            "price": 11.699999809265137,
+            "symbol": "ASELS.IS",
+            "price": 188.3000030517578,
             "score": 60,
             "label": "Watchlist",
-            "chg": 4.55764075067024,
+            "chg": 6.98863636363637,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,7 +52,55 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:19:09+03:00"
+            "time": "2025-11-17T17:20:03+03:00"
+        },
+        {
+            "symbol": "SAHOL.IS",
+            "price": 76.3499984741211,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.5292553191489249,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:20:19+03:00"
+        },
+        {
+            "symbol": "SASA.IS",
+            "price": 2.9200000762939453,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.7421602787456383,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:20:16+03:00"
+        },
+        {
+            "symbol": "YKBNK.IS",
+            "price": 32.220001220703125,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.813516896120144,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:20:24+03:00"
         },
         {
             "symbol": "ECZYT.IS",
@@ -49,15 +116,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:19:03+03:00"
+            "time": "2025-11-17T17:20:17+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 49.5,
+            "symbol": "GLYHO.IS",
+            "price": 11.390000343322754,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.55929421419778,
-            "range15": 0.8571389645758948,
+            "chg": 0.9751773049645498,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -65,7 +132,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:13:33+03:00"
+            "time": "2025-11-17T17:20:26+03:00"
+        },
+        {
+            "symbol": "MAVI.IS",
+            "price": 38.84000015258789,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.9422572178477742,
+            "range15": 0.8888865341397633,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:20:24+03:00"
         }
     ]
 }
