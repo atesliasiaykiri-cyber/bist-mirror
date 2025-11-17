@@ -1,25 +1,7 @@
 {
-    "updated": "2025-11-17T18:39:33+03:00",
+    "updated": "2025-11-17T18:40:37+03:00",
     "count": 10,
     "data": [
-        {
-            "symbol": "CEMTS.IS",
-            "price": 10.520000457763672,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.6453201970443274,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
         {
             "symbol": "ECILC.IS",
             "price": 97.9000015258789,
@@ -35,6 +17,41 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "TSKB.IS",
+            "price": 11.979999542236328,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1824324324324371,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 10.520000457763672,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 3.6453201970443274,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
@@ -140,34 +157,19 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "TSKB.IS",
-            "price": 11.979999542236328,
+            "symbol": "SRVGY.IS",
+            "price": 3.1500000953674316,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.1824324324324371,
+            "chg": 1.6129032258064457,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "TRCAS.IS",
-            "price": 40.29999923706055,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.4486540378863403,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         }
