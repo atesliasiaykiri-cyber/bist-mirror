@@ -1,14 +1,14 @@
 {
-    "updated": "2025-11-17T11:21:30+03:00",
+    "updated": "2025-11-17T11:22:32+03:00",
     "count": 10,
     "data": [
         {
-            "symbol": "KOZAA.IS",
-            "price": 98.5,
+            "symbol": "FENER.IS",
+            "price": 11.75,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.70366546205473,
-            "range15": 0.9761890921772665,
+            "chg": 5.00446827524576,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -19,14 +19,33 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T11:06:11+03:00"
+            "time": "2025-11-17T11:07:10+03:00"
+        },
+        {
+            "symbol": "KOZAA.IS",
+            "price": 98.3499984741211,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 1.5487867836861127,
+            "range15": 0.9047600017437379,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T11:07:12+03:00"
         },
         {
             "symbol": "BASGZ.IS",
-            "price": 43.41999816894531,
+            "price": 43.52000045776367,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.3809523809523854,
+            "chg": 3.6190476190476266,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -37,15 +56,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T11:06:02+03:00"
+            "time": "2025-11-17T11:06:59+03:00"
         },
         {
             "symbol": "GUBRF.IS",
-            "price": 322,
+            "price": 321.5,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.4661893396976926,
-            "range15": 1,
+            "chg": 2.307080350039777,
+            "range15": 0.9047619047619048,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -55,7 +74,25 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T11:06:09+03:00"
+            "time": "2025-11-17T11:07:11+03:00"
+        },
+        {
+            "symbol": "ECZYT.IS",
+            "price": 358.5,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 3.463203463203463,
+            "range15": 0.8947368421052632,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T11:07:17+03:00"
         },
         {
             "symbol": "AKSEN.IS",
@@ -72,7 +109,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:05:53+03:00"
+            "time": "2025-11-17T11:07:04+03:00"
         },
         {
             "symbol": "DOHOL.IS",
@@ -89,7 +126,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:06:04+03:00"
+            "time": "2025-11-17T11:07:06+03:00"
+        },
+        {
+            "symbol": "ODAS.IS",
+            "price": 5.400000095367432,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.0534351145038197,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T11:07:13+03:00"
         },
         {
             "symbol": "DERIM.IS",
@@ -106,14 +160,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:04:12+03:00"
+            "time": "2025-11-17T11:07:09+03:00"
         },
         {
-            "symbol": "ECZYT.IS",
-            "price": 359,
+            "symbol": "HATEK.IS",
+            "price": 21.399999618530273,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.6075036075036073,
+            "chg": 8.684611477907552,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -123,58 +177,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:06:10+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 83.19999694824219,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 5.785123966942145,
-            "range15": 0.9130382862409196,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T11:06:21+03:00"
-        },
-        {
-            "symbol": "IPEKE.IS",
-            "price": 75.6500015258789,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": 0.13236267372602056,
-            "range15": 0.9600036621096024,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T11:06:10+03:00"
-        },
-        {
-            "symbol": "KOZAL.IS",
-            "price": 33.939998626708984,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": 0.5331753554502361,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T11:06:12+03:00"
+            "time": "2025-11-17T11:07:21+03:00"
         }
     ]
 }
