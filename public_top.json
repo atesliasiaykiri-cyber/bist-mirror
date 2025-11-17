@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T16:48:33+03:00",
-    "count": 6,
+    "updated": "2025-11-17T16:49:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "ECILC.IS",
-            "price": 97.75,
+            "price": 97.80000305175781,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 7.182017543859646,
+            "chg": 7.236842105263151,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,31 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:32:00+03:00"
+            "time": "2025-11-17T16:33:59+03:00"
         },
         {
-            "symbol": "CWENE.IS",
-            "price": 24.520000457763672,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 4.340425531914891,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:33:21+03:00"
-        },
-        {
-            "symbol": "SMRTG.IS",
-            "price": 25.799999237060547,
+            "symbol": "OZKGY.IS",
+            "price": 15.039999961853027,
             "score": 70,
             "label": "Watchlist",
-            "chg": 2.5437201907790166,
+            "chg": 4.227304227304223,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,39 +33,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-11-17T16:33:07+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.550000190734863,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 4.597701149425292,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:32:21+03:00"
-        },
-        {
-            "symbol": "BASGZ.IS",
-            "price": 43.02000045776367,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.4285714285714364,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:33:03+03:00"
+            "time": "2025-11-17T16:34:22+03:00"
         },
         {
             "symbol": "CANTE.IS",
@@ -98,7 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:33:05+03:00"
+            "time": "2025-11-17T16:34:03+03:00"
+        },
+        {
+            "symbol": "SEKUR.IS",
+            "price": 14.970000267028809,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.6983695652173911,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:33:30+03:00"
         }
     ]
 }
