@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T18:28:35+03:00",
+    "updated": "2025-11-17T18:29:32+03:00",
     "count": 10,
     "data": [
         {
-            "symbol": "TSKB.IS",
-            "price": 11.979999542236328,
+            "symbol": "CEMTS.IS",
+            "price": 10.520000457763672,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.1824324324324371,
+            "chg": 3.6453201970443274,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -26,23 +26,6 @@
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 3.441295546558703,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 10.520000457763672,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.6453201970443274,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -91,6 +74,23 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "TSKB.IS",
+            "price": 11.979999542236328,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1824324324324371,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "TRCAS.IS",
             "price": 40.29999923706055,
             "score": 75,
@@ -124,40 +124,6 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 259.5,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.9646365422396856,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.46999979019165,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.054794520547942,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
             "symbol": "BRISA.IS",
             "price": 86.9000015258789,
             "score": 60,
@@ -170,6 +136,39 @@
                 "rp15",
                 "rp30",
                 "rp60"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 97.9000015258789,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 7.346491228070179,
+            "range15": 0,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "KARSN.IS",
+            "price": 9.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.2793176972281364,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         }
