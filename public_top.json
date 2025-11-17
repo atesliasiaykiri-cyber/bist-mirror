@@ -1,13 +1,31 @@
 {
-    "updated": "2025-11-17T16:40:36+03:00",
-    "count": 6,
+    "updated": "2025-11-17T16:41:32+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "BURCE.IS",
-            "price": 35.29999923706055,
+            "symbol": "KUYAS.IS",
+            "price": 35.86000061035156,
+            "score": 85,
+            "label": "Strong Short Zone",
+            "chg": -8.753180661577604,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T16:26:23+03:00"
+        },
+        {
+            "symbol": "LIDER.IS",
+            "price": 84.55000305175781,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 8.615384615384606,
+            "chg": 7.501589319771126,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,30 +35,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:24:40+03:00"
+            "time": "2025-11-17T16:26:16+03:00"
         },
         {
-            "symbol": "ECILC.IS",
-            "price": 97.6500015258789,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 7.0723684210526345,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:25:12+03:00"
-        },
-        {
-            "symbol": "CANTE.IS",
-            "price": 2.4000000953674316,
+            "symbol": "VAKBN.IS",
+            "price": 27.239999771118164,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.8403361344537823,
+            "chg": 0.9636767976278651,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,23 +51,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:25:06+03:00"
-        },
-        {
-            "symbol": "KRVGD.IS",
-            "price": 2.619999885559082,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.9682539682539715,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:24:06+03:00"
+            "time": "2025-11-17T16:26:19+03:00"
         },
         {
             "symbol": "CEMTS.IS",
@@ -80,22 +66,22 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-11-17T16:23:14+03:00"
+            "time": "2025-11-17T16:26:03+03:00"
         },
         {
-            "symbol": "LIDER.IS",
-            "price": 84.30000305175781,
+            "symbol": "ECILC.IS",
+            "price": 97.5999984741211,
             "score": 55,
             "label": "Watchlist",
-            "chg": 7.183725365543536,
-            "range15": 0.9166740841528955,
+            "chg": 7.017543859649113,
+            "range15": 0.8571335149857727,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-11-17T16:25:27+03:00"
+            "time": "2025-11-17T16:26:08+03:00"
         }
     ]
 }
