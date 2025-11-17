@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T17:32:36+03:00",
-    "count": 3,
+    "updated": "2025-11-17T17:33:34+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "CEMTS.IS",
-            "price": 10.460000038146973,
+            "symbol": "KRVGD.IS",
+            "price": 2.630000114440918,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.0541871921182313,
+            "chg": 4.36507936507936,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,14 +17,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:17:04+03:00"
+            "time": "2025-11-17T17:18:06+03:00"
         },
         {
-            "symbol": "MAVI.IS",
-            "price": 38.86000061035156,
+            "symbol": "CEMTS.IS",
+            "price": 10.449999809265137,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.9947506561679738,
+            "chg": 2.955665024630531,
+            "range15": 0.7499940395255749,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:17:54+03:00"
+        },
+        {
+            "symbol": "FENER.IS",
+            "price": 11.699999809265137,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.55764075067024,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,7 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:17:13+03:00"
+            "time": "2025-11-17T17:18:08+03:00"
+        },
+        {
+            "symbol": "SASA.IS",
+            "price": 2.9200000762939453,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.7421602787456383,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:18:14+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -41,7 +73,7 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 1.55929421419778,
-            "range15": 0.9166653421269755,
+            "range15": 0.8571389645758948,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
