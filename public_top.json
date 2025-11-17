@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:43:30+03:00",
+    "updated": "2025-11-17T18:44:34+03:00",
     "count": 10,
     "data": [
         {
@@ -26,6 +26,24 @@
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 3.6453201970443274,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 167.8000030517578,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.3170731707317143,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -108,18 +126,19 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "KCHOL.IS",
-            "price": 167.8000030517578,
+            "symbol": "GUBRF.IS",
+            "price": 328,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.3170731707317143,
+            "chg": 4.375497215592681,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
@@ -146,23 +165,6 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 1.9646365422396856,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "ULKER.IS",
-            "price": 114,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.3333333333333335,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
