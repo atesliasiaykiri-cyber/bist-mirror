@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T16:50:37+03:00",
-    "count": 7,
+    "updated": "2025-11-17T16:51:29+03:00",
+    "count": 9,
     "data": [
         {
             "symbol": "SMRTG.IS",
-            "price": 26.059999465942383,
-            "score": 90,
+            "price": 26.239999771118164,
+            "score": 100,
             "label": "Strong Short Zone",
-            "chg": 3.5771065182829833,
+            "chg": 4.29252782193958,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,9 +16,10 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-11-17T16:35:19+03:00"
+            "time": "2025-11-17T16:36:14+03:00"
         },
         {
             "symbol": "OBASE.IS",
@@ -36,30 +37,47 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T16:34:52+03:00"
+            "time": "2025-11-17T16:36:19+03:00"
         },
         {
-            "symbol": "OZKGY.IS",
-            "price": 15.039999961853027,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 4.227304227304223,
+            "symbol": "SKBNK.IS",
+            "price": 8.220000267028809,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.4814814814814938,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-11-17T16:35:09+03:00"
+            "time": "2025-11-17T16:36:13+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 36.36000061035156,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -7.480916030534345,
+            "range15": 0.9074086501952918,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:36:21+03:00"
         },
         {
             "symbol": "BASGZ.IS",
-            "price": 43.02000045776367,
+            "price": 43.099998474121094,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.4285714285714364,
+            "chg": 2.6190476190476226,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -68,30 +86,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:35:06+03:00"
+            "time": "2025-11-17T16:35:14+03:00"
         },
         {
-            "symbol": "ECILC.IS",
-            "price": 97.75,
+            "symbol": "CANTE.IS",
+            "price": 2.4000000953674316,
             "score": 60,
             "label": "Watchlist",
-            "chg": 7.182017543859646,
-            "range15": 0.8333248563140181,
+            "chg": 0.8403361344537823,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:35:09+03:00"
+            "time": "2025-11-17T16:36:04+03:00"
         },
         {
             "symbol": "KONTR.IS",
-            "price": 27.520000457763672,
+            "price": 27.600000381469727,
             "score": 60,
             "label": "Watchlist",
-            "chg": 3.69253956292389,
+            "chg": 3.9939713639789085,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -100,7 +118,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:35:12+03:00"
+            "time": "2025-11-17T16:36:07+03:00"
+        },
+        {
+            "symbol": "KORDS.IS",
+            "price": 51.650001525878906,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.9743336623889436,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:35:39+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -116,7 +150,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:33:30+03:00"
+            "time": "2025-11-17T16:35:48+03:00"
         }
     ]
 }
