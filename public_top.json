@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T16:32:29+03:00",
+    "updated": "2025-11-17T16:33:29+03:00",
     "count": 4,
     "data": [
         {
@@ -20,6 +20,38 @@
             "time": "2025-11-17T16:16:19+03:00"
         },
         {
+            "symbol": "TKFEN.IS",
+            "price": 73.5,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.012491325468429,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T16:18:14+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.550000190734863,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.597701149425292,
+            "range15": 0.6666719649071472,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:18:06+03:00"
+        },
+        {
             "symbol": "SANEL.IS",
             "price": 41.7599983215332,
             "score": 60,
@@ -34,36 +66,6 @@
                 "rp60"
             ],
             "time": "2025-11-17T16:17:21+03:00"
-        },
-        {
-            "symbol": "TKFEN.IS",
-            "price": 73.44999694824219,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.9430950728660732,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-11-17T16:16:56+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 84.30000305175781,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 7.183725365543536,
-            "range15": 0.9166740841528955,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-11-17T16:16:00+03:00"
         }
     ]
 }
