@@ -1,14 +1,33 @@
 {
-    "updated": "2025-11-17T10:50:35+03:00",
+    "updated": "2025-11-17T10:51:31+03:00",
     "count": 10,
     "data": [
         {
+            "symbol": "MAVI.IS",
+            "price": 39.060001373291016,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 2.519685039370081,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T10:36:24+03:00"
+        },
+        {
             "symbol": "EREGL.IS",
-            "price": 24.200000762939453,
+            "price": 24.219999313354492,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.2552301255230156,
-            "range15": 0.857152588555688,
+            "chg": 1.3389121338912147,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,7 +37,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:35:13+03:00"
+            "time": "2025-11-17T10:36:06+03:00"
         },
         {
             "symbol": "KRDMD.IS",
@@ -36,14 +55,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:35:17+03:00"
+            "time": "2025-11-17T10:36:13+03:00"
         },
         {
             "symbol": "PRKAB.IS",
-            "price": 38.540000915527344,
+            "price": 38.68000030517578,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 5.415754923413558,
+            "chg": 5.798687089715529,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -54,7 +73,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:35:17+03:00"
+            "time": "2025-11-17T10:36:14+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -72,15 +91,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:35:19+03:00"
+            "time": "2025-11-17T10:35:00+03:00"
         },
         {
             "symbol": "ECZYT.IS",
-            "price": 355.5,
+            "price": 355.25,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.5974025974025974,
-            "range15": 1,
+            "chg": 2.525252525252525,
+            "range15": 0.9285714285714286,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -90,25 +109,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:35:20+03:00"
-        },
-        {
-            "symbol": "MAVI.IS",
-            "price": 38.959999084472656,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.2572178477690272,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T10:35:29+03:00"
+            "time": "2025-11-17T10:36:21+03:00"
         },
         {
             "symbol": "DOAS.IS",
@@ -125,31 +126,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T10:35:10+03:00"
+            "time": "2025-11-17T10:36:05+03:00"
         },
         {
             "symbol": "ECILC.IS",
-            "price": 93.6500015258789,
+            "price": 93.69999694824219,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.686403508771933,
-            "range15": 0.9677447935383073,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T10:35:09+03:00"
-        },
-        {
-            "symbol": "HEKTS.IS",
-            "price": 3.2699999809265137,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.2383900928792582,
+            "chg": 2.7412280701754383,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -159,14 +143,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T10:35:12+03:00"
+            "time": "2025-11-17T10:36:08+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 46.20000076293945,
+            "symbol": "LIDER.IS",
+            "price": 81.25,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.9867549668874298,
+            "chg": 3.3057851239669347,
+            "range15": 0.9444411477978757,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T10:36:07+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.460000038146973,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.8264840182648419,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -176,7 +177,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T10:35:12+03:00"
+            "time": "2025-11-17T10:36:25+03:00"
         }
     ]
 }
