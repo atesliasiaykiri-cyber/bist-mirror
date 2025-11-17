@@ -1,14 +1,14 @@
 {
-    "updated": "2025-11-17T16:15:36+03:00",
-    "count": 10,
+    "updated": "2025-11-17T16:16:31+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "BIOEN.IS",
-            "price": 20.420000076293945,
+            "price": 20.399999618530273,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 3.340080971659919,
-            "range15": 1,
+            "chg": 3.2388663967611184,
+            "range15": 0.962962178046532,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:00:10+03:00"
+            "time": "2025-11-17T16:00:53+03:00"
         },
         {
             "symbol": "LIDER.IS",
@@ -37,7 +37,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T16:00:25+03:00"
+            "time": "2025-11-17T16:01:16+03:00"
         },
         {
             "symbol": "CEMTS.IS",
@@ -54,24 +54,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:59:39+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 97.75,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 7.182017543859646,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:00:05+03:00"
+            "time": "2025-11-17T16:00:00+03:00"
         },
         {
             "symbol": "ULKER.IS",
@@ -88,31 +71,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:00:18+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 26.920000076293945,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.6616314199395819,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:00:16+03:00"
+            "time": "2025-11-17T16:01:18+03:00"
         },
         {
             "symbol": "BURCE.IS",
-            "price": 35.15999984741211,
+            "price": 35.20000076293945,
             "score": 70,
             "label": "Watchlist",
-            "chg": 8.184615384615373,
+            "chg": 8.307692307692315,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -122,55 +88,22 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T15:59:03+03:00"
+            "time": "2025-11-17T16:01:01+03:00"
         },
         {
-            "symbol": "AKSEN.IS",
-            "price": 51.75,
-            "score": 60,
+            "symbol": "CWENE.IS",
+            "price": 24.5,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 2.6785714285714315,
+            "chg": 4.25531914893617,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
+                "rp15"
             ],
-            "time": "2025-11-17T15:59:00+03:00"
-        },
-        {
-            "symbol": "DOHOL.IS",
-            "price": 17.3799991607666,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.8757327080890993,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:59:59+03:00"
-        },
-        {
-            "symbol": "SEKUR.IS",
-            "price": 14.979999542236328,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.7663043478260854,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:59:46+03:00"
+            "time": "2025-11-17T16:01:20+03:00"
         }
     ]
 }
