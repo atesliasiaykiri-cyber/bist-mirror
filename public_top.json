@@ -1,23 +1,24 @@
 {
-    "updated": "2025-11-17T15:57:31+03:00",
-    "count": 5,
+    "updated": "2025-11-17T15:58:33+03:00",
+    "count": 4,
     "data": [
         {
-            "symbol": "SEKUR.IS",
-            "price": 14.979999542236328,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.7663043478260854,
-            "range15": 1,
+            "symbol": "PRKAB.IS",
+            "price": 40.20000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 9.956236323851204,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-11-17T15:42:18+03:00"
+            "time": "2025-11-17T15:42:48+03:00"
         },
         {
             "symbol": "DOAS.IS",
@@ -33,14 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:42:03+03:00"
+            "time": "2025-11-17T15:43:06+03:00"
         },
         {
-            "symbol": "DOHOL.IS",
-            "price": 17.3799991607666,
+            "symbol": "TKFEN.IS",
+            "price": 73.30000305175781,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.8757327080890993,
+            "chg": 1.7349063150589867,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,30 +50,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:41:25+03:00"
-        },
-        {
-            "symbol": "PRKAB.IS",
-            "price": 40.20000076293945,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 9.956236323851204,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:41:26+03:00"
+            "time": "2025-11-17T15:43:18+03:00"
         },
         {
             "symbol": "BURCE.IS",
-            "price": 35.08000183105469,
+            "price": 35.099998474121094,
             "score": 60,
             "label": "Watchlist",
-            "chg": 7.938461538461533,
+            "chg": 8.000000000000004,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -81,7 +66,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:40:34+03:00"
+            "time": "2025-11-17T15:43:10+03:00"
         }
     ]
 }
