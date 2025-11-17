@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:27:33+03:00",
+    "updated": "2025-11-17T18:28:35+03:00",
     "count": 10,
     "data": [
         {
@@ -91,6 +91,23 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "TRCAS.IS",
+            "price": 40.29999923706055,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.4486540378863403,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "KCHOL.IS",
             "price": 167.8000030517578,
             "score": 70,
@@ -124,35 +141,19 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "MGROS.IS",
-            "price": 504,
-            "score": 65,
+            "symbol": "SNICA.IS",
+            "price": 4.46999979019165,
+            "score": 70,
             "label": "Watchlist",
-            "chg": -0.591715976331361,
+            "chg": 2.054794520547942,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "TRCAS.IS",
-            "price": 40.29999923706055,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.4486540378863403,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
+                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
