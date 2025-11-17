@@ -1,40 +1,22 @@
 {
-    "updated": "2025-11-17T16:38:33+03:00",
-    "count": 5,
+    "updated": "2025-11-17T16:39:31+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "KUYAS.IS",
-            "price": 35.41999816894531,
-            "score": 85,
-            "label": "Strong Short Zone",
-            "chg": -9.872773536895664,
+            "symbol": "ECILC.IS",
+            "price": 97.6500015258789,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 7.0723684210526345,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T16:23:25+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.550000190734863,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.597701149425292,
-            "range15": 0.6666719649071472,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
                 "strongUpDay",
-                "rp30",
+                "rp15",
                 "rp60"
             ],
-            "time": "2025-11-17T16:23:08+03:00"
+            "time": "2025-11-17T16:24:07+03:00"
         },
         {
             "symbol": "KRVGD.IS",
@@ -50,7 +32,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:22:30+03:00"
+            "time": "2025-11-17T16:24:06+03:00"
         },
         {
             "symbol": "CEMTS.IS",
@@ -65,22 +47,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-11-17T16:22:49+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 97.5999984741211,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 7.017543859649113,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-11-17T16:23:04+03:00"
+            "time": "2025-11-17T16:23:14+03:00"
         }
     ]
 }
