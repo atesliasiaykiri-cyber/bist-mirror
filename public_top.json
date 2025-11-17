@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:25:35+03:00",
+    "updated": "2025-11-17T18:26:33+03:00",
     "count": 10,
     "data": [
         {
@@ -55,41 +55,6 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "CLEBI.IS",
-            "price": 1685,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 6.376262626262625,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 97.9000015258789,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 7.346491228070179,
-            "range15": 0.8571444141690417,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
             "symbol": "MAVI.IS",
             "price": 39.119998931884766,
             "score": 80,
@@ -104,6 +69,23 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1685,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 6.376262626262625,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
@@ -167,6 +149,22 @@
             "reasons": [
                 "strongUpDay",
                 "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 97.9000015258789,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 7.346491228070179,
+            "range15": 0.8000030517580115,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
                 "rp30",
                 "rp60"
             ],
