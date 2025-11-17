@@ -1,23 +1,24 @@
 {
-    "updated": "2025-11-17T16:37:32+03:00",
-    "count": 3,
+    "updated": "2025-11-17T16:38:33+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "BURCE.IS",
-            "price": 35.29999923706055,
-            "score": 80,
+            "symbol": "KUYAS.IS",
+            "price": 35.41999816894531,
+            "score": 85,
             "label": "Strong Short Zone",
-            "chg": 8.615384615384606,
+            "chg": -9.872773536895664,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-11-17T16:19:59+03:00"
+            "time": "2025-11-17T16:23:25+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -33,7 +34,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:21:07+03:00"
+            "time": "2025-11-17T16:23:08+03:00"
+        },
+        {
+            "symbol": "KRVGD.IS",
+            "price": 2.619999885559082,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.9682539682539715,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:22:30+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 10.430000305175781,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 2.758620689655166,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T16:22:49+03:00"
         },
         {
             "symbol": "ECILC.IS",
@@ -48,7 +80,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-11-17T16:22:08+03:00"
+            "time": "2025-11-17T16:23:04+03:00"
         }
     ]
 }
