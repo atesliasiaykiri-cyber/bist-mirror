@@ -1,14 +1,14 @@
 {
-    "updated": "2025-11-17T14:01:32+03:00",
+    "updated": "2025-11-17T14:02:33+03:00",
     "count": 10,
     "data": [
         {
             "symbol": "ISMEN.IS",
-            "price": 40.619998931884766,
+            "price": 40.599998474121094,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 2.1116138763197494,
-            "range15": 0.9374985098845259,
+            "chg": 2.061337355455003,
+            "range15": 0.8666632758169468,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -19,7 +19,26 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T13:46:09+03:00"
+            "time": "2025-11-17T13:47:03+03:00"
+        },
+        {
+            "symbol": "DERIM.IS",
+            "price": 36.720001220703125,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 2.2271714922048917,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T13:44:49+03:00"
         },
         {
             "symbol": "KONYA.IS",
@@ -41,66 +60,11 @@
             "time": "2025-11-17T13:43:02+03:00"
         },
         {
-            "symbol": "OBASE.IS",
-            "price": 37.619998931884766,
-            "score": 100,
-            "label": "Strong Short Zone",
-            "chg": 5.319148936170208,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T13:46:05+03:00"
-        },
-        {
-            "symbol": "BAGFS.IS",
-            "price": 29.31999969482422,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.5892232330300984,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T13:45:17+03:00"
-        },
-        {
-            "symbol": "KONTR.IS",
-            "price": 27.739999771118164,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 4.521477015825167,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T13:46:11+03:00"
-        },
-        {
             "symbol": "PRKAB.IS",
-            "price": 39.97999954223633,
+            "price": 40.119998931884766,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 9.354485776805237,
+            "chg": 9.737417943107207,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -111,15 +75,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T13:46:06+03:00"
+            "time": "2025-11-17T13:47:09+03:00"
         },
         {
             "symbol": "SAHOL.IS",
-            "price": 76,
+            "price": 75.94999694824219,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.0638297872340388,
-            "range15": 1,
+            "chg": 0.9973404255319148,
+            "range15": 0.8571335149858076,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -129,15 +93,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T13:46:13+03:00"
+            "time": "2025-11-17T13:47:15+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 256.75,
+            "symbol": "SOKM.IS",
+            "price": 45.91999816894531,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 0.8840864440078585,
-            "range15": 0.9,
+            "chg": 1.3686534216335642,
+            "range15": 0.9166640175465646,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -147,7 +111,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T13:46:16+03:00"
+            "time": "2025-11-17T13:47:08+03:00"
         },
         {
             "symbol": "TOASO.IS",
@@ -165,14 +129,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T13:46:12+03:00"
+            "time": "2025-11-17T13:47:17+03:00"
         },
         {
-            "symbol": "DERIM.IS",
-            "price": 36.720001220703125,
+            "symbol": "IZMDC.IS",
+            "price": 6.150000095367432,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.2271714922048917,
+            "chg": 2.500000000000006,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -183,7 +147,41 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T13:44:49+03:00"
+            "time": "2025-11-17T13:46:55+03:00"
+        },
+        {
+            "symbol": "ALBRK.IS",
+            "price": 7.570000171661377,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.933333333333337,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T13:47:06+03:00"
+        },
+        {
+            "symbol": "BERA.IS",
+            "price": 17.43000030517578,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 5.57238037552997,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T13:46:57+03:00"
         }
     ]
 }
