@@ -1,7 +1,25 @@
 {
-    "updated": "2025-11-17T16:24:34+03:00",
-    "count": 1,
+    "updated": "2025-11-17T16:25:35+03:00",
+    "count": 2,
     "data": [
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.550000190734863,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 4.597701149425292,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T16:10:10+03:00"
+        },
         {
             "symbol": "BURCE.IS",
             "price": 35.279998779296875,
@@ -17,7 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:09:19+03:00"
+            "time": "2025-11-17T16:09:46+03:00"
         }
     ]
 }
