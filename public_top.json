@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T17:08:34+03:00",
-    "count": 1,
+    "updated": "2025-11-17T17:09:32+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 46.540000915527344,
+            "price": 47,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 6.158759124087581,
+            "chg": 7.2080291970802834,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,39 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:53:10+03:00"
+            "time": "2025-11-17T16:54:09+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 7.409999847412109,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.34806629834254,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:54:21+03:00"
+        },
+        {
+            "symbol": "SEKUR.IS",
+            "price": 14.960000038146973,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.630434782608697,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:53:50+03:00"
         }
     ]
 }
