@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T17:02:35+03:00",
-    "count": 10,
+    "updated": "2025-11-17T17:03:32+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 46.060001373291016,
+            "price": 46.18000030517578,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 5.063868613138683,
+            "chg": 5.337591240875904,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:47:12+03:00"
+            "time": "2025-11-17T16:48:07+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -36,128 +36,12 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:47:01+03:00"
-        },
-        {
-            "symbol": "KRVGD.IS",
-            "price": 2.630000114440918,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 4.36507936507936,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:47:19+03:00"
-        },
-        {
-            "symbol": "ASELS.IS",
-            "price": 188.39999389648438,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 7.045454545454549,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T16:47:07+03:00"
-        },
-        {
-            "symbol": "KCHOL.IS",
-            "price": 167.5,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.1341463414634148,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-11-17T16:47:10+03:00"
-        },
-        {
-            "symbol": "KOZAL.IS",
-            "price": 35.79999923706055,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 6.042654028436017,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T16:47:14+03:00"
-        },
-        {
-            "symbol": "NTHOL.IS",
-            "price": 49.52000045776367,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.6003282724661492,
-            "range15": 0.9285704554457372,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T16:45:12+03:00"
-        },
-        {
-            "symbol": "ARCLK.IS",
-            "price": 106.30000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.0153550863723555,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:47:03+03:00"
-        },
-        {
-            "symbol": "DERIM.IS",
-            "price": 36.560001373291016,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.7817371937639215,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:46:54+03:00"
+            "time": "2025-11-17T16:47:49+03:00"
         },
         {
             "symbol": "GSDDE.IS",
             "price": 9.729999542236328,
-            "score": 60,
+            "score": 70,
             "label": "Watchlist",
             "chg": 2.854122621564477,
             "range15": 1,
@@ -166,9 +50,74 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-11-17T16:41:29+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.4000000953674316,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.8403361344537823,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:48:07+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 49.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.55929421419778,
+            "range15": 0.8571409108879219,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:48:01+03:00"
+        },
+        {
+            "symbol": "SEKUR.IS",
+            "price": 14.960000038146973,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.630434782608697,
+            "range15": 0.9499988079051074,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:48:22+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.480000019073486,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.2831050228310628,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:46:47+03:00"
         }
     ]
 }
