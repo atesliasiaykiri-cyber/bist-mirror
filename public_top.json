@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:29:32+03:00",
+    "updated": "2025-11-17T18:30:42+03:00",
     "count": 10,
     "data": [
         {
@@ -124,6 +124,23 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "TAVHL.IS",
+            "price": 259.5,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.9646365422396856,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "BRISA.IS",
             "price": 86.9000015258789,
             "score": 60,
@@ -152,23 +169,6 @@
                 "strongUpDay",
                 "rp30",
                 "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "KARSN.IS",
-            "price": 9.5,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.2793176972281364,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         }
