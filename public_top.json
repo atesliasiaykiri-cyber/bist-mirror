@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T16:22:35+03:00",
+    "updated": "2025-11-17T16:23:31+03:00",
     "count": 8,
     "data": [
         {
@@ -19,14 +19,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:06:14+03:00"
+            "time": "2025-11-17T16:06:00+03:00"
         },
         {
-            "symbol": "CEMTS.IS",
-            "price": 10.4399995803833,
+            "symbol": "DOAS.IS",
+            "price": 185.8000030517578,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.8571428571428488,
+            "chg": 3.0504714364947305,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -36,7 +36,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:06:53+03:00"
+            "time": "2025-11-17T16:08:06+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -53,14 +53,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:07:09+03:00"
+            "time": "2025-11-17T16:07:44+03:00"
         },
         {
-            "symbol": "KCHOL.IS",
-            "price": 167.60000610351562,
+            "symbol": "ULKER.IS",
+            "price": 115.0999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.195121951219509,
+            "chg": 2.311111111111106,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -70,7 +70,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:07:11+03:00"
+            "time": "2025-11-17T16:08:15+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -90,51 +90,53 @@
             "time": "2025-11-17T16:06:02+03:00"
         },
         {
-            "symbol": "VERUS.IS",
-            "price": 206.39999389648438,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6829268292682955,
+            "symbol": "ZOREN.IS",
+            "price": 3.3299999237060547,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.4161490683229774,
             "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:07:15+03:00"
-        },
-        {
-            "symbol": "DOAS.IS",
-            "price": 185.5,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.8840820854131937,
-            "range15": 0.749990463468271,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:07:03+03:00"
+            "time": "2025-11-17T16:08:24+03:00"
         },
         {
-            "symbol": "PGSUS.IS",
-            "price": 204.8000030517578,
-            "score": 55,
+            "symbol": "DOHOL.IS",
+            "price": 17.3799991607666,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.3921568627451036,
+            "chg": 1.8757327080890993,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
+                "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-11-17T16:07:15+03:00"
+            "time": "2025-11-17T16:08:06+03:00"
+        },
+        {
+            "symbol": "FENER.IS",
+            "price": 11.699999809265137,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.55764075067024,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:08:09+03:00"
         }
     ]
 }
