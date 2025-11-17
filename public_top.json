@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T17:01:32+03:00",
-    "count": 6,
+    "updated": "2025-11-17T17:02:35+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 45.720001220703125,
+            "price": 46.060001373291016,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 4.2883211678832005,
+            "chg": 5.063868613138683,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:46:09+03:00"
+            "time": "2025-11-17T16:47:12+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -36,14 +36,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:46:08+03:00"
+            "time": "2025-11-17T16:47:01+03:00"
         },
         {
-            "symbol": "KOZAL.IS",
-            "price": 35.779998779296875,
+            "symbol": "KRVGD.IS",
+            "price": 2.630000114440918,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.36507936507936,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:47:19+03:00"
+        },
+        {
+            "symbol": "ASELS.IS",
+            "price": 188.39999389648438,
             "score": 70,
             "label": "Watchlist",
-            "chg": 5.983412322274892,
+            "chg": 7.045454545454549,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,7 +70,40 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T16:46:12+03:00"
+            "time": "2025-11-17T16:47:07+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 167.5,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.1341463414634148,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T16:47:10+03:00"
+        },
+        {
+            "symbol": "KOZAL.IS",
+            "price": 35.79999923706055,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 6.042654028436017,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T16:47:14+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -73,12 +123,12 @@
             "time": "2025-11-17T16:45:12+03:00"
         },
         {
-            "symbol": "ASELS.IS",
-            "price": 187.89999389648438,
+            "symbol": "ARCLK.IS",
+            "price": 106.30000305175781,
             "score": 60,
             "label": "Watchlist",
-            "chg": 6.761363636363639,
-            "range15": 0.8571335149796766,
+            "chg": 2.0153550863723555,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -86,7 +136,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:45:00+03:00"
+            "time": "2025-11-17T16:47:03+03:00"
+        },
+        {
+            "symbol": "DERIM.IS",
+            "price": 36.560001373291016,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.7817371937639215,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:46:54+03:00"
         },
         {
             "symbol": "GSDDE.IS",
