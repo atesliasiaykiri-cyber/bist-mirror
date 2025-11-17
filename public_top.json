@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T16:51:29+03:00",
-    "count": 9,
+    "updated": "2025-11-17T16:52:34+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "SMRTG.IS",
-            "price": 26.239999771118164,
+            "price": 26.540000915527344,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 4.29252782193958,
+            "chg": 5.484896661367246,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,33 +19,32 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:36:14+03:00"
+            "time": "2025-11-17T16:37:17+03:00"
         },
         {
-            "symbol": "OBASE.IS",
-            "price": 37.599998474121094,
-            "score": 90,
+            "symbol": "BIOEN.IS",
+            "price": 20.420000076293945,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 5.26315789473685,
-            "range15": 1,
+            "chg": 3.340080971659919,
+            "range15": 0.9090893327773322,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-11-17T16:36:19+03:00"
+            "time": "2025-11-17T16:36:59+03:00"
         },
         {
             "symbol": "SKBNK.IS",
-            "price": 8.220000267028809,
+            "price": 8.210000038146973,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.4814814814814938,
-            "range15": 1,
+            "chg": 1.3580246913580396,
+            "range15": 0.8888865341418883,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -54,15 +53,49 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:36:13+03:00"
+            "time": "2025-11-17T16:37:17+03:00"
+        },
+        {
+            "symbol": "VAKBN.IS",
+            "price": 27.280000686645508,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1119347664937016,
+            "range15": 0.9090972143957128,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:36:57+03:00"
+        },
+        {
+            "symbol": "OBASE.IS",
+            "price": 37.540000915527344,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 5.095184770436731,
+            "range15": 0.863641486695641,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:37:02+03:00"
         },
         {
             "symbol": "KUYAS.IS",
-            "price": 36.36000061035156,
+            "price": 36.41999816894531,
             "score": 65,
             "label": "Watchlist",
-            "chg": -7.480916030534345,
-            "range15": 0.9074086501952918,
+            "chg": -7.328244274809149,
+            "range15": 0.9629620472240404,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -70,14 +103,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:36:21+03:00"
+            "time": "2025-11-17T16:37:24+03:00"
         },
         {
             "symbol": "BASGZ.IS",
-            "price": 43.099998474121094,
+            "price": 43.13999938964844,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.6190476190476226,
+            "chg": 2.7142857142857157,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -86,7 +119,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:35:14+03:00"
+            "time": "2025-11-17T16:36:41+03:00"
         },
         {
             "symbol": "CANTE.IS",
@@ -102,7 +135,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:36:04+03:00"
+            "time": "2025-11-17T16:37:04+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 97.75,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 7.182017543859646,
+            "range15": 0.8333248563140181,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:37:06+03:00"
         },
         {
             "symbol": "KONTR.IS",
@@ -118,39 +167,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:36:07+03:00"
-        },
-        {
-            "symbol": "KORDS.IS",
-            "price": 51.650001525878906,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.9743336623889436,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:35:39+03:00"
-        },
-        {
-            "symbol": "SEKUR.IS",
-            "price": 14.970000267028809,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.6983695652173911,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:35:48+03:00"
+            "time": "2025-11-17T16:37:13+03:00"
         }
     ]
 }
