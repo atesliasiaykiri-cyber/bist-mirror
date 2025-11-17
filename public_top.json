@@ -1,24 +1,7 @@
 {
-    "updated": "2025-11-17T16:35:35+03:00",
-    "count": 3,
+    "updated": "2025-11-17T16:36:33+03:00",
+    "count": 2,
     "data": [
-        {
-            "symbol": "TKFEN.IS",
-            "price": 73.75,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.359472588480226,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:20:06+03:00"
-        },
         {
             "symbol": "BURCE.IS",
             "price": 35.29999923706055,
@@ -37,19 +20,20 @@
             "time": "2025-11-17T16:19:59+03:00"
         },
         {
-            "symbol": "ECILC.IS",
-            "price": 97.55000305175781,
-            "score": 55,
+            "symbol": "GSDHO.IS",
+            "price": 4.550000190734863,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 6.962719298245608,
-            "range15": 1,
+            "chg": 4.597701149425292,
+            "range15": 0.6666719649071472,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-11-17T16:20:10+03:00"
+            "time": "2025-11-17T16:21:07+03:00"
         }
     ]
 }
