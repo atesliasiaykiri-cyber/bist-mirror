@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:34:33+03:00",
+    "updated": "2025-11-17T18:35:35+03:00",
     "count": 10,
     "data": [
         {
@@ -106,6 +106,23 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "ALBRK.IS",
+            "price": 7.539999961853027,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.5333333333333339,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "ISCTR.IS",
             "price": 12.239999771118164,
             "score": 65,
@@ -123,45 +140,28 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "KARSN.IS",
+            "price": 9.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.2793176972281364,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "HATEK.IS",
             "price": 20.780000686645508,
             "score": 60,
             "label": "Watchlist",
             "chg": 5.535804977145759,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "MAVI.IS",
-            "price": 39.119998931884766,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.677165354330698,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.46999979019165,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.054794520547942,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
