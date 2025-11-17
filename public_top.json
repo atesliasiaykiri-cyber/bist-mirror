@@ -1,6 +1,6 @@
 {
-    "updated": "2025-11-17T16:30:42+03:00",
-    "count": 4,
+    "updated": "2025-11-17T16:31:32+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "BURCE.IS",
@@ -17,56 +17,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:14:15+03:00"
+            "time": "2025-11-17T16:16:19+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.550000190734863,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.597701149425292,
+            "range15": 0.7500059604719216,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:16:03+03:00"
         },
         {
             "symbol": "LIDER.IS",
-            "price": 84.3499984741211,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 7.247298156389051,
-            "range15": 0.9230724086525925,
+            "price": 84.30000305175781,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 7.183725365543536,
+            "range15": 0.9166740841528955,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
+                "rp15"
             ],
-            "time": "2025-11-17T16:15:29+03:00"
-        },
-        {
-            "symbol": "VERUS.IS",
-            "price": 206.60000610351562,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.780487804878046,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:15:27+03:00"
-        },
-        {
-            "symbol": "OBASE.IS",
-            "price": 37.220001220703125,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.1993281075028,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T16:14:54+03:00"
+            "time": "2025-11-17T16:16:08+03:00"
         }
     ]
 }
