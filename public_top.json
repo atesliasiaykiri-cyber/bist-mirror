@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T15:53:31+03:00",
+    "updated": "2025-11-17T15:54:33+03:00",
     "count": 6,
     "data": [
         {
-            "symbol": "SNICA.IS",
-            "price": 4.489999771118164,
+            "symbol": "AGHOL.IS",
+            "price": 26.920000076293945,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.5114155251141628,
+            "chg": 1.6616314199395819,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:38:14+03:00"
+            "time": "2025-11-17T15:39:18+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -34,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:37:22+03:00"
+            "time": "2025-11-17T15:39:18+03:00"
         },
         {
             "symbol": "PRKAB.IS",
@@ -50,7 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:35:08+03:00"
+            "time": "2025-11-17T15:39:04+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -69,6 +69,22 @@
             "time": "2025-11-17T15:35:41+03:00"
         },
         {
+            "symbol": "OZKGY.IS",
+            "price": 15.069999694824219,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.435204435204439,
+            "range15": 0.6666560701834752,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:38:44+03:00"
+        },
+        {
             "symbol": "SEKUR.IS",
             "price": 14.979999542236328,
             "score": 60,
@@ -83,21 +99,6 @@
                 "rp60"
             ],
             "time": "2025-11-17T15:38:19+03:00"
-        },
-        {
-            "symbol": "GSDDE.IS",
-            "price": 9.739999771118164,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 2.959830866807604,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-11-17T15:38:16+03:00"
         }
     ]
 }
