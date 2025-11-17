@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:15:36+03:00",
+    "updated": "2025-11-17T18:16:34+03:00",
     "count": 10,
     "data": [
         {
@@ -34,6 +34,22 @@
                 "rp15",
                 "rp30",
                 "rp60"
+            ],
+            "time": "2025-11-17T17:58:00+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 10.5,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 3.349753694581279,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
             ],
             "time": "2025-11-17T17:58:00+03:00"
         },
@@ -150,22 +166,6 @@
                 "rp60"
             ],
             "time": "2025-11-17T17:57:00+03:00"
-        },
-        {
-            "symbol": "GLYHO.IS",
-            "price": 11.460000038146973,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.5957446808510771,
-            "range15": 0.6666666666666272,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T17:58:00+03:00"
         }
     ]
 }
