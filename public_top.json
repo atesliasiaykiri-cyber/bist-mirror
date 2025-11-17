@@ -1,25 +1,7 @@
 {
-    "updated": "2025-11-17T15:27:31+03:00",
+    "updated": "2025-11-17T15:28:33+03:00",
     "count": 10,
     "data": [
-        {
-            "symbol": "GUBRF.IS",
-            "price": 333,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 5.966587112171838,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T15:12:05+03:00"
-        },
         {
             "symbol": "OTKAR.IS",
             "price": 469.25,
@@ -36,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T15:12:09+03:00"
+            "time": "2025-11-17T15:12:00+03:00"
         },
         {
-            "symbol": "TUPRS.IS",
-            "price": 204,
+            "symbol": "TAVHL.IS",
+            "price": 260.75,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.409638554216873,
+            "chg": 2.455795677799607,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -54,14 +36,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T15:12:18+03:00"
+            "time": "2025-11-17T15:12:57+03:00"
         },
         {
             "symbol": "CEMTS.IS",
-            "price": 10.430000305175781,
+            "price": 10.4399995803833,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.758620689655166,
+            "chg": 2.8571428571428488,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -71,14 +53,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:11:30+03:00"
+            "time": "2025-11-17T15:13:07+03:00"
         },
         {
             "symbol": "GESAN.IS",
-            "price": 45.08000183105469,
+            "price": 45.060001373291016,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.82846715328466,
+            "chg": 2.7828467153284646,
+            "range15": 0.8888865341398028,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:12:31+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 333,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 5.966587112171838,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -88,14 +87,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:12:05+03:00"
+            "time": "2025-11-17T15:13:03+03:00"
         },
         {
             "symbol": "HEKTS.IS",
             "price": 3.309999942779541,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.4767801857585163,
+            "chg": 2.167182662538695,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -105,7 +104,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:11:00+03:00"
+            "time": "2025-11-17T15:12:00+03:00"
         },
         {
             "symbol": "ODAS.IS",
@@ -125,40 +124,6 @@
             "time": "2025-11-17T15:11:57+03:00"
         },
         {
-            "symbol": "PRKAB.IS",
-            "price": 40.20000076293945,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 9.956236323851204,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:12:13+03:00"
-        },
-        {
-            "symbol": "SAHOL.IS",
-            "price": 76.69999694824219,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.9946808510638296,
-            "range15": 0.8749928474694809,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:12:14+03:00"
-        },
-        {
             "symbol": "SASA.IS",
             "price": 2.940000057220459,
             "score": 80,
@@ -173,7 +138,41 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:12:11+03:00"
+            "time": "2025-11-17T15:13:13+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 46.20000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.9867549668874298,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:12:50+03:00"
+        },
+        {
+            "symbol": "KRVGD.IS",
+            "price": 2.630000114440918,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.36507936507936,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:12:47+03:00"
         }
     ]
 }
