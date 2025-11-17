@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T16:03:32+03:00",
-    "count": 5,
+    "updated": "2025-11-17T16:04:33+03:00",
+    "count": 9,
     "data": [
         {
-            "symbol": "ODAS.IS",
-            "price": 5.480000019073486,
+            "symbol": "DOAS.IS",
+            "price": 185.1999969482422,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 4.580152671755729,
+            "chg": 2.717692734331657,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:48:06+03:00"
+            "time": "2025-11-17T15:49:07+03:00"
         },
         {
-            "symbol": "AGHOL.IS",
-            "price": 26.920000076293945,
+            "symbol": "KCHOL.IS",
+            "price": 167.60000610351562,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.6616314199395819,
+            "chg": 2.195121951219509,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,7 +34,41 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:48:18+03:00"
+            "time": "2025-11-17T15:49:06+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 24.520000457763672,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.9387069689336665,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:49:11+03:00"
+        },
+        {
+            "symbol": "LIDER.IS",
+            "price": 83.4000015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 6.039415130324221,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:49:15+03:00"
         },
         {
             "symbol": "AKSEN.IS",
@@ -50,7 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:47:58+03:00"
+            "time": "2025-11-17T15:48:51+03:00"
         },
         {
             "symbol": "DOHOL.IS",
@@ -66,7 +100,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:48:07+03:00"
+            "time": "2025-11-17T15:49:04+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -74,7 +108,7 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 8.000000000000004,
-            "range15": 0.7999923704855983,
+            "range15": 0.49995231281870034,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -84,6 +118,36 @@
                 "rsiExtreme"
             ],
             "time": "2025-11-17T15:47:59+03:00"
+        },
+        {
+            "symbol": "TOASO.IS",
+            "price": 236.10000610351562,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.548387096774191,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T15:49:13+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 24.5,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 4.25531914893617,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T15:49:14+03:00"
         }
     ]
 }
