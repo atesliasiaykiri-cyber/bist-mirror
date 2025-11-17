@@ -1,31 +1,13 @@
 {
-    "updated": "2025-11-17T17:46:33+03:00",
+    "updated": "2025-11-17T17:47:33+03:00",
     "count": 8,
     "data": [
         {
-            "symbol": "CEMTS.IS",
-            "price": 10.520000457763672,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 3.6453201970443274,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T17:31:04+03:00"
-        },
-        {
             "symbol": "KUYAS.IS",
-            "price": 42.099998474121094,
+            "price": 42.29999923706055,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 7.1246819338422505,
+            "chg": 7.633587786259542,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -36,15 +18,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T17:31:25+03:00"
+            "time": "2025-11-17T17:32:24+03:00"
         },
         {
-            "symbol": "GSDHO.IS",
-            "price": 4.579999923706055,
+            "symbol": "KRVGD.IS",
+            "price": 2.630000114440918,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 5.28735632183909,
-            "range15": 0.8749970197654339,
+            "chg": 4.36507936507936,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -53,7 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:31:08+03:00"
+            "time": "2025-11-17T17:31:39+03:00"
         },
         {
             "symbol": "ECILC.IS",
@@ -69,14 +51,30 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-11-17T17:31:07+03:00"
+            "time": "2025-11-17T17:31:56+03:00"
+        },
+        {
+            "symbol": "VESTL.IS",
+            "price": 30.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.0749665327978613,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:32:20+03:00"
         },
         {
             "symbol": "BSOKE.IS",
-            "price": 15.350000381469727,
+            "price": 15.359999656677246,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.2651565622918044,
+            "chg": 2.3317788141239153,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -85,14 +83,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:31:19+03:00"
+            "time": "2025-11-17T17:32:10+03:00"
         },
         {
             "symbol": "HATEK.IS",
-            "price": 20.559999465942383,
+            "price": 20.579999923706055,
             "score": 60,
             "label": "Watchlist",
-            "chg": 4.418486541391556,
+            "chg": 4.520060944641935,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -101,14 +99,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:31:21+03:00"
+            "time": "2025-11-17T17:32:21+03:00"
         },
         {
             "symbol": "MAVI.IS",
-            "price": 38.86000061035156,
+            "price": 38.900001525878906,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.9947506561679738,
+            "chg": 2.0997375328083914,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -117,14 +115,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:31:22+03:00"
+            "time": "2025-11-17T17:32:26+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 96.94999694824219,
+            "price": 97,
             "score": 60,
             "label": "Watchlist",
-            "chg": 4.247311827956992,
+            "chg": 4.301075268817205,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -133,7 +131,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:30:30+03:00"
+            "time": "2025-11-17T17:31:00+03:00"
         }
     ]
 }
