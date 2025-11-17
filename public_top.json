@@ -1,31 +1,30 @@
 {
-    "updated": "2025-11-17T16:43:31+03:00",
-    "count": 4,
+    "updated": "2025-11-17T16:44:33+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "KUYAS.IS",
-            "price": 36.34000015258789,
-            "score": 85,
+            "symbol": "BIOEN.IS",
+            "price": 20.420000076293945,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": -7.531806615776065,
-            "range15": 1,
+            "chg": 3.340080971659919,
+            "range15": 0.9230752301642032,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp60"
             ],
-            "time": "2025-11-17T16:28:24+03:00"
+            "time": "2025-11-17T16:29:02+03:00"
         },
         {
-            "symbol": "BIOEN.IS",
-            "price": 20.440000534057617,
+            "symbol": "VAKBN.IS",
+            "price": 27.260000228881836,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.441295546558703,
+            "chg": 1.03780578206079,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:28:01+03:00"
+            "time": "2025-11-17T16:29:20+03:00"
         },
         {
             "symbol": "KRVGD.IS",
@@ -55,12 +54,29 @@
             "time": "2025-11-17T16:28:13+03:00"
         },
         {
-            "symbol": "VAKBN.IS",
-            "price": 27.219999313354492,
+            "symbol": "KUYAS.IS",
+            "price": 36.279998779296875,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": -7.684478371501263,
+            "range15": 0.9374985098825039,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T16:29:25+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.4000000953674316,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.8895478131949535,
-            "range15": 0.888886534139783,
+            "chg": 0.8403361344537823,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -68,7 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:28:14+03:00"
+            "time": "2025-11-17T16:29:06+03:00"
         }
     ]
 }
