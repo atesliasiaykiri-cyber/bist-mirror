@@ -1,6 +1,6 @@
 {
-    "updated": "2025-11-17T11:15:38+03:00",
-    "count": 4,
+    "updated": "2025-11-17T11:16:32+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "BURCE.IS",
@@ -18,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T11:00:27+03:00"
+            "time": "2025-11-17T11:00:35+03:00"
         },
         {
             "symbol": "ECZYT.IS",
-            "price": 357,
+            "price": 357.75,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.0303030303030303,
+            "chg": 3.2467532467532463,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,39 +35,90 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:00:26+03:00"
+            "time": "2025-11-17T11:01:15+03:00"
         },
         {
-            "symbol": "YEOTK.IS",
-            "price": 37.900001525878906,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.8925438596491277,
-            "range15": 0.5714441416893152,
+            "symbol": "LIDER.IS",
+            "price": 82.9000015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 5.40368722186904,
+            "range15": 0.9375053644490585,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:00:33+03:00"
+            "time": "2025-11-17T11:01:23+03:00"
         },
         {
-            "symbol": "KOZAA.IS",
-            "price": 97.1500015258789,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.30975735673723426,
+            "symbol": "PENTA.IS",
+            "price": 14.180000305175781,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.75362318840579,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T11:01:04+03:00"
+        },
+        {
+            "symbol": "KOZAA.IS",
+            "price": 97.44999694824219,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.6195147134744539,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
                 "rp15",
                 "rp30",
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T11:00:17+03:00"
+            "time": "2025-11-17T11:01:13+03:00"
+        },
+        {
+            "symbol": "SEKUR.IS",
+            "price": 14.720000267028809,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0,
+            "range15": 0.9444482709320009,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T11:00:44+03:00"
+        },
+        {
+            "symbol": "YEOTK.IS",
+            "price": 37.91999816894531,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.947368421052645,
+            "range15": 0.7142779291517897,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T11:01:22+03:00"
         }
     ]
 }
