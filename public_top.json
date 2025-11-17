@@ -1,73 +1,22 @@
 {
-    "updated": "2025-11-17T18:35:35+03:00",
+    "updated": "2025-11-17T18:36:34+03:00",
     "count": 10,
     "data": [
-        {
-            "symbol": "BIOEN.IS",
-            "price": 20.440000534057617,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.441295546558703,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
         {
             "symbol": "CEMTS.IS",
             "price": 10.520000457763672,
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 3.6453201970443274,
-            "range15": 1,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "CLEBI.IS",
-            "price": 1685,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 6.376262626262625,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
                 "rp30",
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "BRISA.IS",
-            "price": 86.9000015258789,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.2230634828188833,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
@@ -106,32 +55,31 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "ALBRK.IS",
-            "price": 7.539999961853027,
-            "score": 65,
+            "symbol": "BIOEN.IS",
+            "price": 20.440000534057617,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.5333333333333339,
-            "range15": 1,
+            "chg": 3.441295546558703,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
-                "rp15",
+                "dayHighClose",
+                "strongUpDay",
                 "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp60"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "ISCTR.IS",
-            "price": 12.239999771118164,
-            "score": 65,
+            "symbol": "CLEBI.IS",
+            "price": 1685,
+            "score": 60,
             "label": "Watchlist",
-            "chg": -0.6493506493506499,
-            "range15": 1,
+            "chg": 6.376262626262625,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
-                "rp15",
+                "strongUpDay",
                 "rp30",
                 "rp60",
                 "rsiOB",
@@ -157,11 +105,11 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "HATEK.IS",
-            "price": 20.780000686645508,
+            "symbol": "MAVI.IS",
+            "price": 39.119998931884766,
             "score": 60,
             "label": "Watchlist",
-            "chg": 5.535804977145759,
+            "chg": 2.677165354330698,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -170,6 +118,56 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "OZKGY.IS",
+            "price": 14.880000114440918,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.118503118503126,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.46999979019165,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.054794520547942,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
+            "symbol": "TRCAS.IS",
+            "price": 40.29999923706055,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.4486540378863403,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         }
