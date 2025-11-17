@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T10:39:39+03:00",
+    "updated": "2025-11-17T10:40:36+03:00",
     "count": 10,
     "data": [
         {
-            "symbol": "ENKAI.IS",
-            "price": 75.19999694824219,
+            "symbol": "CLEBI.IS",
+            "price": 1634,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.6216216216216255,
+            "chg": 3.1565656565656566,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,14 +19,33 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T10:24:12+03:00"
+            "time": "2025-11-17T10:25:10+03:00"
+        },
+        {
+            "symbol": "ENKAI.IS",
+            "price": 75.25,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 1.6891891891891893,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T10:25:13+03:00"
         },
         {
             "symbol": "ODAS.IS",
-            "price": 5.369999885559082,
+            "price": 5.380000114440918,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 2.480916030534349,
+            "chg": 2.6717557251908333,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -38,14 +57,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T10:24:18+03:00"
+            "time": "2025-11-17T10:25:12+03:00"
         },
         {
             "symbol": "VESTL.IS",
-            "price": 30.459999084472656,
+            "price": 30.479999542236328,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.9410977242302605,
+            "chg": 2.008032128514061,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -57,15 +76,15 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T10:24:23+03:00"
+            "time": "2025-11-17T10:25:24+03:00"
         },
         {
             "symbol": "OZKGY.IS",
-            "price": 14.949999809265137,
+            "price": 14.930000305175781,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 3.603603603603601,
-            "range15": 0.9545444693452066,
+            "chg": 3.465003465003465,
+            "range15": 0.8636377429167155,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -76,7 +95,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T10:24:19+03:00"
+            "time": "2025-11-17T10:25:26+03:00"
         },
         {
             "symbol": "PENTA.IS",
@@ -99,11 +118,11 @@
         },
         {
             "symbol": "AKBNK.IS",
-            "price": 59.150001525878906,
+            "price": 59.099998474121094,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.4579759862778756,
-            "range15": 1,
+            "chg": 1.3722126929674174,
+            "range15": 0.928567146772834,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -113,51 +132,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:24:02+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 10.329999923706055,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 1.773399014778322,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T10:24:12+03:00"
-        },
-        {
-            "symbol": "CLEBI.IS",
-            "price": 1626,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.6515151515151514,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T10:24:14+03:00"
+            "time": "2025-11-17T10:25:08+03:00"
         },
         {
             "symbol": "DOHOL.IS",
-            "price": 17.540000915527344,
+            "price": 17.549999237060547,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.8135990621336484,
-            "range15": 0.9411863703124983,
+            "chg": 2.872215709261442,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -167,7 +150,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:24:16+03:00"
+            "time": "2025-11-17T10:25:13+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -185,7 +168,25 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T10:24:16+03:00"
+            "time": "2025-11-17T10:25:12+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.420000076293945,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.609195402298857,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T10:25:15+03:00"
         }
     ]
 }
