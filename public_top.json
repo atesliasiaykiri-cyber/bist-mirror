@@ -1,5 +1,5 @@
 {
-    "updated": "2025-11-17T18:23:30+03:00",
+    "updated": "2025-11-17T18:24:34+03:00",
     "count": 10,
     "data": [
         {
@@ -90,6 +90,24 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
+            "symbol": "MAVI.IS",
+            "price": 39.119998931884766,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.677165354330698,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
+        {
             "symbol": "TRCAS.IS",
             "price": 40.29999923706055,
             "score": 75,
@@ -119,23 +137,6 @@
                 "strongUpDay",
                 "rp15",
                 "rp30"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "MAVI.IS",
-            "price": 39.119998931884766,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.677165354330698,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
