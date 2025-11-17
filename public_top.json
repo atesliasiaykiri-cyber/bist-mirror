@@ -1,13 +1,32 @@
 {
-    "updated": "2025-11-17T17:59:32+03:00",
-    "count": 6,
+    "updated": "2025-11-17T18:00:50+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "BURCE.IS",
-            "price": 35.29999923706055,
+            "price": 35.380001068115234,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 8.86153846153847,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T17:44:00+03:00"
+        },
+        {
+            "symbol": "DERIM.IS",
+            "price": 36.7400016784668,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 8.615384615384606,
+            "chg": 2.0044543429844066,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +36,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:44:19+03:00"
+            "time": "2025-11-17T17:34:00+03:00"
         },
         {
             "symbol": "EUREN.IS",
@@ -34,14 +53,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:44:20+03:00"
+            "time": "2025-11-17T17:44:00+03:00"
         },
         {
             "symbol": "BAGFS.IS",
             "price": 29.18000030517578,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.0993701889433223,
+            "chg": 2.1693491952414314,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,31 +69,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:43:26+03:00"
-        },
-        {
-            "symbol": "BIOEN.IS",
-            "price": 20.399999618530273,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.2388663967611184,
-            "range15": 0.7499940395255749,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T17:44:04+03:00"
+            "time": "2025-11-17T17:43:00+03:00"
         },
         {
             "symbol": "KOZAA.IS",
-            "price": 98.19999694824219,
+            "price": 98.3499984741211,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.3939081053175102,
-            "range15": 0.9047563687090657,
+            "chg": 1.6004130098089948,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -82,23 +85,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:44:10+03:00"
+            "time": "2025-11-17T17:44:00+03:00"
         },
         {
-            "symbol": "GSDDE.IS",
-            "price": 9.710000038146973,
+            "symbol": "GLYHO.IS",
+            "price": 11.449999809265137,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.642706131078224,
+            "chg": 1.5957446808510771,
+            "range15": 0.8749970197627902,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:44:00+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 14.140000343322754,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.3913043478260874,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-11-17T17:43:13+03:00"
+            "time": "2025-11-17T17:44:00+03:00"
         }
     ]
 }
