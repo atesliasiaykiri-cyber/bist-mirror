@@ -1,14 +1,14 @@
 {
-    "updated": "2025-11-17T17:15:37+03:00",
-    "count": 2,
+    "updated": "2025-11-17T17:16:34+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 47.29999923706055,
+            "price": 47.459999084472656,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 7.892335766423344,
-            "range15": 0.9756091887719807,
+            "chg": 8.257299270072986,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -19,14 +19,48 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T17:00:14+03:00"
+            "time": "2025-11-17T17:01:08+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 167.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.1341463414634148,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:01:13+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 7.440000057220459,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.7624309392265216,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:01:23+03:00"
         },
         {
             "symbol": "KUYAS.IS",
-            "price": 37.41999816894531,
+            "price": 37.47999954223633,
             "score": 65,
             "label": "Watchlist",
-            "chg": -4.783715012722635,
+            "chg": -4.631043256997456,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +69,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:00:29+03:00"
+            "time": "2025-11-17T17:01:25+03:00"
+        },
+        {
+            "symbol": "DERIM.IS",
+            "price": 36.63999938964844,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.0044543429844066,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T17:01:22+03:00"
+        },
+        {
+            "symbol": "VAKBN.IS",
+            "price": 27.260000228881836,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.03780578206079,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T17:01:19+03:00"
         }
     ]
 }
