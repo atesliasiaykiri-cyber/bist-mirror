@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T11:42:32+03:00",
+    "updated": "2025-11-17T11:43:31+03:00",
     "count": 10,
     "data": [
         {
-            "symbol": "ENKAI.IS",
-            "price": 75.3499984741211,
-            "score": 90,
+            "symbol": "IPEKE.IS",
+            "price": 77.94999694824219,
+            "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.8243243243243168,
+            "chg": 3.1767041694242297,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,16 +16,17 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-11-17T11:27:08+03:00"
+            "time": "2025-11-17T11:28:10+03:00"
         },
         {
-            "symbol": "IPEKE.IS",
-            "price": 77.25,
+            "symbol": "ENKAI.IS",
+            "price": 75.4000015258789,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.2501654533421616,
+            "chg": 1.8918918918918997,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -36,7 +37,25 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T11:27:11+03:00"
+            "time": "2025-11-17T11:28:06+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 322.5,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 2.6252983293556085,
+            "range15": 0.8888888888888888,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T11:28:01+03:00"
         },
         {
             "symbol": "ECZYT.IS",
@@ -54,7 +73,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T11:27:19+03:00"
+            "time": "2025-11-17T11:28:17+03:00"
         },
         {
             "symbol": "FMIZP.IS",
@@ -89,64 +108,13 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T11:27:04+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 10.329999923706055,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.773399014778322,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T11:26:39+03:00"
-        },
-        {
-            "symbol": "DERIM.IS",
-            "price": 36.41999816894531,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.3919821826280623,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T11:26:31+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 13.149999618530273,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.4143302180685398,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T11:27:28+03:00"
+            "time": "2025-11-17T11:28:01+03:00"
         },
         {
             "symbol": "ASELS.IS",
             "price": 182.60000610351562,
-            "score": 70,
-            "label": "Watchlist",
+            "score": 80,
+            "label": "Strong Short Zone",
             "chg": 3.749999999999997,
             "range15": 0.8333354526165014,
             "vwapPrem": null,
@@ -155,26 +123,61 @@
                 "strongUpDay",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-11-17T11:27:06+03:00"
+            "time": "2025-11-17T11:28:04+03:00"
         },
         {
-            "symbol": "GUBRF.IS",
-            "price": 322.25,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.5457438345266508,
-            "range15": 0.7777777777777778,
+            "symbol": "BASGZ.IS",
+            "price": 43.900001525878906,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.52380952380952,
+            "range15": 0.9411857104400023,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-11-17T11:27:10+03:00"
+            "time": "2025-11-17T11:28:04+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 10.34000015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.8719211822660047,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T11:27:59+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 24.399999618530273,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.4349286314021756,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T11:28:11+03:00"
         }
     ]
 }
