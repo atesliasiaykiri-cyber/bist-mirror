@@ -1,6 +1,6 @@
 {
-    "updated": "2025-11-17T16:17:32+03:00",
-    "count": 3,
+    "updated": "2025-11-17T16:18:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "BIOEN.IS",
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:02:04+03:00"
+            "time": "2025-11-17T16:02:37+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -38,7 +38,24 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T16:01:52+03:00"
+            "time": "2025-11-17T16:02:23+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.539999961853027,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.367816091954032,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:03:07+03:00"
         },
         {
             "symbol": "ULKER.IS",
@@ -55,7 +72,37 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:02:14+03:00"
+            "time": "2025-11-17T16:03:15+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 24.5,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 4.25531914893617,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T16:02:00+03:00"
+        },
+        {
+            "symbol": "VERUS.IS",
+            "price": 206.39999389648438,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.6829268292682955,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T16:03:25+03:00"
         }
     ]
 }
