@@ -1,14 +1,14 @@
 {
-    "updated": "2025-11-17T17:20:36+03:00",
+    "updated": "2025-11-17T17:21:32+03:00",
     "count": 7,
     "data": [
         {
             "symbol": "GESAN.IS",
-            "price": 47.7599983215332,
+            "price": 47.65999984741211,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 8.941605839416045,
-            "range15": 1,
+            "chg": 8.713503649635019,
+            "range15": 0.9404769743938319,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -19,14 +19,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T17:05:13+03:00"
+            "time": "2025-11-17T17:06:10+03:00"
         },
         {
             "symbol": "KCHOL.IS",
-            "price": 167.89999389648438,
+            "price": 168,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.3780487804878083,
+            "chg": 2.4390243902439024,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -36,14 +36,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:05:14+03:00"
+            "time": "2025-11-17T17:06:11+03:00"
         },
         {
             "symbol": "KUYAS.IS",
-            "price": 38.400001525878906,
+            "price": 38.65999984741211,
             "score": 75,
             "label": "Strong Short Zone",
-            "chg": -2.2900763358778593,
+            "chg": -1.6284987277353706,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,14 +53,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T17:05:28+03:00"
+            "time": "2025-11-17T17:06:25+03:00"
         },
         {
             "symbol": "VERUS.IS",
-            "price": 206.5,
+            "price": 206.60000610351562,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.7317073170731708,
+            "chg": 0.780487804878046,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -69,30 +69,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:05:26+03:00"
+            "time": "2025-11-17T17:06:20+03:00"
         },
         {
             "symbol": "SOKM.IS",
-            "price": 45.880001068115234,
+            "price": 45.900001525878906,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.2803532008830143,
-            "range15": 0.9333324856304047,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T17:05:04+03:00"
-        },
-        {
-            "symbol": "YEOTK.IS",
-            "price": 38.08000183105469,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.3859649122807065,
+            "chg": 1.3245033112582814,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -101,7 +85,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T17:05:25+03:00"
+            "time": "2025-11-17T17:06:03+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 10.430000305175781,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 2.758620689655166,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T17:05:52+03:00"
         },
         {
             "symbol": "VAKBN.IS",
@@ -116,7 +115,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-11-17T17:05:22+03:00"
+            "time": "2025-11-17T17:06:05+03:00"
         }
     ]
 }
