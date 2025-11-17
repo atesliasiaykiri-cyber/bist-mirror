@@ -1,106 +1,55 @@
 {
-    "updated": "2025-11-17T15:56:33+03:00",
-    "count": 10,
+    "updated": "2025-11-17T15:57:31+03:00",
+    "count": 5,
     "data": [
         {
+            "symbol": "SEKUR.IS",
+            "price": 14.979999542236328,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.7663043478260854,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-11-17T15:42:18+03:00"
+        },
+        {
             "symbol": "DOAS.IS",
-            "price": 185.1999969482422,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.717692734331657,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:41:03+03:00"
-        },
-        {
-            "symbol": "KRDMD.IS",
-            "price": 24.420000076293945,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.5188916876574368,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:41:10+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 26.920000076293945,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.6616314199395819,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:41:15+03:00"
-        },
-        {
-            "symbol": "SRVGY.IS",
-            "price": 3.180000066757202,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.5806451612903247,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:40:22+03:00"
-        },
-        {
-            "symbol": "TUPRS.IS",
-            "price": 204.10000610351562,
-            "score": 65,
+            "price": 185.10000610351562,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 2.459839357429722,
-            "range15": 1,
+            "chg": 2.662229617304483,
+            "range15": 0.8000183105600058,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
+                "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:41:19+03:00"
+            "time": "2025-11-17T15:42:03+03:00"
         },
         {
-            "symbol": "ULKER.IS",
-            "price": 114.9000015258789,
-            "score": 65,
+            "symbol": "DOHOL.IS",
+            "price": 17.3799991607666,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 2.1333333333333386,
+            "chg": 1.8757327080890993,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
+                "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:41:18+03:00"
+            "time": "2025-11-17T15:41:25+03:00"
         },
         {
             "symbol": "PRKAB.IS",
@@ -116,7 +65,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:41:10+03:00"
+            "time": "2025-11-17T15:41:26+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -133,37 +82,6 @@
                 "rp60"
             ],
             "time": "2025-11-17T15:40:34+03:00"
-        },
-        {
-            "symbol": "SEKUR.IS",
-            "price": 14.979999542236328,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.7663043478260854,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:41:09+03:00"
-        },
-        {
-            "symbol": "PETKM.IS",
-            "price": 17.09000015258789,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 2.0908004778972606,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-11-17T15:41:12+03:00"
         }
     ]
 }
