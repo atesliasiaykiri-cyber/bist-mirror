@@ -1,56 +1,40 @@
 {
-    "updated": "2025-11-17T15:58:33+03:00",
-    "count": 4,
+    "updated": "2025-11-17T15:59:31+03:00",
+    "count": 3,
     "data": [
+        {
+            "symbol": "KRDMD.IS",
+            "price": 24.420000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.5188916876574368,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:44:12+03:00"
+        },
         {
             "symbol": "PRKAB.IS",
             "price": 40.20000076293945,
-            "score": 80,
-            "label": "Strong Short Zone",
+            "score": 65,
+            "label": "Watchlist",
             "chg": 9.956236323851204,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp30",
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-11-17T15:42:48+03:00"
-        },
-        {
-            "symbol": "DOAS.IS",
-            "price": 185.10000610351562,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.662229617304483,
-            "range15": 0.8000183105600058,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:43:06+03:00"
-        },
-        {
-            "symbol": "TKFEN.IS",
-            "price": 73.30000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.7349063150589867,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T15:43:18+03:00"
+            "time": "2025-11-17T15:44:08+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -66,7 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:43:10+03:00"
+            "time": "2025-11-17T15:44:11+03:00"
         }
     ]
 }
