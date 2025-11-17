@@ -1,7 +1,25 @@
 {
-    "updated": "2025-11-17T18:40:37+03:00",
+    "updated": "2025-11-17T18:41:31+03:00",
     "count": 10,
     "data": [
+        {
+            "symbol": "CEMTS.IS",
+            "price": 10.520000457763672,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.6453201970443274,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-11-17T18:00:00+03:00"
+        },
         {
             "symbol": "ECILC.IS",
             "price": 97.9000015258789,
@@ -35,23 +53,6 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
-            ],
-            "time": "2025-11-17T18:00:00+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 10.520000457763672,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 3.6453201970443274,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-11-17T18:00:00+03:00"
         },
@@ -123,11 +124,11 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "MAVI.IS",
-            "price": 39.119998931884766,
+            "symbol": "SOKM.IS",
+            "price": 45.91999816894531,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.677165354330698,
+            "chg": 1.3686534216335642,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -140,11 +141,11 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.46999979019165,
+            "symbol": "TAVHL.IS",
+            "price": 259.5,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.054794520547942,
+            "chg": 1.9646365422396856,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -157,11 +158,11 @@
             "time": "2025-11-17T18:00:00+03:00"
         },
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.1500000953674316,
+            "symbol": "HATEK.IS",
+            "price": 20.780000686645508,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.6129032258064457,
+            "chg": 5.535804977145759,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
