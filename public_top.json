@@ -1,25 +1,7 @@
 {
-    "updated": "2025-11-17T16:46:33+03:00",
-    "count": 5,
+    "updated": "2025-11-17T16:47:31+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "OBASE.IS",
-            "price": 37.599998474121094,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 5.26315789473685,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-11-17T16:31:05+03:00"
-        },
         {
             "symbol": "ECILC.IS",
             "price": 97.69999694824219,
@@ -35,15 +17,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:31:03+03:00"
+            "time": "2025-11-17T16:32:06+03:00"
         },
         {
             "symbol": "VAKBN.IS",
-            "price": 27.299999237060547,
+            "price": 27.280000686645508,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.1860637509266132,
-            "range15": 1,
+            "chg": 1.1119347664937016,
+            "range15": 0.9166726271372825,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -52,41 +34,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:31:14+03:00"
+            "time": "2025-11-17T16:32:18+03:00"
         },
         {
-            "symbol": "KRVGD.IS",
-            "price": 2.630000114440918,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 4.36507936507936,
+            "symbol": "SMRTG.IS",
+            "price": 25.799999237060547,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.5437201907790166,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-11-17T16:28:13+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 85,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 8.073744437380794,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-11-17T16:31:24+03:00"
+            "time": "2025-11-17T16:32:14+03:00"
         }
     ]
 }
