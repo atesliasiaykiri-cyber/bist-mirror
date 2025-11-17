@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T15:59:31+03:00",
-    "count": 3,
+    "updated": "2025-11-17T16:00:50+03:00",
+    "count": 7,
     "data": [
         {
-            "symbol": "KRDMD.IS",
-            "price": 24.420000076293945,
+            "symbol": "TKFEN.IS",
+            "price": 73.6500015258789,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.5188916876574368,
+            "chg": 2.220680083275515,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,31 +17,62 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:44:12+03:00"
+            "time": "2025-11-17T15:45:35+03:00"
         },
         {
-            "symbol": "PRKAB.IS",
-            "price": 40.20000076293945,
+            "symbol": "ULKER.IS",
+            "price": 114.9000015258789,
             "score": 65,
             "label": "Watchlist",
-            "chg": 9.956236323851204,
-            "range15": null,
+            "chg": 2.1333333333333386,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp15",
+                "rp60"
             ],
-            "time": "2025-11-17T15:44:08+03:00"
+            "time": "2025-11-17T15:45:36+03:00"
+        },
+        {
+            "symbol": "DOAS.IS",
+            "price": 185.10000610351562,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.662229617304483,
+            "range15": 0.8000183105600058,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:45:16+03:00"
+        },
+        {
+            "symbol": "DOHOL.IS",
+            "price": 17.3799991607666,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.8757327080890993,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:44:59+03:00"
         },
         {
             "symbol": "BURCE.IS",
-            "price": 35.099998474121094,
+            "price": 35.119998931884766,
             "score": 60,
             "label": "Watchlist",
-            "chg": 8.000000000000004,
+            "chg": 8.061538461538454,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,7 +81,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T15:44:11+03:00"
+            "time": "2025-11-17T15:45:01+03:00"
+        },
+        {
+            "symbol": "SANEL.IS",
+            "price": 41.70000076293945,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 7.36354273944387,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T15:45:40+03:00"
+        },
+        {
+            "symbol": "TUPRS.IS",
+            "price": 204.10000610351562,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 2.459839357429722,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-11-17T15:45:36+03:00"
         }
     ]
 }
