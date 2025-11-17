@@ -1,31 +1,30 @@
 {
-    "updated": "2025-11-17T16:41:32+03:00",
+    "updated": "2025-11-17T16:42:33+03:00",
     "count": 5,
     "data": [
         {
-            "symbol": "KUYAS.IS",
-            "price": 35.86000061035156,
-            "score": 85,
+            "symbol": "CEMTS.IS",
+            "price": 10.4399995803833,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": -8.753180661577604,
+            "chg": 2.8571428571428488,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp60"
             ],
-            "time": "2025-11-17T16:26:23+03:00"
+            "time": "2025-11-17T16:27:03+03:00"
         },
         {
             "symbol": "LIDER.IS",
-            "price": 84.55000305175781,
+            "price": 84.6500015258789,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 7.501589319771126,
+            "chg": 7.628734901462174,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,14 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:26:16+03:00"
+            "time": "2025-11-17T16:27:25+03:00"
         },
         {
-            "symbol": "VAKBN.IS",
-            "price": 27.239999771118164,
+            "symbol": "CANTE.IS",
+            "price": 2.4000000953674316,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.9636767976278651,
+            "chg": 0.8403361344537823,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,22 +50,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-11-17T16:26:19+03:00"
+            "time": "2025-11-17T16:27:07+03:00"
         },
         {
-            "symbol": "CEMTS.IS",
-            "price": 10.430000305175781,
-            "score": 55,
+            "symbol": "GSDHO.IS",
+            "price": 4.550000190734863,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 2.758620689655166,
-            "range15": 1,
+            "chg": 4.597701149425292,
+            "range15": 0.5000119209438543,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-11-17T16:26:03+03:00"
+            "time": "2025-11-17T16:26:51+03:00"
         },
         {
             "symbol": "ECILC.IS",
@@ -81,7 +81,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-11-17T16:26:08+03:00"
+            "time": "2025-11-17T16:27:02+03:00"
         }
     ]
 }
