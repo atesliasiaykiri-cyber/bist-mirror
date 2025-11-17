@@ -1,13 +1,13 @@
 {
-    "updated": "2025-11-17T16:25:35+03:00",
-    "count": 2,
+    "updated": "2025-11-17T16:26:33+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "GSDHO.IS",
-            "price": 4.550000190734863,
+            "price": 4.559999942779541,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.597701149425292,
+            "chg": 4.827586206896551,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-11-17T16:10:10+03:00"
+            "time": "2025-11-17T16:11:03+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -36,6 +36,38 @@
                 "rp60"
             ],
             "time": "2025-11-17T16:09:46+03:00"
+        },
+        {
+            "symbol": "TTRAK.IS",
+            "price": 532,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.1406844106463878,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-11-17T16:11:05+03:00"
+        },
+        {
+            "symbol": "FENER.IS",
+            "price": 11.699999809265137,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.55764075067024,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-11-17T16:11:09+03:00"
         }
     ]
 }
