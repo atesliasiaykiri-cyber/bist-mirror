@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-08T00:38:33+03:00",
+    "updated": "2025-12-08T00:39:33+03:00",
     "count": 10,
     "data": [
         {
@@ -24,6 +24,22 @@
             "score": 55,
             "label": "Watchlist",
             "chg": 3.517060367454062,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-05T18:00:00+03:00"
+        },
+        {
+            "symbol": "ASELS.IS",
+            "price": 188.1999969482422,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.6747703943814123,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -136,22 +152,6 @@
             "score": 55,
             "label": "Watchlist",
             "chg": 0.9471191791633718,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-05T18:00:00+03:00"
-        },
-        {
-            "symbol": "OTKAR.IS",
-            "price": 491,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.8213552361396305,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
