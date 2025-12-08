@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-08T17:46:37+03:00",
-    "count": 8,
+    "updated": "2025-12-08T17:47:36+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "TLMAN.IS",
-            "price": 104.69999694824219,
+            "price": 105.5,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 9.119332985930171,
-            "range15": 0.9878041405253951,
+            "chg": 9.953100573215213,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -19,24 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-08T17:31:28+03:00"
-        },
-        {
-            "symbol": "BASGZ.IS",
-            "price": 42.08000183105469,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.086365841824356,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T17:30:56+03:00"
+            "time": "2025-12-08T17:32:28+03:00"
         },
         {
             "symbol": "BRISA.IS",
@@ -53,23 +36,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:30:50+03:00"
+            "time": "2025-12-08T17:31:52+03:00"
         },
         {
-            "symbol": "THYAO.IS",
-            "price": 272.75,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 0.9250693802035153,
+            "symbol": "ENKAI.IS",
+            "price": 81.55000305175781,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2570532915360464,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-08T17:31:17+03:00"
+            "time": "2025-12-08T17:32:06+03:00"
         },
         {
             "symbol": "EREGL.IS",
@@ -85,15 +69,32 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-08T17:31:08+03:00"
+            "time": "2025-12-08T17:32:08+03:00"
         },
         {
-            "symbol": "ENKAI.IS",
-            "price": 81.5,
+            "symbol": "DERIM.IS",
+            "price": 35.18000030517578,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.3995433789954354,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-08T17:32:11+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 42.060001373291016,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.19435736677116,
-            "range15": 0.7499904634745412,
+            "chg": 2.037845705967985,
+            "range15": 0.7499999999968915,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -101,23 +102,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:31:08+03:00"
-        },
-        {
-            "symbol": "GUBRF.IS",
-            "price": 327.75,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.882725832012678,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T17:31:02+03:00"
+            "time": "2025-12-08T17:31:59+03:00"
         },
         {
             "symbol": "PGSUS.IS",
@@ -132,7 +117,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T17:31:13+03:00"
+            "time": "2025-12-08T17:32:09+03:00"
         }
     ]
 }
