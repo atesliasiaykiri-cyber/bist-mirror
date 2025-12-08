@@ -1,7 +1,25 @@
 {
-    "updated": "2025-12-08T18:24:35+03:00",
+    "updated": "2025-12-08T18:25:35+03:00",
     "count": 97,
     "data": [
+        {
+            "symbol": "SOKM.IS",
+            "price": 49.63999938964844,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 2.6892842366570067,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
         {
             "symbol": "TRCAS.IS",
             "price": 42.79999923706055,
@@ -39,11 +57,11 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 49.63999938964844,
+            "symbol": "DOHOL.IS",
+            "price": 17.959999084472656,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.6892842366570067,
+            "chg": 1.411631846414455,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,7 +69,7 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rsiOB"
             ],
             "time": "2025-12-08T18:00:00+03:00"
         },
@@ -69,22 +87,6 @@
                 "rp15",
                 "rp30",
                 "rp60"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "DOHOL.IS",
-            "price": 17.959999084472656,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.411631846414455,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
             ],
             "time": "2025-12-08T18:00:00+03:00"
         },
@@ -374,6 +376,21 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
+            "symbol": "EGEEN.IS",
+            "price": 7555,
+            "score": 50,
+            "label": "Neutral",
+            "chg": 6.035087719298246,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
             "symbol": "KCHOL.IS",
             "price": 172.60000610351562,
             "score": 50,
@@ -537,20 +554,6 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "EGEEN.IS",
-            "price": 7555,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 6.035087719298246,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
             "symbol": "GARAN.IS",
             "price": 141.1999969482422,
             "score": 35,
@@ -677,6 +680,20 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
+            "symbol": "SANEL.IS",
+            "price": 41.380001068115234,
+            "score": 35,
+            "label": "Neutral",
+            "chg": -2.8638497652582133,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
             "symbol": "SUNTK.IS",
             "price": 41.7599983215332,
             "score": 35,
@@ -777,19 +794,6 @@
             "score": 20,
             "label": "Neutral",
             "chg": -0.3949967083607553,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "SANEL.IS",
-            "price": 41.380001068115234,
-            "score": 20,
-            "label": "Neutral",
-            "chg": -2.8638497652582133,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
