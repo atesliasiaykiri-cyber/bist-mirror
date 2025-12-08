@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-08T15:34:32+03:00",
-    "count": 8,
+    "updated": "2025-12-08T15:35:33+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "TURSG.IS",
@@ -18,14 +18,32 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-08T15:19:24+03:00"
+            "time": "2025-12-08T15:20:21+03:00"
         },
         {
-            "symbol": "ALARK.IS",
-            "price": 99.75,
+            "symbol": "NTHOL.IS",
+            "price": 47.5,
+            "score": 85,
+            "label": "Strong Short Zone",
+            "chg": 0.3803888419273029,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-08T15:18:52+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 328.25,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.1663286004056854,
+            "chg": 4.0412044374009515,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,14 +53,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T15:19:01+03:00"
+            "time": "2025-12-08T15:20:08+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 517,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.671583087512291,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T15:19:00+03:00"
         },
         {
             "symbol": "OTKAR.IS",
-            "price": 531,
+            "price": 531.5,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 8.146639511201629,
+            "chg": 8.24847250509165,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -52,7 +87,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T15:19:11+03:00"
+            "time": "2025-12-08T15:20:10+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -69,39 +104,40 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T15:19:14+03:00"
+            "time": "2025-12-08T15:20:14+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 47.5,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.3803888419273029,
+            "symbol": "AGHOL.IS",
+            "price": 28.760000228881836,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2759601706970147,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T15:18:52+03:00"
-        },
-        {
-            "symbol": "ISCTR.IS",
-            "price": 14.319999694824219,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.77683013503909,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
                 "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T15:19:04+03:00"
+            "time": "2025-12-08T15:20:17+03:00"
+        },
+        {
+            "symbol": "DOHOL.IS",
+            "price": 17.90999984741211,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.12930547713156,
+            "range15": 0.799992370487588,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T15:20:05+03:00"
         },
         {
             "symbol": "ECILC.IS",
@@ -131,7 +167,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T15:19:08+03:00"
+            "time": "2025-12-08T15:20:10+03:00"
         }
     ]
 }
