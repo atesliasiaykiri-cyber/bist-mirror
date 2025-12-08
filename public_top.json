@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-08T13:16:31+03:00",
+    "updated": "2025-12-08T13:17:33+03:00",
     "count": 13,
     "data": [
         {
@@ -19,14 +19,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-08T13:00:48+03:00"
+            "time": "2025-12-08T13:01:48+03:00"
         },
         {
             "symbol": "EGEEN.IS",
-            "price": 7520,
+            "price": 7547.5,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 5.543859649122807,
+            "chg": 5.9298245614035086,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -38,7 +38,25 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-08T13:01:03+03:00"
+            "time": "2025-12-08T13:02:06+03:00"
+        },
+        {
+            "symbol": "KONYA.IS",
+            "price": 4835,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 2.165874273639725,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-08T13:02:21+03:00"
         },
         {
             "symbol": "BERA.IS",
@@ -55,31 +73,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T13:01:02+03:00"
-        },
-        {
-            "symbol": "GUBRF.IS",
-            "price": 325,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.011093502377179,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T13:01:04+03:00"
+            "time": "2025-12-08T13:01:47+03:00"
         },
         {
             "symbol": "ISMEN.IS",
-            "price": 42.459999084472656,
+            "price": 42.47999954223633,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.2639691714836165,
+            "chg": 2.312138728323684,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -89,14 +90,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T13:01:06+03:00"
+            "time": "2025-12-08T13:02:07+03:00"
         },
         {
-            "symbol": "KONYA.IS",
-            "price": 4832.5,
+            "symbol": "MGROS.IS",
+            "price": 513.5,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.1130480718436346,
+            "chg": 0.983284169124877,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -106,7 +107,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T13:01:16+03:00"
+            "time": "2025-12-08T13:02:08+03:00"
+        },
+        {
+            "symbol": "PGSUS.IS",
+            "price": 203.39999389648438,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 3.8815117466802826,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-08T13:02:10+03:00"
         },
         {
             "symbol": "AGHOL.IS",
@@ -122,7 +139,23 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T13:01:16+03:00"
+            "time": "2025-12-08T13:02:15+03:00"
+        },
+        {
+            "symbol": "OBASE.IS",
+            "price": 34.34000015258789,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 0.8813160987074156,
+            "range15": 0.8571389645758514,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-08T13:01:58+03:00"
         },
         {
             "symbol": "SASA.IS",
@@ -138,23 +171,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T13:01:12+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.099999904632568,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.4851485148514756,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T13:00:30+03:00"
+            "time": "2025-12-08T13:02:05+03:00"
         },
         {
             "symbol": "ALBRK.IS",
@@ -169,7 +186,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T13:00:28+03:00"
+            "time": "2025-12-08T13:01:58+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -184,22 +201,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T13:01:03+03:00"
-        },
-        {
-            "symbol": "TOASO.IS",
-            "price": 244.5,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 4.710920770877944,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-08T13:01:06+03:00"
+            "time": "2025-12-08T13:02:04+03:00"
         },
         {
             "symbol": "MAVI.IS",
@@ -214,7 +216,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T13:01:22+03:00"
+            "time": "2025-12-08T13:02:01+03:00"
         }
     ]
 }
