@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-08T18:16:35+03:00",
+    "updated": "2025-12-08T18:17:33+03:00",
     "count": 97,
     "data": [
         {
@@ -17,23 +17,6 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
-            ],
-            "time": "2025-12-08T17:58:00+03:00"
-        },
-        {
-            "symbol": "TLMAN.IS",
-            "price": 105.5,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 9.953100573215213,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-12-08T17:58:00+03:00"
         },
@@ -96,6 +79,22 @@
             "reasons": [
                 "strongUpDay",
                 "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T17:58:00+03:00"
+        },
+        {
+            "symbol": "TLMAN.IS",
+            "price": 105.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 9.953100573215213,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
                 "rp30",
                 "rp60"
             ],
@@ -326,20 +325,6 @@
             "time": "2025-12-08T17:58:00+03:00"
         },
         {
-            "symbol": "CANTE.IS",
-            "price": 2.119999885559082,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 0.47393364928911047,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-08T17:58:00+03:00"
-        },
-        {
             "symbol": "CLEBI.IS",
             "price": 1604,
             "score": 35,
@@ -466,6 +451,20 @@
             "time": "2025-12-08T17:58:00+03:00"
         },
         {
+            "symbol": "KRVGD.IS",
+            "price": 2.5399999618530273,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 1.5936254980079698,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-08T17:58:00+03:00"
+        },
+        {
             "symbol": "MPARK.IS",
             "price": 332.75,
             "score": 35,
@@ -564,7 +563,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.8922852983988385,
-            "range15": 0.14285714285917292,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -581,6 +580,19 @@
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
+            ],
+            "time": "2025-12-08T17:58:00+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.119999885559082,
+            "score": 15,
+            "label": "Neutral",
+            "chg": 0.47393364928911047,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30"
             ],
             "time": "2025-12-08T17:58:00+03:00"
         },
@@ -642,7 +654,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 2.0062695924764817,
-            "range15": 0.7499904634744702,
+            "range15": 0.6666497126279574,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -884,25 +896,12 @@
             "time": "2025-12-08T17:58:00+03:00"
         },
         {
-            "symbol": "KRVGD.IS",
-            "price": 2.5399999618530273,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 1.5936254980079698,
-            "range15": 0.4999999999974909,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
-            ],
-            "time": "2025-12-08T17:58:00+03:00"
-        },
-        {
             "symbol": "LIDER.IS",
             "price": 59.099998474121094,
             "score": 15,
             "label": "Neutral",
             "chg": 5.913978494623664,
-            "range15": 0.13333299424888878,
+            "range15": 0.1363632422832565,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -1114,7 +1113,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.47415836889521773,
-            "range15": 0.2631631782354182,
+            "range15": 0.2222269317154667,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-08T17:57:00+03:00"
@@ -1180,7 +1179,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.9497178040020473,
-            "range15": 0.28570844686230146,
+            "range15": 0.3999961852377898,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-08T17:58:00+03:00"
@@ -1213,7 +1212,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.2772643253234691,
-            "range15": 0.37036670740379607,
+            "range15": 0.4166607061964036,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-08T17:58:00+03:00"
