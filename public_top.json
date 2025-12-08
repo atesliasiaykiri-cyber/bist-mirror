@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-08T18:15:33+03:00",
+    "updated": "2025-12-08T18:16:35+03:00",
     "count": 97,
     "data": [
         {
@@ -59,7 +59,23 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 2.52618607516944,
-            "range15": 0.8888865341397633,
+            "range15": 0.8749970197627486,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T17:58:00+03:00"
+        },
+        {
+            "symbol": "AGHOL.IS",
+            "price": 28.65999984741211,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.9914651493598816,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -191,21 +207,6 @@
                 "rp30"
             ],
             "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 28.65999984741211,
-            "score": 50,
-            "label": "Neutral",
-            "chg": 1.9914651493598816,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-08T17:58:00+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -386,7 +387,7 @@
             "score": 35,
             "label": "Neutral",
             "chg": 3.932584269662915,
-            "range15": 0.6667005747661906,
+            "range15": 0.5000381475820985,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -414,7 +415,7 @@
             "score": 35,
             "label": "Neutral",
             "chg": 2.523789822093502,
-            "range15": 0.7142805242455958,
+            "range15": 0.6666596024240071,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -589,7 +590,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.6515716568993195,
-            "range15": 0.749990463468271,
+            "range15": 0.6666497126169046,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -615,7 +616,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.8079096045197676,
-            "range15": 0.696968576025974,
+            "range15": 0.6153832610493721,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -719,7 +720,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.2331180270111535,
-            "range15": 0.499980926936542,
+            "range15": 0.33329942523380934,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -901,7 +902,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 5.913978494623664,
-            "range15": 0.1276591254772323,
+            "range15": 0.13333299424888878,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
