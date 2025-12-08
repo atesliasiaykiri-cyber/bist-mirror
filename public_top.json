@@ -1,7 +1,26 @@
 {
-    "updated": "2025-12-08T18:03:34+03:00",
-    "count": 3,
+    "updated": "2025-12-08T18:04:33+03:00",
+    "count": 5,
     "data": [
+        {
+            "symbol": "SMRTG.IS",
+            "price": 29.520000457763672,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 5.12455516014234,
+            "range15": 0.9701499972960834,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-08T17:48:00+03:00"
+        },
         {
             "symbol": "TLMAN.IS",
             "price": 105.5,
@@ -19,15 +38,15 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-08T17:47:00+03:00"
+            "time": "2025-12-08T17:48:00+03:00"
         },
         {
-            "symbol": "ECILC.IS",
-            "price": 89.5999984741211,
+            "symbol": "THYAO.IS",
+            "price": 272.75,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.2429378531073383,
-            "range15": 0.9473654622987326,
+            "chg": 0.8325624421831638,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -36,15 +55,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:46:00+03:00"
+            "time": "2025-12-08T17:48:00+03:00"
         },
         {
             "symbol": "ALFAS.IS",
             "price": 43.97999954223633,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.6643550624133123,
-            "range15": 0.9090893327769328,
+            "chg": 1.7568192325474,
+            "range15": 0.8999980926567815,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -53,7 +72,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:47:00+03:00"
+            "time": "2025-12-08T17:48:00+03:00"
+        },
+        {
+            "symbol": "ZOREN.IS",
+            "price": 3.2200000286102295,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.5772870662460654,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T17:48:00+03:00"
         }
     ]
 }
