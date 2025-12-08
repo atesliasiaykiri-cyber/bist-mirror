@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-08T16:53:34+03:00",
-    "count": 5,
+    "updated": "2025-12-08T16:54:35+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "CANTE.IS",
-            "price": 2.130000114440918,
+            "symbol": "TOASO.IS",
+            "price": 244.6999969482422,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.9478672985782,
+            "chg": 4.796573875802993,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +17,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:37:56+03:00"
+            "time": "2025-12-08T16:39:11+03:00"
+        },
+        {
+            "symbol": "VAKBN.IS",
+            "price": 30.920000076293945,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:39:19+03:00"
         },
         {
             "symbol": "HEKTS.IS",
@@ -33,54 +49,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:37:00+03:00"
-        },
-        {
-            "symbol": "TOASO.IS",
-            "price": 244.5,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.710920770877944,
-            "range15": 0.8333248563084523,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:38:17+03:00"
-        },
-        {
-            "symbol": "KRVGD.IS",
-            "price": 2.559999942779541,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.9920318725099708,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:35:47+03:00"
-        },
-        {
-            "symbol": "VAKBN.IS",
-            "price": 30.81999969482422,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.32341526520052205,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-08T16:38:11+03:00"
+            "time": "2025-12-08T16:39:02+03:00"
         }
     ]
 }
