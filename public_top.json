@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-08T17:43:34+03:00",
-    "count": 4,
+    "updated": "2025-12-08T17:44:35+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "TLMAN.IS",
-            "price": 100.80000305175781,
+            "price": 104.5,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 5.054715997915575,
+            "chg": 8.910891089108908,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-08T17:28:27+03:00"
+            "time": "2025-12-08T17:29:26+03:00"
         },
         {
             "symbol": "BRISA.IS",
@@ -36,7 +36,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:27:00+03:00"
+            "time": "2025-12-08T17:29:01+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -52,15 +52,15 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T17:28:12+03:00"
+            "time": "2025-12-08T17:29:13+03:00"
         },
         {
-            "symbol": "LIDER.IS",
-            "price": 60.349998474121094,
+            "symbol": "BASGZ.IS",
+            "price": 42.040000915527344,
             "score": 60,
             "label": "Watchlist",
-            "chg": 8.15412186379929,
-            "range15": 0.7692289634610454,
+            "chg": 1.989325570111597,
+            "range15": 0.8333333333305701,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -68,7 +68,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:28:23+03:00"
+            "time": "2025-12-08T17:28:26+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 327.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.8034865293185423,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T17:28:58+03:00"
+        },
+        {
+            "symbol": "LIDER.IS",
+            "price": 60.349998474121094,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 8.15412186379929,
+            "range15": 0.6999969482420028,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T17:29:24+03:00"
         }
     ]
 }
