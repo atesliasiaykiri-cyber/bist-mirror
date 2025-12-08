@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-08T17:44:35+03:00",
+    "updated": "2025-12-08T17:45:35+03:00",
     "count": 6,
     "data": [
         {
             "symbol": "TLMAN.IS",
-            "price": 104.5,
+            "price": 104.80000305175781,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 8.910891089108908,
+            "chg": 9.223553934340796,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,24 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-08T17:29:26+03:00"
+            "time": "2025-12-08T17:30:29+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 42.08000183105469,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.086365841824356,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T17:29:58+03:00"
         },
         {
             "symbol": "BRISA.IS",
@@ -36,7 +53,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:29:01+03:00"
+            "time": "2025-12-08T17:29:45+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -52,23 +69,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T17:29:13+03:00"
-        },
-        {
-            "symbol": "BASGZ.IS",
-            "price": 42.040000915527344,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.989325570111597,
-            "range15": 0.8333333333305701,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T17:28:26+03:00"
+            "time": "2025-12-08T17:30:15+03:00"
         },
         {
             "symbol": "GUBRF.IS",
@@ -84,7 +85,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:28:58+03:00"
+            "time": "2025-12-08T17:30:04+03:00"
         },
         {
             "symbol": "LIDER.IS",
@@ -92,7 +93,7 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 8.15412186379929,
-            "range15": 0.6999969482420028,
+            "range15": 0.666663840969237,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -100,7 +101,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:29:24+03:00"
+            "time": "2025-12-08T17:30:20+03:00"
         }
     ]
 }
