@@ -1,7 +1,22 @@
 {
-    "updated": "2025-12-08T19:13:39+03:00",
+    "updated": "2025-12-08T19:14:39+03:00",
     "count": 97,
     "data": [
+        {
+            "symbol": "BRISA.IS",
+            "price": 83.25,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 3.287841191067005,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
         {
             "symbol": "DOHOL.IS",
             "price": 17.959999084472656,
@@ -137,20 +152,6 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "BRISA.IS",
-            "price": 83.25,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 3.287841191067005,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
             "symbol": "SISE.IS",
             "price": 41.52000045776367,
             "score": 35,
@@ -235,39 +236,11 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "BAGFS.IS",
-            "price": 27.540000915527344,
-            "score": 25,
-            "label": "Neutral",
-            "chg": 2.151335311572694,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp60"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
             "symbol": "BIMAS.IS",
             "price": 527.5,
             "score": 25,
             "label": "Neutral",
             "chg": 2.5267249757045676,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp60"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "CLEBI.IS",
-            "price": 1604,
-            "score": 25,
-            "label": "Neutral",
-            "chg": 0.9439899307740718,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -473,20 +446,6 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "TURSG.IS",
-            "price": 12.199999809265137,
-            "score": 25,
-            "label": "Neutral",
-            "chg": 1.8363939899832962,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp60"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
             "symbol": "YYLGD.IS",
             "price": 10.289999961853027,
             "score": 25,
@@ -514,11 +473,37 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
+            "symbol": "BAGFS.IS",
+            "price": 27.540000915527344,
+            "score": 15,
+            "label": "Neutral",
+            "chg": 2.151335311572694,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
             "symbol": "BASGZ.IS",
             "price": 41.880001068115234,
             "score": 15,
             "label": "Neutral",
             "chg": 1.6011644832605623,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1604,
+            "score": 15,
+            "label": "Neutral",
+            "chg": 0.9439899307740718,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -831,6 +816,19 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.4362657091561888,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
+            "symbol": "TURSG.IS",
+            "price": 12.199999809265137,
+            "score": 15,
+            "label": "Neutral",
+            "chg": 1.8363939899832962,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
