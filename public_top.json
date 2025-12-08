@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-08T19:04:16+03:00",
+    "updated": "2025-12-08T19:05:41+03:00",
     "count": 97,
     "data": [
         {
@@ -8,6 +8,21 @@
             "score": 45,
             "label": "Neutral",
             "chg": 1.411631846414455,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
+            "symbol": "EREGL.IS",
+            "price": 24.15999984741211,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 1.5126050420168042,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -97,20 +112,6 @@
             "score": 35,
             "label": "Neutral",
             "chg": 3.287841191067005,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "EREGL.IS",
-            "price": 24.15999984741211,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 1.5126050420168042,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -512,6 +513,20 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
+            "symbol": "SUNTK.IS",
+            "price": 41.7599983215332,
+            "score": 25,
+            "label": "Neutral",
+            "chg": 3.1111111111111063,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
             "symbol": "YYLGD.IS",
             "price": 10.289999961853027,
             "score": 25,
@@ -813,19 +828,6 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "SUNTK.IS",
-            "price": 41.7599983215332,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 3.1111111111111063,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
             "symbol": "TTKOM.IS",
             "price": 56.5,
             "score": 15,
@@ -974,6 +976,19 @@
             "score": 10,
             "label": "Neutral",
             "chg": -2.8638497652582133,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.050000190734863,
+            "score": 10,
+            "label": "Neutral",
+            "chg": 0.24752475247524225,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1231,17 +1246,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": -2.380952380952394,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.050000190734863,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0.24752475247524225,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
