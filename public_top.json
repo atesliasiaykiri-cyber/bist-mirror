@@ -1,7 +1,26 @@
 {
-    "updated": "2025-12-08T16:16:38+03:00",
-    "count": 13,
+    "updated": "2025-12-08T16:17:32+03:00",
+    "count": 11,
     "data": [
+        {
+            "symbol": "OBASE.IS",
+            "price": 34.540000915527344,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 1.4688601645123385,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-08T16:02:24+03:00"
+        },
         {
             "symbol": "CANTE.IS",
             "price": 2.130000114440918,
@@ -17,7 +36,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:01:01+03:00"
+            "time": "2025-12-08T16:01:55+03:00"
         },
         {
             "symbol": "EREGL.IS",
@@ -34,14 +53,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:01:04+03:00"
+            "time": "2025-12-08T16:02:06+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 49.29999923706055,
+            "symbol": "AGHOL.IS",
+            "price": 28.81999969482422,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.9859329747620886,
+            "chg": 2.4893314366998553,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,24 +70,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:01:04+03:00"
+            "time": "2025-12-08T16:01:57+03:00"
         },
         {
-            "symbol": "OBASE.IS",
-            "price": 34.31999969482422,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.8225616921269129,
+            "symbol": "ENKAI.IS",
+            "price": 81.25,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.8808777429467085,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-08T16:01:24+03:00"
+            "time": "2025-12-08T16:01:55+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -88,27 +106,11 @@
             "time": "2025-12-08T15:55:00+03:00"
         },
         {
-            "symbol": "AGHOL.IS",
-            "price": 28.739999771118164,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.204836415362722,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-08T16:01:02+03:00"
-        },
-        {
             "symbol": "SKBNK.IS",
-            "price": 8.149999618530273,
+            "price": 8.1899995803833,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.488400488400478,
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -117,39 +119,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:01:14+03:00"
+            "time": "2025-12-08T16:02:13+03:00"
         },
         {
-            "symbol": "BAGFS.IS",
-            "price": 27.6200008392334,
-            "score": 60,
+            "symbol": "ALBRK.IS",
+            "price": 8.329999923706055,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 2.4480712166172114,
+            "chg": 2.4600246002459936,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
+                "rp15"
             ],
-            "time": "2025-12-08T16:00:21+03:00"
-        },
-        {
-            "symbol": "KCHOL.IS",
-            "price": 174.5,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.466236054022307,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:01:07+03:00"
+            "time": "2025-12-08T16:01:53+03:00"
         },
         {
             "symbol": "ARCLK.IS",
@@ -164,22 +149,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:00:36+03:00"
-        },
-        {
-            "symbol": "ENKAI.IS",
-            "price": 81.19999694824219,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.818181818181822,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-08T16:00:40+03:00"
+            "time": "2025-12-08T16:01:41+03:00"
         },
         {
             "symbol": "PGSUS.IS",
@@ -194,7 +164,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:01:08+03:00"
+            "time": "2025-12-08T16:02:10+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -209,7 +179,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:01:14+03:00"
+            "time": "2025-12-08T16:02:14+03:00"
         }
     ]
 }
