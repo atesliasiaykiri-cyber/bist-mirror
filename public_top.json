@@ -1,7 +1,26 @@
 {
-    "updated": "2025-12-08T17:42:35+03:00",
+    "updated": "2025-12-08T17:43:34+03:00",
     "count": 4,
     "data": [
+        {
+            "symbol": "TLMAN.IS",
+            "price": 100.80000305175781,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 5.054715997915575,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-08T17:28:27+03:00"
+        },
         {
             "symbol": "BRISA.IS",
             "price": 83.19999694824219,
@@ -17,24 +36,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:26:49+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 60.5,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 8.422939068100364,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T17:27:21+03:00"
+            "time": "2025-12-08T17:27:00+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -50,15 +52,15 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T17:27:17+03:00"
+            "time": "2025-12-08T17:28:12+03:00"
         },
         {
-            "symbol": "BASGZ.IS",
-            "price": 42.02000045776367,
+            "symbol": "LIDER.IS",
+            "price": 60.349998474121094,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.9408054342552261,
-            "range15": 0.8461515889561092,
+            "chg": 8.15412186379929,
+            "range15": 0.7692289634610454,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -66,7 +68,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T17:26:20+03:00"
+            "time": "2025-12-08T17:28:23+03:00"
         }
     ]
 }
