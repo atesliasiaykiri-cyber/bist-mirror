@@ -1,41 +1,7 @@
 {
-    "updated": "2025-12-08T17:04:35+03:00",
-    "count": 5,
+    "updated": "2025-12-08T17:05:34+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "BASGZ.IS",
-            "price": 41.880001068115234,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.6011644832605623,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:48:22+03:00"
-        },
-        {
-            "symbol": "CANTE.IS",
-            "price": 2.130000114440918,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.9478672985782,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:49:02+03:00"
-        },
         {
             "symbol": "EREGL.IS",
             "price": 24.100000381469727,
@@ -51,31 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:49:06+03:00"
-        },
-        {
-            "symbol": "PETKM.IS",
-            "price": 17.68000030517578,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.9702970297029583,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:49:07+03:00"
+            "time": "2025-12-08T16:50:06+03:00"
         },
         {
             "symbol": "LIDER.IS",
-            "price": 59.54999923706055,
+            "price": 59.75,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 6.720430107526883,
+            "chg": 7.078853046594988,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -85,7 +34,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:49:21+03:00"
+            "time": "2025-12-08T16:50:22+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 41.86000061035156,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.552644347404174,
+            "range15": 0.8000000000060252,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:49:22+03:00"
         }
     ]
 }
