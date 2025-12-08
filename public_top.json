@@ -1,7 +1,25 @@
 {
-    "updated": "2025-12-08T16:20:31+03:00",
-    "count": 9,
+    "updated": "2025-12-08T16:21:33+03:00",
+    "count": 10,
     "data": [
+        {
+            "symbol": "OBASE.IS",
+            "price": 34.7400016784668,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 2.0564042303172823,
+            "range15": 0.9090945871742689,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-08T16:06:22+03:00"
+        },
         {
             "symbol": "CANTE.IS",
             "price": 2.130000114440918,
@@ -17,14 +35,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:05:04+03:00"
+            "time": "2025-12-08T16:06:02+03:00"
         },
         {
-            "symbol": "SAHOL.IS",
-            "price": 86.3499984741211,
+            "symbol": "EREGL.IS",
+            "price": 24.100000381469727,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.249851983422133,
+            "chg": 1.2605042016806753,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,7 +52,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:05:05+03:00"
+            "time": "2025-12-08T16:06:06+03:00"
+        },
+        {
+            "symbol": "AGHOL.IS",
+            "price": 28.799999237060547,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.4182076813655753,
+            "range15": 0.8749970197690519,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:06:16+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -51,14 +86,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:05:21+03:00"
+            "time": "2025-12-08T16:06:12+03:00"
         },
         {
-            "symbol": "ENKAI.IS",
-            "price": 81.25,
+            "symbol": "BASGZ.IS",
+            "price": 41.79999923706055,
             "score": 70,
             "label": "Watchlist",
-            "chg": 1.8808777429467085,
+            "chg": 1.4070839398350274,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -67,24 +102,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T16:05:05+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.820000171661377,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.5531914893617045,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-08T16:02:34+03:00"
+            "time": "2025-12-08T16:05:45+03:00"
         },
         {
             "symbol": "ALBRK.IS",
@@ -99,7 +117,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:04:38+03:00"
+            "time": "2025-12-08T16:05:56+03:00"
         },
         {
             "symbol": "ARCLK.IS",
@@ -114,7 +132,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:04:43+03:00"
+            "time": "2025-12-08T16:06:02+03:00"
         },
         {
             "symbol": "PGSUS.IS",
@@ -129,7 +147,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:05:04+03:00"
+            "time": "2025-12-08T16:06:11+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -144,7 +162,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-08T16:05:12+03:00"
+            "time": "2025-12-08T16:06:15+03:00"
         }
     ]
 }
