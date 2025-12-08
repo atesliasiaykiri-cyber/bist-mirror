@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-08T17:06:35+03:00",
-    "count": 1,
+    "updated": "2025-12-08T17:07:35+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "CANTE.IS",
@@ -17,7 +17,72 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:50:59+03:00"
+            "time": "2025-12-08T16:52:01+03:00"
+        },
+        {
+            "symbol": "TOASO.IS",
+            "price": 245,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.925053533190578,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:52:13+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 49.18000030517578,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.7376913529168314,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-08T16:51:46+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 41.86000061035156,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.552644347404174,
+            "range15": 0.8000000000060252,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:51:22+03:00"
+        },
+        {
+            "symbol": "KRVGD.IS",
+            "price": 2.559999942779541,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.9920318725099708,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:52:20+03:00"
         }
     ]
 }
