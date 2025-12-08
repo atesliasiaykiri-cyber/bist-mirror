@@ -1,47 +1,13 @@
 {
-    "updated": "2025-12-08T16:37:33+03:00",
-    "count": 12,
+    "updated": "2025-12-08T16:38:39+03:00",
+    "count": 11,
     "data": [
         {
-            "symbol": "ASELS.IS",
-            "price": 193.6999969482422,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.9224229543039324,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:22:02+03:00"
-        },
-        {
             "symbol": "BRISA.IS",
-            "price": 83.1500015258789,
-            "score": 80,
+            "price": 83.25,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.1637717121588236,
-            "range15": 0.9000091552740059,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:21:50+03:00"
-        },
-        {
-            "symbol": "CANTE.IS",
-            "price": 2.130000114440918,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.9478672985782,
+            "chg": 3.287841191067005,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,16 +15,17 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-08T16:21:54+03:00"
+            "time": "2025-12-08T16:22:59+03:00"
         },
         {
-            "symbol": "ENKAI.IS",
-            "price": 81.30000305175781,
-            "score": 80,
+            "symbol": "PGSUS.IS",
+            "price": 204.10000610351562,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.9435736677115951,
+            "chg": 4.239019407558724,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -66,26 +33,10 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-08T16:21:53+03:00"
-        },
-        {
-            "symbol": "EREGL.IS",
-            "price": 24.100000381469727,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.2605042016806753,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:22:06+03:00"
+            "time": "2025-12-08T16:23:18+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -102,15 +53,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:22:16+03:00"
+            "time": "2025-12-08T16:23:20+03:00"
         },
         {
-            "symbol": "AGHOL.IS",
-            "price": 28.84000015258789,
+            "symbol": "TOASO.IS",
+            "price": 244.3000030517578,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.560455192034135,
-            "range15": 1,
+            "chg": 4.6252676659528955,
+            "range15": 0.8571553133604313,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -119,14 +70,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:22:15+03:00"
+            "time": "2025-12-08T16:23:12+03:00"
         },
         {
-            "symbol": "TUPRS.IS",
-            "price": 201.5,
+            "symbol": "TURSG.IS",
+            "price": 12.170000076293945,
             "score": 70,
             "label": "Watchlist",
-            "chg": 1.9736842105263188,
+            "chg": 1.5859766277128504,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -135,7 +86,56 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-08T16:22:14+03:00"
+            "time": "2025-12-08T16:23:31+03:00"
+        },
+        {
+            "symbol": "PRKAB.IS",
+            "price": 32.7599983215332,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.49079754601225944,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-08T16:22:42+03:00"
+        },
+        {
+            "symbol": "TLMAN.IS",
+            "price": 96.69999694824219,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.781657113079729,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:22:45+03:00"
+        },
+        {
+            "symbol": "HEKTS.IS",
+            "price": 3.3299999237060547,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.0624999999999964,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:23:09+03:00"
         },
         {
             "symbol": "PETKM.IS",
@@ -143,7 +143,7 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 2.9120559114735,
-            "range15": 0.79999999999595,
+            "range15": 0.7499999999999334,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -151,53 +151,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:22:07+03:00"
+            "time": "2025-12-08T16:23:18+03:00"
         },
         {
-            "symbol": "PGSUS.IS",
-            "price": 204,
+            "symbol": "ULKER.IS",
+            "price": 114.0999984741211,
             "score": 60,
             "label": "Watchlist",
-            "chg": 4.1879468845760925,
-            "range15": 0.8333248563084523,
+            "chg": 1.3321492007104796,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:22:12+03:00"
+            "time": "2025-12-08T16:23:19+03:00"
         },
         {
-            "symbol": "DOHOL.IS",
-            "price": 17.959999084472656,
-            "score": 55,
+            "symbol": "KRVGD.IS",
+            "price": 2.549999952316284,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 1.411631846414455,
+            "chg": 1.5936254980079698,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-08T16:21:45+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 12.170000076293945,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.5859766277128504,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-08T16:22:26+03:00"
+            "time": "2025-12-08T16:23:20+03:00"
         }
     ]
 }
