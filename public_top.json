@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-08T17:03:43+03:00",
-    "count": 6,
+    "updated": "2025-12-08T17:04:35+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "BASGZ.IS",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:47:00+03:00"
+            "time": "2025-12-08T16:48:22+03:00"
         },
         {
             "symbol": "CANTE.IS",
@@ -34,7 +34,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:47:59+03:00"
+            "time": "2025-12-08T16:49:02+03:00"
+        },
+        {
+            "symbol": "EREGL.IS",
+            "price": 24.100000381469727,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.2605042016806753,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-08T16:49:06+03:00"
         },
         {
             "symbol": "PETKM.IS",
@@ -51,14 +68,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:48:22+03:00"
+            "time": "2025-12-08T16:49:07+03:00"
         },
         {
             "symbol": "LIDER.IS",
-            "price": 59.5,
+            "price": 59.54999923706055,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 6.630824372759863,
+            "chg": 6.720430107526883,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -68,38 +85,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-08T16:48:34+03:00"
-        },
-        {
-            "symbol": "TOASO.IS",
-            "price": 244.89999389648438,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.882226980728054,
-            "range15": 0.8333248563084523,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-08T16:48:21+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.420000076293945,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 3.5483870967741895,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-08T16:48:30+03:00"
+            "time": "2025-12-08T16:49:21+03:00"
         }
     ]
 }
