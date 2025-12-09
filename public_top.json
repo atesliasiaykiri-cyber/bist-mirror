@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T11:19:31+03:00",
-    "count": 3,
+    "updated": "2025-12-09T11:20:30+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "MGROS.IS",
@@ -18,15 +18,32 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T11:04:10+03:00"
+            "time": "2025-12-09T11:05:03+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 49.81999969482422,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.36261079774375443,
+            "range15": 0.8999980926572825,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T11:05:10+03:00"
         },
         {
             "symbol": "CWENE.IS",
-            "price": 28.360000610351562,
+            "price": 28.31999969482422,
             "score": 70,
             "label": "Watchlist",
-            "chg": 4.264705882352942,
-            "range15": 0.9264716400830415,
+            "chg": 4.117647058823533,
+            "range15": 0.8970591741448937,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -35,23 +52,23 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:04:18+03:00"
+            "time": "2025-12-09T11:05:17+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 49.84000015258789,
-            "score": 65,
+            "symbol": "AKBNK.IS",
+            "price": 69,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.4029008863819557,
-            "range15": 1,
+            "chg": 1.0248901903367538,
+            "range15": 0.7500047683536942,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp15",
+                "strongUpDay",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:04:09+03:00"
+            "time": "2025-12-09T11:05:01+03:00"
         }
     ]
 }
