@@ -1,59 +1,7 @@
 {
-    "updated": "2025-12-09T12:52:33+03:00",
-    "count": 7,
+    "updated": "2025-12-09T12:53:33+03:00",
+    "count": 5,
     "data": [
-        {
-            "symbol": "SKBNK.IS",
-            "price": 7.880000114440918,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 4.370860927152319,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T12:37:13+03:00"
-        },
-        {
-            "symbol": "BORSK.IS",
-            "price": 23.700000762939453,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 3.4031413612565333,
-            "range15": 0.9000023841872681,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T12:37:13+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.800000190734863,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:35:42+03:00"
-        },
         {
             "symbol": "THYAO.IS",
             "price": 272.5,
@@ -68,7 +16,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:37:14+03:00"
+            "time": "2025-12-09T12:38:15+03:00"
         },
         {
             "symbol": "DERIM.IS",
@@ -100,22 +48,37 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:37:07+03:00"
+            "time": "2025-12-09T12:37:43+03:00"
         },
         {
-            "symbol": "MPARK.IS",
-            "price": 348,
+            "symbol": "AKBNK.IS",
+            "price": 68.94999694824219,
             "score": 55,
             "label": "Watchlist",
-            "chg": 4.583020285499624,
-            "range15": 0.875,
+            "chg": 0.9516837481698472,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-09T12:37:23+03:00"
+            "time": "2025-12-09T12:37:55+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 347.75,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 4.507888805409467,
+            "range15": 0.8571428571428571,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-09T12:38:01+03:00"
         }
     ]
 }
