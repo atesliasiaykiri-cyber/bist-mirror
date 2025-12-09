@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T12:19:31+03:00",
-    "count": 1,
+    "updated": "2025-12-09T12:20:33+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "NTHOL.IS",
-            "price": 48.36000061035156,
-            "score": 90,
+            "price": 48.41999816894531,
+            "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.1715481171548165,
+            "chg": 1.2970711297071227,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,9 +16,42 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-12-09T12:03:33+03:00"
+            "time": "2025-12-09T12:05:24+03:00"
+        },
+        {
+            "symbol": "SUNTK.IS",
+            "price": 42.70000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.250957854406142,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:05:26+03:00"
+        },
+        {
+            "symbol": "TSKB.IS",
+            "price": 13.100000381469727,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.15243902439024065,
+            "range15": 0.8750089407116627,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T12:05:26+03:00"
         }
     ]
 }
