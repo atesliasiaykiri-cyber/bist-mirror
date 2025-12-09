@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-09T12:35:32+03:00",
-    "count": 3,
+    "updated": "2025-12-09T12:36:36+03:00",
+    "count": 4,
     "data": [
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.04999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8259468170829907,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:21:13+03:00"
+        },
         {
             "symbol": "SUNTK.IS",
             "price": 42.959999084472656,
@@ -20,28 +37,12 @@
             "time": "2025-12-09T12:20:23+03:00"
         },
         {
-            "symbol": "CLEBI.IS",
-            "price": 1605,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.062344139650872814,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:19:04+03:00"
-        },
-        {
             "symbol": "SISE.IS",
-            "price": 41.959999084472656,
+            "price": 41.939998626708984,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.05973025048169,
-            "range15": 1,
+            "chg": 1.0115606936416053,
+            "range15": 0.9285694822876919,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -49,7 +50,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:20:13+03:00"
+            "time": "2025-12-09T12:21:09+03:00"
+        },
+        {
+            "symbol": "FENER.IS",
+            "price": 9.90999984741211,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.10101010101009886,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T12:20:55+03:00"
         }
     ]
 }
