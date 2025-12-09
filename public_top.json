@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T12:09:33+03:00",
+    "updated": "2025-12-09T12:10:30+03:00",
     "count": 7,
     "data": [
         {
-            "symbol": "MPARK.IS",
-            "price": 348.75,
+            "symbol": "NTHOL.IS",
+            "price": 48.20000076293945,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.808414725770098,
+            "chg": 0.8368200836820203,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:54:20+03:00"
+            "time": "2025-12-09T11:55:10+03:00"
         },
         {
-            "symbol": "KUYAS.IS",
-            "price": 44.720001220703125,
+            "symbol": "AKBNK.IS",
+            "price": 69.0999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.568807339449535,
+            "chg": 1.1713030746705668,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +35,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:54:16+03:00"
+            "time": "2025-12-09T11:54:59+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 44.84000015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.8440366972477107,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:55:10+03:00"
         },
         {
             "symbol": "SUNTK.IS",
@@ -52,54 +69,40 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:50:05+03:00"
+            "time": "2025-12-09T11:54:32+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 48.18000030517578,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": 0.7949790794979132,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T11:53:55+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69,
-            "score": 55,
+            "symbol": "MGROS.IS",
+            "price": 519,
+            "score": 70,
             "label": "Watchlist",
-            "chg": 1.0248901903367538,
+            "chg": 1.5655577299412915,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-09T11:53:58+03:00"
-        },
-        {
-            "symbol": "TTRAK.IS",
-            "price": 526.5,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.2840909090909091,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T11:54:03+03:00"
+            "time": "2025-12-09T11:55:10+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 348,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 4.583020285499624,
+            "range15": 0.75,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T11:55:15+03:00"
         },
         {
             "symbol": "FMIZP.IS",
@@ -115,7 +118,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T11:54:10+03:00"
+            "time": "2025-12-09T11:54:48+03:00"
         }
     ]
 }
