@@ -1,51 +1,32 @@
 {
-    "updated": "2025-12-09T10:24:33+03:00",
-    "count": 8,
+    "updated": "2025-12-09T10:25:33+03:00",
+    "count": 7,
     "data": [
         {
-            "symbol": "SKBNK.IS",
-            "price": 7.710000038146973,
-            "score": 100,
+            "symbol": "VESTL.IS",
+            "price": 33.380001068115234,
+            "score": 85,
             "label": "Strong Short Zone",
-            "chg": 2.119205298013247,
-            "range15": 1,
+            "chg": 0.7850241545893875,
+            "range15": 0.8666759915059365,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T10:09:12+03:00"
-        },
-        {
-            "symbol": "YEOTK.IS",
-            "price": 39.279998779296875,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 0.8731381612737633,
-            "range15": 0.8947347287063675,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T10:09:26+03:00"
+            "time": "2025-12-09T10:10:09+03:00"
         },
         {
             "symbol": "SMRTG.IS",
-            "price": 29.420000076293945,
+            "price": 29.3799991607666,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.0302197802197826,
-            "range15": 0.9583325054928599,
+            "chg": 0.892857142857136,
+            "range15": 0.8749975164806743,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -54,7 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T10:09:15+03:00"
+            "time": "2025-12-09T10:10:13+03:00"
         },
         {
             "symbol": "OBASE.IS",
@@ -71,30 +52,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T10:09:09+03:00"
+            "time": "2025-12-09T10:09:59+03:00"
         },
         {
-            "symbol": "GESAN.IS",
-            "price": 45.380001068115234,
+            "symbol": "PETKM.IS",
+            "price": 17.639999389648438,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.2651347768449062,
-            "range15": 0.8749970197627874,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T10:08:50+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.809999942779541,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.2083333333333289,
+            "chg": 0.1703577512776896,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -103,14 +68,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T10:09:08+03:00"
+            "time": "2025-12-09T10:10:10+03:00"
         },
         {
-            "symbol": "KARSN.IS",
-            "price": 9.550000190734863,
+            "symbol": "SKBNK.IS",
+            "price": 7.699999809265137,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.10482180293502688,
+            "chg": 1.9867549668874218,
+            "range15": 0.6666613685115041,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-09T10:10:12+03:00"
+        },
+        {
+            "symbol": "SUNTK.IS",
+            "price": 42,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.5747126436781657,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -119,7 +101,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T10:09:08+03:00"
+            "time": "2025-12-09T10:10:24+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -134,7 +116,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T10:09:05+03:00"
+            "time": "2025-12-09T10:10:18+03:00"
         }
     ]
 }
