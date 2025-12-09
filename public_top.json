@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T13:25:33+03:00",
-    "count": 2,
+    "updated": "2025-12-09T13:26:32+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "AKBNK.IS",
-            "price": 69,
+            "symbol": "BASGZ.IS",
+            "price": 42.2400016784668,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.0248901903367538,
+            "chg": 0.8595988538681935,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:09:00+03:00"
+            "time": "2025-12-09T13:10:58+03:00"
         },
         {
-            "symbol": "AKSEN.IS",
-            "price": 61.900001525878906,
+            "symbol": "KRDMD.IS",
+            "price": 25.81999969482422,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.6504065040650383,
+            "chg": -0.0773993808049519,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,7 +33,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:09:49+03:00"
+            "time": "2025-12-09T13:11:11+03:00"
+        },
+        {
+            "symbol": "KRVGD.IS",
+            "price": 2.559999942779541,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.39215686274510714,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:10:32+03:00"
         }
     ]
 }
