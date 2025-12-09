@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T13:54:36+03:00",
-    "count": 5,
+    "updated": "2025-12-09T13:55:33+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "DERIM.IS",
@@ -21,28 +21,28 @@
             "time": "2025-12-09T13:39:21+03:00"
         },
         {
-            "symbol": "GSDHO.IS",
-            "price": 4.829999923706055,
-            "score": 75,
+            "symbol": "SRVGY.IS",
+            "price": 3.559999942779541,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.6250000000000052,
+            "chg": 1.4245014245014322,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-09T13:38:42+03:00"
+            "time": "2025-12-09T13:40:23+03:00"
         },
         {
             "symbol": "ASELS.IS",
-            "price": 195.3000030517578,
+            "price": 195.5,
             "score": 70,
             "label": "Watchlist",
-            "chg": 0.8260196179659386,
+            "chg": 0.9292720702116734,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -52,7 +52,23 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T13:39:02+03:00"
+            "time": "2025-12-09T13:40:02+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 516.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.076320939334638,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:39:47+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -67,7 +83,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T13:39:08+03:00"
+            "time": "2025-12-09T13:39:57+03:00"
         },
         {
             "symbol": "GSDDE.IS",
