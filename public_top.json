@@ -1,13 +1,30 @@
 {
-    "updated": "2025-12-09T13:08:32+03:00",
-    "count": 5,
+    "updated": "2025-12-09T13:09:32+03:00",
+    "count": 4,
     "data": [
         {
+            "symbol": "CWENE.IS",
+            "price": 28.440000534057617,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 4.5588235294117725,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T12:54:17+03:00"
+        },
+        {
             "symbol": "BERA.IS",
-            "price": 17.190000534057617,
+            "price": 17.209999084472656,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.4088785046728988,
+            "chg": 0.5257009345794383,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +33,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:53:03+03:00"
+            "time": "2025-12-09T12:54:03+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -48,39 +65,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:53:13+03:00"
-        },
-        {
-            "symbol": "KRVGD.IS",
-            "price": 2.559999942779541,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.39215686274510714,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:52:55+03:00"
-        },
-        {
-            "symbol": "CWENE.IS",
-            "price": 28.34000015258789,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.191176470588238,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:53:16+03:00"
+            "time": "2025-12-09T12:53:56+03:00"
         }
     ]
 }
