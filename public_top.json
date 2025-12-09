@@ -1,59 +1,23 @@
 {
-    "updated": "2025-12-09T12:29:32+03:00",
-    "count": 4,
+    "updated": "2025-12-09T12:30:30+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "NTHOL.IS",
-            "price": 48.68000030517578,
-            "score": 100,
-            "label": "Strong Short Zone",
-            "chg": 1.8410041841004237,
-            "range15": 0.9130420360411409,
+            "price": 48.619998931884766,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.715481171548118,
+            "range15": 0.7499952316475714,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-09T12:14:03+03:00"
-        },
-        {
-            "symbol": "SUNTK.IS",
-            "price": 42.779998779296875,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.442528735632192,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:14:02+03:00"
-        },
-        {
-            "symbol": "BASGZ.IS",
-            "price": 42.15999984741211,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": 0.668576886341915,
-            "range15": 0.8888865341398028,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
                 "rp30",
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T12:13:58+03:00"
+            "time": "2025-12-09T12:14:51+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -69,7 +33,23 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-09T12:14:19+03:00"
+            "time": "2025-12-09T12:15:21+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.769999980926514,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.6250000000000052,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T12:12:13+03:00"
         }
     ]
 }
