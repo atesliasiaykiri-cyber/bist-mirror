@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T13:46:30+03:00",
+    "updated": "2025-12-09T13:47:37+03:00",
     "count": 4,
     "data": [
         {
             "symbol": "BORSK.IS",
-            "price": 23.959999084472656,
-            "score": 80,
+            "price": 24.020000457763672,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.537521815008723,
+            "chg": 4.799301919720758,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -15,9 +15,10 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T13:31:15+03:00"
+            "time": "2025-12-09T13:32:23+03:00"
         },
         {
             "symbol": "CWENE.IS",
@@ -25,7 +26,7 @@
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 5.735294117647068,
-            "range15": 0.9523798711169713,
+            "range15": 0.9499990463285075,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -34,14 +35,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:31:14+03:00"
+            "time": "2025-12-09T13:32:23+03:00"
         },
         {
             "symbol": "DERIM.IS",
-            "price": 35.560001373291016,
+            "price": 35.599998474121094,
             "score": 75,
             "label": "Strong Short Zone",
-            "chg": 0.056274620146322805,
+            "chg": 0.16882386043894843,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,14 +52,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T13:28:42+03:00"
+            "time": "2025-12-09T13:31:57+03:00"
         },
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.5299999713897705,
+            "symbol": "GSDHO.IS",
+            "price": 4.820000171661377,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.5698005698005704,
+            "chg": 0.4166666666666763,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -67,7 +68,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:31:09+03:00"
+            "time": "2025-12-09T13:31:16+03:00"
         }
     ]
 }
