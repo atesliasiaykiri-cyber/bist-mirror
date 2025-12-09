@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T18:22:36+03:00",
+    "updated": "2025-12-09T18:23:38+03:00",
     "count": 97,
     "data": [
         {
@@ -612,7 +612,7 @@
             "score": 35,
             "label": "Neutral",
             "chg": 1.4641288433382138,
-            "range15": 0.5000381475570866,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -631,6 +631,20 @@
             "reasons": [
                 "dayHighClose",
                 "strongUpDay"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "EREGL.IS",
+            "price": 24.239999771118164,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 0.33112582781456246,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
@@ -668,7 +682,7 @@
             "score": 35,
             "label": "Neutral",
             "chg": 0.8196721311475527,
-            "range15": 0.6000038147582027,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -682,7 +696,7 @@
             "score": 30,
             "label": "Neutral",
             "chg": -0.6717850287907897,
-            "range15": 0.2000038146754165,
+            "range15": 0.3333439297998269,
             "vwapPrem": null,
             "reasons": [
                 "rp60",
@@ -697,24 +711,11 @@
             "score": 25,
             "label": "Neutral",
             "chg": -0.9990917347865524,
-            "range15": 0.8333280350931291,
+            "range15": 0.7499880787731648,
             "vwapPrem": null,
             "reasons": [
                 "rp30",
                 "rp60"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "EREGL.IS",
-            "price": 24.239999771118164,
-            "score": 20,
-            "label": "Neutral",
-            "chg": 0.33112582781456246,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
@@ -854,7 +855,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 2.8301886792452855,
-            "range15": 0.5,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -982,7 +983,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.2003693444136632,
-            "range15": 0.3333333333333333,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-09T18:00:00+03:00"
@@ -1092,7 +1093,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -52.55305039787799,
-            "range15": 0.4285772673438618,
+            "range15": 0.7500178814232865,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-09T18:00:00+03:00"
@@ -1279,7 +1280,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.09478672985781451,
-            "range15": 0.09999847411999951,
+            "range15": 0.1428555858299461,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-09T18:00:00+03:00"
