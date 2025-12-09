@@ -1,7 +1,40 @@
 {
-    "updated": "2025-12-09T11:38:32+03:00",
-    "count": 4,
+    "updated": "2025-12-09T11:39:34+03:00",
+    "count": 5,
     "data": [
+        {
+            "symbol": "MPARK.IS",
+            "price": 341,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.479338842975207,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:24:24+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 44.41999816894531,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.880733944954129,
+            "range15": 0.8571389645748725,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T11:24:18+03:00"
+        },
         {
             "symbol": "PGSUS.IS",
             "price": 203.60000610351562,
@@ -16,38 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:23:12+03:00"
+            "time": "2025-12-09T11:24:14+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 50.04999923706055,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.8259468170829907,
-            "range15": 0.7916679912279353,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:23:10+03:00"
-        },
-        {
-            "symbol": "MPARK.IS",
-            "price": 339.25,
+            "symbol": "SANEL.IS",
+            "price": 40.5,
             "score": 55,
             "label": "Watchlist",
-            "chg": 1.9534184823441023,
-            "range15": 0.875,
+            "chg": -2.126631222812959,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T11:23:11+03:00"
+            "time": "2025-12-09T11:24:15+03:00"
         },
         {
             "symbol": "SUNTK.IS",
@@ -62,7 +80,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-09T11:23:18+03:00"
+            "time": "2025-12-09T11:24:18+03:00"
         }
     ]
 }
