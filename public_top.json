@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T18:27:38+03:00",
+    "updated": "2025-12-09T18:28:38+03:00",
     "count": 97,
     "data": [
         {
@@ -18,6 +18,24 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "SAHOL.IS",
+            "price": 86.44999694824219,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 0.9340338587273754,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
@@ -45,23 +63,6 @@
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 1.761252446183953,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "SAHOL.IS",
-            "price": 86.44999694824219,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.9340338587273754,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -108,6 +109,23 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
+            "symbol": "DOAS.IS",
+            "price": 187.6999969482422,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": -1.5731515469323547,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
             "symbol": "EGEEN.IS",
             "price": 7330,
             "score": 75,
@@ -142,44 +160,11 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "ODAS.IS",
-            "price": 5.460000038146973,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.298701298701304,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
             "symbol": "BRISA.IS",
             "price": 82.05000305175781,
             "score": 65,
             "label": "Watchlist",
             "chg": -1.441441441441445,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "DOAS.IS",
-            "price": 187.6999969482422,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -1.5731515469323547,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -404,6 +389,22 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 0.8423586040914595,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "ODAS.IS",
+            "price": 5.460000038146973,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.298701298701304,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -708,21 +709,6 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "ALFAS.IS",
-            "price": 43.599998474121094,
-            "score": 35,
-            "label": "Neutral",
-            "chg": -0.9990917347865524,
-            "range15": 0,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
             "symbol": "SNICA.IS",
             "price": 4.050000190734863,
             "score": 35,
@@ -761,6 +747,20 @@
             "reasons": [
                 "strongUpDay",
                 "rp30"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "ALFAS.IS",
+            "price": 43.599998474121094,
+            "score": 25,
+            "label": "Neutral",
+            "chg": -0.9990917347865524,
+            "range15": 0,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30",
+                "rp60"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
