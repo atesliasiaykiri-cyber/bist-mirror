@@ -1,7 +1,43 @@
 {
-    "updated": "2025-12-09T16:58:32+03:00",
-    "count": 8,
+    "updated": "2025-12-09T16:59:33+03:00",
+    "count": 9,
     "data": [
+        {
+            "symbol": "TAVHL.IS",
+            "price": 288.75,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.3157894736842104,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T16:44:10+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 13.920000076293945,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.605839416058399,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T16:44:24+03:00"
+        },
         {
             "symbol": "KRVGD.IS",
             "price": 2.630000114440918,
@@ -17,14 +53,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T16:43:17+03:00"
+            "time": "2025-12-09T16:44:18+03:00"
         },
         {
-            "symbol": "PENTA.IS",
-            "price": 13.869999885559082,
+            "symbol": "MPARK.IS",
+            "price": 342.25,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.2408759124087587,
+            "chg": 2.8549962434259957,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,40 +70,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T16:43:06+03:00"
+            "time": "2025-12-09T16:44:19+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 288.25,
-            "score": 70,
+            "symbol": "ECILC.IS",
+            "price": 90.0999984741211,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 1.1403508771929824,
-            "range15": 0.8333333333333334,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T16:43:10+03:00"
-        },
-        {
-            "symbol": "MPARK.IS",
-            "price": 341.75,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.70473328324568,
+            "chg": 0.2782415136338342,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-09T16:43:04+03:00"
+            "time": "2025-12-09T16:43:41+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -86,6 +105,22 @@
             "time": "2025-12-09T16:42:59+03:00"
         },
         {
+            "symbol": "EUREN.IS",
+            "price": 6.300000190734863,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -1.4084507042253498,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T16:43:39+03:00"
+        },
+        {
             "symbol": "AKBNK.IS",
             "price": 69.30000305175781,
             "score": 55,
@@ -98,22 +133,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-09T16:42:56+03:00"
-        },
-        {
-            "symbol": "KARSN.IS",
-            "price": 9.510000228881836,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.31446540880502477,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-09T16:42:55+03:00"
+            "time": "2025-12-09T16:44:01+03:00"
         },
         {
             "symbol": "VAKBN.IS",
@@ -129,7 +149,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T16:43:17+03:00"
+            "time": "2025-12-09T16:44:11+03:00"
         }
     ]
 }
