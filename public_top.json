@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T12:24:31+03:00",
-    "count": 5,
+    "updated": "2025-12-09T12:25:30+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "NTHOL.IS",
@@ -19,15 +19,15 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T12:09:03+03:00"
+            "time": "2025-12-09T12:10:03+03:00"
         },
         {
             "symbol": "SUNTK.IS",
-            "price": 42.779998779296875,
+            "price": 42.7599983215332,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.442528735632192,
-            "range15": 1,
+            "chg": 2.3946360153256707,
+            "range15": 0.9166640175465349,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -36,23 +36,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:09:21+03:00"
+            "time": "2025-12-09T12:09:34+03:00"
         },
         {
-            "symbol": "ISCTR.IS",
-            "price": 14.34000015258789,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 0.843881856540079,
+            "symbol": "AKSEN.IS",
+            "price": 61.79999923706055,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.48780487804877587,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T12:09:08+03:00"
+            "time": "2025-12-09T12:09:52+03:00"
         },
         {
             "symbol": "SOKM.IS",
@@ -68,7 +69,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T12:09:09+03:00"
+            "time": "2025-12-09T12:10:02+03:00"
         },
         {
             "symbol": "BASGZ.IS",
@@ -85,6 +86,22 @@
                 "rp60"
             ],
             "time": "2025-12-09T12:08:59+03:00"
+        },
+        {
+            "symbol": "TTRAK.IS",
+            "price": 526.5,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -0.2840909090909091,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:10:09+03:00"
         }
     ]
 }
