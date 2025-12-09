@@ -1,13 +1,30 @@
 {
-    "updated": "2025-12-09T13:10:33+03:00",
+    "updated": "2025-12-09T13:11:32+03:00",
     "count": 5,
     "data": [
         {
+            "symbol": "BERA.IS",
+            "price": 17.229999542236328,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.7009345794392373,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T12:55:00+03:00"
+        },
+        {
             "symbol": "CWENE.IS",
-            "price": 28.440000534057617,
+            "price": 28.459999084472656,
             "score": 70,
             "label": "Watchlist",
-            "chg": 4.5588235294117725,
+            "chg": 4.632352941176476,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,23 +34,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T12:55:20+03:00"
-        },
-        {
-            "symbol": "BERA.IS",
-            "price": 17.229999542236328,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6425233644859779,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:55:02+03:00"
+            "time": "2025-12-09T12:56:17+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -65,7 +66,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:54:57+03:00"
+            "time": "2025-12-09T12:56:11+03:00"
         },
         {
             "symbol": "KRVGD.IS",
@@ -81,7 +82,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:55:03+03:00"
+            "time": "2025-12-09T12:56:13+03:00"
         }
     ]
 }
