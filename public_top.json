@@ -1,7 +1,40 @@
 {
-    "updated": "2025-12-09T12:40:30+03:00",
-    "count": 2,
+    "updated": "2025-12-09T12:41:33+03:00",
+    "count": 5,
     "data": [
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.04999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8259468170829907,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:25:17+03:00"
+        },
+        {
+            "symbol": "SMRTG.IS",
+            "price": 29.739999771118164,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.1291208791208702,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:25:00+03:00"
+        },
         {
             "symbol": "SUNTK.IS",
             "price": 42.91999816894531,
@@ -31,7 +64,23 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T12:25:02+03:00"
+            "time": "2025-12-09T12:25:28+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 48.58000183105469,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.6317991631799187,
+            "range15": 0.41667328936097764,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T12:26:17+03:00"
         }
     ]
 }
