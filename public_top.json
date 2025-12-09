@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T19:14:31+03:00",
+    "updated": "2025-12-09T19:15:36+03:00",
     "count": 97,
     "data": [
         {
@@ -38,6 +38,21 @@
             "score": 45,
             "label": "Neutral",
             "chg": 3.87665198237886,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 29.280000686645508,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 7.647058823529419,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -139,20 +154,6 @@
             "score": 35,
             "label": "Neutral",
             "chg": 1.7543859649122806,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "CWENE.IS",
-            "price": 29.280000686645508,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 7.647058823529419,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
