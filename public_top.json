@@ -1,23 +1,54 @@
 {
-    "updated": "2025-12-09T13:18:31+03:00",
-    "count": 1,
+    "updated": "2025-12-09T13:19:33+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "TRCAS.IS",
-            "price": 42.779998779296875,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": -0.04672897196260753,
+            "symbol": "AKBNK.IS",
+            "price": 68.94999694824219,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 0.9516837481698472,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T13:04:01+03:00"
+        },
+        {
+            "symbol": "BERA.IS",
+            "price": 17.229999542236328,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.6425233644859779,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-09T13:03:06+03:00"
+            "time": "2025-12-09T13:04:01+03:00"
+        },
+        {
+            "symbol": "KRVGD.IS",
+            "price": 2.559999942779541,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.39215686274510714,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:03:51+03:00"
         }
     ]
 }
