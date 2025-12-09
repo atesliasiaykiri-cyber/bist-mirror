@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T18:07:34+03:00",
-    "count": 19,
+    "updated": "2025-12-09T18:08:34+03:00",
+    "count": 21,
     "data": [
         {
             "symbol": "BAGFS.IS",
             "price": 27.799999237060547,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.1619462599854766,
+            "chg": 1.2345679012345674,
             "range15": 0.9333316379101432,
             "vwapPrem": null,
             "reasons": [
@@ -23,11 +23,11 @@
         },
         {
             "symbol": "ULKER.IS",
-            "price": 116.9000015258789,
+            "price": 116.80000305175781,
             "score": 90,
             "label": "Strong Short Zone",
             "chg": 2.9955947136563927,
-            "range15": 1,
+            "range15": 0.9000015258800005,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -37,15 +37,33 @@
                 "rp60",
                 "rsiOB"
             ],
+            "time": "2025-12-09T17:52:00+03:00"
+        },
+        {
+            "symbol": "BIOEN.IS",
+            "price": 20.780000686645508,
+            "score": 85,
+            "label": "Strong Short Zone",
+            "chg": -0.4798464491362832,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
             "time": "2025-12-09T17:51:00+03:00"
         },
         {
             "symbol": "ASELS.IS",
-            "price": 202.60000610351562,
+            "price": 202.5,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 4.594734124935471,
-            "range15": 1,
+            "chg": 4.543107898812603,
+            "range15": 0.9090858648874911,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -54,11 +72,11 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "MGROS.IS",
-            "price": 518.5,
+            "price": 519,
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 1.5655577299412915,
@@ -71,14 +89,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:47:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
-            "symbol": "PRKAB.IS",
-            "price": 32.720001220703125,
+            "symbol": "ODAS.IS",
+            "price": 5.460000038146973,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.8641975308642011,
+            "chg": 1.1131725417439797,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -88,48 +106,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
-        },
-        {
-            "symbol": "TAVHL.IS",
-            "price": 290,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.6666666666666667,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T17:50:00+03:00"
-        },
-        {
-            "symbol": "CWENE.IS",
-            "price": 29.360000610351562,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 7.720588235294123,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "KRVGD.IS",
             "price": 2.630000114440918,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.745098039215698,
+            "chg": 3.137254901960787,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -139,7 +123,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "KUYAS.IS",
@@ -160,28 +144,11 @@
             "time": "2025-12-09T17:51:00+03:00"
         },
         {
-            "symbol": "BIOEN.IS",
-            "price": 20.579999923706055,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": -0.28790786948175967,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T17:47:00+03:00"
-        },
-        {
             "symbol": "ISCTR.IS",
-            "price": 14.34000015258789,
+            "price": 14.350000381469727,
             "score": 70,
             "label": "Watchlist",
-            "chg": 0.843881856540079,
+            "chg": 0.9142053445850843,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -190,14 +157,14 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "DOAS.IS",
-            "price": 187.1999969482422,
+            "price": 187.39999389648438,
             "score": 65,
             "label": "Watchlist",
-            "chg": -1.7829050865233231,
+            "chg": -1.7304667016255812,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -206,14 +173,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
-            "symbol": "QUAGR.IS",
-            "price": 3.3499999046325684,
+            "symbol": "GESAN.IS",
+            "price": 44.70000076293945,
             "score": 65,
             "label": "Watchlist",
-            "chg": -2.898550724637684,
+            "chg": -1.2372956252761713,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -222,14 +189,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:47:00+03:00"
         },
         {
-            "symbol": "TTRAK.IS",
-            "price": 526,
+            "symbol": "THYAO.IS",
+            "price": 272,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.4734848484848485,
+            "chg": -0.09182736455463728,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -238,14 +205,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "KONYA.IS",
             "price": 4722.5,
             "score": 65,
             "label": "Watchlist",
-            "chg": -1.3569937369519833,
+            "chg": -1.4091858037578289,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -254,14 +221,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:50:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
-            "symbol": "OZKGY.IS",
-            "price": 14.949999809265137,
+            "symbol": "KORDS.IS",
+            "price": 50.599998474121094,
             "score": 65,
             "label": "Watchlist",
-            "chg": -1.3218770654329217,
+            "chg": -0.09871668311944158,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -270,14 +237,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "TTKOM.IS",
-            "price": 56.599998474121094,
+            "price": 56.70000076293945,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.3539823008849608,
+            "chg": 0.4424778761061947,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -286,22 +253,85 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
-            "symbol": "PENTA.IS",
-            "price": 14,
-            "score": 55,
+            "symbol": "YEOTK.IS",
+            "price": 38.779998779296875,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 2.11678832116789,
+            "chg": -0.5136106831021976,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T17:52:00+03:00"
+        },
+        {
+            "symbol": "SEKUR.IS",
+            "price": 4.139999866485596,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.9756097560975618,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
                 "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30",
+                "rp60"
             ],
             "time": "2025-12-09T17:49:00+03:00"
+        },
+        {
+            "symbol": "EGEEN.IS",
+            "price": 7290,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -3.6068828590337527,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T17:52:00+03:00"
+        },
+        {
+            "symbol": "FROTO.IS",
+            "price": 91.30000305175781,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -1.029810298102984,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T17:52:00+03:00"
+        },
+        {
+            "symbol": "YKBNK.IS",
+            "price": 36.41999816894531,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.6007646095030007,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T17:52:00+03:00"
         },
         {
             "symbol": "TSKB.IS",
@@ -316,7 +346,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T17:51:00+03:00"
+            "time": "2025-12-09T17:52:00+03:00"
         }
     ]
 }
