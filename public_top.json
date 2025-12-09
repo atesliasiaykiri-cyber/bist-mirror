@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T11:17:33+03:00",
-    "count": 6,
+    "updated": "2025-12-09T11:18:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "MGROS.IS",
@@ -18,14 +18,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T11:02:11+03:00"
+            "time": "2025-12-09T11:03:07+03:00"
         },
         {
-            "symbol": "ODAS.IS",
-            "price": 5.460000038146973,
+            "symbol": "PENTA.IS",
+            "price": 13.850000381469727,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.298701298701304,
+            "chg": 1.0948905109489078,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,56 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:01:57+03:00"
-        },
-        {
-            "symbol": "CWENE.IS",
-            "price": 28.34000015258789,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 4.191176470588238,
-            "range15": 0.9117654071139689,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T11:02:18+03:00"
-        },
-        {
-            "symbol": "FENER.IS",
-            "price": 9.920000076293945,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.20202020202019771,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:01:58+03:00"
-        },
-        {
-            "symbol": "PGSUS.IS",
-            "price": 203.3000030517578,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:01:59+03:00"
+            "time": "2025-12-09T11:03:24+03:00"
         },
         {
             "symbol": "SOKM.IS",
@@ -100,7 +51,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:02:14+03:00"
+            "time": "2025-12-09T11:03:14+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 11.649999618530273,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.4310344827586268,
+            "range15": 0.6249910592883484,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T11:02:59+03:00"
         }
     ]
 }
