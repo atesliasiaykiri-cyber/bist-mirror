@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T12:00:31+03:00",
+    "updated": "2025-12-09T12:01:32+03:00",
     "count": 5,
     "data": [
         {
             "symbol": "ASELS.IS",
-            "price": 195.3000030517578,
+            "price": 195.39999389648438,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 0.8260196179659386,
+            "chg": 0.877645844088806,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:45:03+03:00"
+            "time": "2025-12-09T11:46:02+03:00"
         },
         {
             "symbol": "MPARK.IS",
-            "price": 346.25,
+            "price": 346.5,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.0570999248685204,
+            "chg": 4.132231404958678,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -36,14 +36,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:45:22+03:00"
+            "time": "2025-12-09T11:46:18+03:00"
         },
         {
             "symbol": "NTHOL.IS",
-            "price": 47.97999954223633,
+            "price": 48.02000045776367,
             "score": 75,
             "label": "Strong Short Zone",
-            "chg": 0.3765690376569032,
+            "chg": 0.4602510460251171,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,14 +53,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:45:23+03:00"
+            "time": "2025-12-09T11:45:50+03:00"
         },
         {
-            "symbol": "FENER.IS",
-            "price": 9.920000076293945,
+            "symbol": "TUPRS.IS",
+            "price": 199.5,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.20202020202019771,
+            "chg": 0.2009040683073861,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -69,22 +69,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:45:05+03:00"
+            "time": "2025-12-09T11:46:16+03:00"
         },
         {
-            "symbol": "TTRAK.IS",
-            "price": 526.5,
-            "score": 55,
+            "symbol": "DERIM.IS",
+            "price": 35.400001525878906,
+            "score": 65,
             "label": "Watchlist",
-            "chg": -0.2840909090909091,
+            "chg": -0.3939223410241997,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-12-09T11:44:44+03:00"
+            "time": "2025-12-09T11:46:01+03:00"
         }
     ]
 }
