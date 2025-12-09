@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-09T11:54:32+03:00",
-    "count": 9,
+    "updated": "2025-12-09T11:55:33+03:00",
+    "count": 8,
     "data": [
         {
             "symbol": "MPARK.IS",
-            "price": 346.25,
+            "price": 346,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.0570999248685204,
-            "range15": 1,
+            "chg": 3.9819684447783623,
+            "range15": 0.9523809523809523,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:39:21+03:00"
+            "time": "2025-12-09T11:40:23+03:00"
         },
         {
-            "symbol": "SUNTK.IS",
-            "price": 42.58000183105469,
+            "symbol": "MGROS.IS",
+            "price": 519,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.9636015325670504,
+            "chg": 1.5655577299412915,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,14 +35,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:39:13+03:00"
+            "time": "2025-12-09T11:40:06+03:00"
+        },
+        {
+            "symbol": "SUNTK.IS",
+            "price": 42.58000183105469,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.9636015325670504,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T11:40:11+03:00"
         },
         {
             "symbol": "ASELS.IS",
-            "price": 194.60000610351562,
+            "price": 194.8000030517578,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.4646360351058367,
+            "chg": 0.5678884873515864,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,7 +67,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:39:03+03:00"
+            "time": "2025-12-09T11:40:02+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -67,54 +83,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:38:52+03:00"
+            "time": "2025-12-09T11:39:57+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 285.75,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.2631578947368421,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:39:12+03:00"
-        },
-        {
-            "symbol": "TUPRS.IS",
-            "price": 199.39999389648438,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.15067805123054312,
-            "range15": 0.8571335149796766,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:39:12+03:00"
-        },
-        {
-            "symbol": "MGROS.IS",
-            "price": 518.5,
+            "symbol": "BIMAS.IS",
+            "price": 529.5,
             "score": 55,
             "label": "Watchlist",
-            "chg": 1.467710371819961,
+            "chg": 0.37914691943127965,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30"
             ],
-            "time": "2025-12-09T11:39:03+03:00"
+            "time": "2025-12-09T11:40:01+03:00"
         },
         {
             "symbol": "DERIM.IS",
@@ -145,7 +129,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T11:39:02+03:00"
+            "time": "2025-12-09T11:40:11+03:00"
         }
     ]
 }
