@@ -1,39 +1,24 @@
 {
-    "updated": "2025-12-09T11:32:34+03:00",
-    "count": 2,
+    "updated": "2025-12-09T11:33:33+03:00",
+    "count": 1,
     "data": [
         {
             "symbol": "PENTA.IS",
-            "price": 13.899999618530273,
-            "score": 80,
+            "price": 13.930000305175781,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.4598540145985481,
-            "range15": 0.8999971389586352,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:17:17+03:00"
-        },
-        {
-            "symbol": "MPARK.IS",
-            "price": 339,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 1.8782870022539442,
+            "chg": 1.6788321167883244,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp60"
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T11:17:23+03:00"
+            "time": "2025-12-09T11:18:22+03:00"
         }
     ]
 }
