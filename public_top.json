@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T12:31:33+03:00",
-    "count": 2,
+    "updated": "2025-12-09T12:32:33+03:00",
+    "count": 4,
     "data": [
         {
-            "symbol": "SUNTK.IS",
-            "price": 42.86000061035156,
+            "symbol": "SOKM.IS",
+            "price": 50.04999923706055,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.634099616858241,
+            "chg": 0.8259468170829907,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,24 +17,56 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:16:24+03:00"
+            "time": "2025-12-09T12:17:12+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 48.619998931884766,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.715481171548118,
-            "range15": 0.7368368217645819,
+            "symbol": "SUNTK.IS",
+            "price": 42.84000015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.586206896551737,
+            "range15": 0.9374985098815686,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-09T12:14:51+03:00"
+            "time": "2025-12-09T12:17:16+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 348.25,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 4.658151765589782,
+            "range15": 0.9090909090909091,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:17:22+03:00"
+        },
+        {
+            "symbol": "SISE.IS",
+            "price": 41.939998626708984,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.0115606936416053,
+            "range15": 0.9285694822876919,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:17:12+03:00"
         }
     ]
 }
