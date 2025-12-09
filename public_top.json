@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T11:48:32+03:00",
-    "count": 3,
+    "updated": "2025-12-09T11:49:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "SUNTK.IS",
-            "price": 42.540000915527344,
+            "price": 42.560001373291016,
             "score": 70,
             "label": "Watchlist",
-            "chg": 1.8678160919540259,
+            "chg": 1.9157088122605466,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +16,39 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T11:33:25+03:00"
+            "time": "2025-12-09T11:33:36+03:00"
+        },
+        {
+            "symbol": "FENER.IS",
+            "price": 9.920000076293945,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.20202020202019771,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:34:06+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 285.75,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.2631578947368421,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:34:13+03:00"
         },
         {
             "symbol": "TUPRS.IS",
@@ -32,7 +64,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:33:14+03:00"
+            "time": "2025-12-09T11:34:14+03:00"
         },
         {
             "symbol": "DERIM.IS",
@@ -48,7 +80,22 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:28:20+03:00"
+            "time": "2025-12-09T11:34:07+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 47.86000061035156,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.12552301255230602,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T11:33:58+03:00"
         }
     ]
 }
