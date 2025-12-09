@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T18:44:37+03:00",
+    "updated": "2025-12-09T18:45:42+03:00",
     "count": 97,
     "data": [
         {
@@ -69,6 +69,23 @@
                 "strongUpDay",
                 "rp30",
                 "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 29.280000686645508,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 7.647058823529419,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
                 "rsiOB",
                 "rsiExtreme"
             ],
@@ -427,6 +444,22 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
+            "symbol": "BASGZ.IS",
+            "price": 42,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 0.28653295128939216,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
             "symbol": "ODAS.IS",
             "price": 5.460000038146973,
             "score": 45,
@@ -594,20 +627,6 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "CWENE.IS",
-            "price": 29.280000686645508,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 7.647058823529419,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
             "symbol": "EUREN.IS",
             "price": 6.320000171661377,
             "score": 35,
@@ -748,20 +767,6 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp60"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "BASGZ.IS",
-            "price": 42,
-            "score": 25,
-            "label": "Neutral",
-            "chg": 0.28653295128939216,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30",
                 "rp60"
             ],
             "time": "2025-12-09T18:00:00+03:00"
