@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T18:25:41+03:00",
+    "updated": "2025-12-09T18:26:37+03:00",
     "count": 97,
     "data": [
         {
@@ -118,6 +118,23 @@
             "reasons": [
                 "dayHighClose",
                 "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "ODAS.IS",
+            "price": 5.460000038146973,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.298701298701304,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
                 "rp30",
                 "rp60",
                 "rsiOB"
@@ -386,22 +403,6 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 0.8423586040914595,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "ODAS.IS",
-            "price": 5.460000038146973,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.298701298701304,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -704,6 +705,21 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
+            "symbol": "ALFAS.IS",
+            "price": 43.599998474121094,
+            "score": 35,
+            "label": "Neutral",
+            "chg": -0.9990917347865524,
+            "range15": 0.7499880787731648,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
             "symbol": "TURSG.IS",
             "price": 12.300000190734863,
             "score": 35,
@@ -714,20 +730,6 @@
             "reasons": [
                 "dayHighClose",
                 "strongUpDay"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "ALFAS.IS",
-            "price": 43.599998474121094,
-            "score": 25,
-            "label": "Neutral",
-            "chg": -0.9990917347865524,
-            "range15": 0.7499880787731648,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30",
-                "rp60"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
