@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T13:52:34+03:00",
-    "count": 4,
+    "updated": "2025-12-09T13:53:33+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "DERIM.IS",
@@ -21,27 +21,10 @@
             "time": "2025-12-09T13:36:18+03:00"
         },
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.559999942779541,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.4245014245014322,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T13:37:27+03:00"
-        },
-        {
             "symbol": "GSDHO.IS",
             "price": 4.829999923706055,
-            "score": 65,
-            "label": "Watchlist",
+            "score": 75,
+            "label": "Strong Short Zone",
             "chg": 0.6250000000000052,
             "range15": 1,
             "vwapPrem": null,
@@ -49,9 +32,42 @@
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-12-09T13:37:03+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.150001525878906,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.0273972602739685,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T13:38:05+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 44.70000076293945,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.522935779816517,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:38:23+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -66,7 +82,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T13:36:54+03:00"
+            "time": "2025-12-09T13:38:03+03:00"
         }
     ]
 }
