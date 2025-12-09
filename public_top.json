@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T18:56:38+03:00",
+    "updated": "2025-12-09T18:57:38+03:00",
     "count": 97,
     "data": [
         {
@@ -68,6 +68,21 @@
             "score": 45,
             "label": "Neutral",
             "chg": 3.87665198237886,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 342,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 2.779864763335838,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -154,20 +169,6 @@
             "score": 35,
             "label": "Neutral",
             "chg": 9.999999999999998,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "MPARK.IS",
-            "price": 342,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 2.779864763335838,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -345,6 +346,20 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
+            "symbol": "PGSUS.IS",
+            "price": 202.6999969482422,
+            "score": 30,
+            "label": "Neutral",
+            "chg": -0.2951303492375911,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
             "symbol": "YKBNK.IS",
             "price": 36.540000915527344,
             "score": 30,
@@ -392,6 +407,20 @@
             "score": 30,
             "label": "Neutral",
             "chg": -1.3048016701461378,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.050000190734863,
+            "score": 30,
+            "label": "Neutral",
+            "chg": 0,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -471,6 +500,20 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
+            "symbol": "GLYHO.IS",
+            "price": 12.84000015258789,
+            "score": 25,
+            "label": "Neutral",
+            "chg": 4.901960784313722,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
             "symbol": "CLEBI.IS",
             "price": 1592,
             "score": 20,
@@ -502,19 +545,6 @@
             "score": 20,
             "label": "Neutral",
             "chg": -1.3698630136986245,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "PGSUS.IS",
-            "price": 202.6999969482422,
-            "score": 20,
-            "label": "Neutral",
-            "chg": -0.2951303492375911,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -567,19 +597,6 @@
             "score": 20,
             "label": "Neutral",
             "chg": -0.09871668311944158,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.050000190734863,
-            "score": 20,
-            "label": "Neutral",
-            "chg": 0,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -645,19 +662,6 @@
             "score": 15,
             "label": "Neutral",
             "chg": 5.148342059336822,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "GLYHO.IS",
-            "price": 12.84000015258789,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 4.901960784313722,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -736,6 +740,19 @@
             "score": 10,
             "label": "Neutral",
             "chg": 0.33112582781456246,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.020000457763672,
+            "score": 10,
+            "label": "Neutral",
+            "chg": 0.696594427244581,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -959,17 +976,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": -52.55305039787799,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "KRDMD.IS",
-            "price": 26.020000457763672,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0.696594427244581,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
