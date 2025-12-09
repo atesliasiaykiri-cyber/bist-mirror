@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T11:18:32+03:00",
-    "count": 4,
+    "updated": "2025-12-09T11:19:31+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "MGROS.IS",
@@ -8,7 +8,7 @@
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 1.467710371819961,
-            "range15": 0.75,
+            "range15": 0.6,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,24 +18,24 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T11:03:07+03:00"
+            "time": "2025-12-09T11:04:10+03:00"
         },
         {
-            "symbol": "PENTA.IS",
-            "price": 13.850000381469727,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.0948905109489078,
-            "range15": 1,
+            "symbol": "CWENE.IS",
+            "price": 28.360000610351562,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 4.264705882352942,
+            "range15": 0.9264716400830415,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T11:03:24+03:00"
+            "time": "2025-12-09T11:04:18+03:00"
         },
         {
             "symbol": "SOKM.IS",
@@ -51,23 +51,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:03:14+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 11.649999618530273,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.4310344827586268,
-            "range15": 0.6249910592883484,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T11:02:59+03:00"
+            "time": "2025-12-09T11:04:09+03:00"
         }
     ]
 }
