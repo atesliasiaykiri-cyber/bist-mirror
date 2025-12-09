@@ -1,31 +1,14 @@
 {
-    "updated": "2025-12-09T12:36:36+03:00",
-    "count": 4,
+    "updated": "2025-12-09T12:37:33+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "SOKM.IS",
-            "price": 50.04999923706055,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.8259468170829907,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:21:13+03:00"
-        },
-        {
             "symbol": "SUNTK.IS",
-            "price": 42.959999084472656,
+            "price": 42.91999816894531,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.8735632183908115,
-            "range15": 1,
+            "chg": 2.7777777777777866,
+            "range15": 0.8571389645753836,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -34,23 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:20:23+03:00"
+            "time": "2025-12-09T12:22:14+03:00"
         },
         {
-            "symbol": "SISE.IS",
-            "price": 41.939998626708984,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.0115606936416053,
-            "range15": 0.9285694822876919,
+            "symbol": "ALFAS.IS",
+            "price": 44.02000045776367,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": -0.04541326067210723,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
+                "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T12:21:09+03:00"
+            "time": "2025-12-09T12:22:18+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -65,7 +49,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T12:20:55+03:00"
+            "time": "2025-12-09T12:21:00+03:00"
         }
     ]
 }
