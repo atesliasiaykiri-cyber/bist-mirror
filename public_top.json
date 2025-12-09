@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T05:58:30+03:00",
+    "updated": "2025-12-09T05:59:38+03:00",
     "count": 97,
     "data": [
         {
@@ -255,6 +255,20 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
+            "symbol": "HEKTS.IS",
+            "price": 3.2699999809265137,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 2.187499999999995,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
             "symbol": "ISCTR.IS",
             "price": 14.220000267028809,
             "score": 35,
@@ -479,20 +493,6 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "TOASO.IS",
-            "price": 243.5,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 4.282655246252676,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
             "symbol": "TRCAS.IS",
             "price": 42.79999923706055,
             "score": 35,
@@ -582,6 +582,20 @@
             "score": 35,
             "label": "Neutral",
             "chg": 1.4269406392694064,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
+            "symbol": "ECZYT.IS",
+            "price": 336,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 1.2048192771084338,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -846,6 +860,19 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.11695906432748286,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2025-12-08T18:00:00+03:00"
+        },
+        {
+            "symbol": "BIOEN.IS",
+            "price": 20.84000015258789,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -3.8745387453874534,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1270,24 +1297,11 @@
             "time": "2025-12-08T18:00:00+03:00"
         },
         {
-            "symbol": "HEKTS.IS",
-            "price": 3.2699999809265137,
+            "symbol": "TOASO.IS",
+            "price": 243.5,
             "score": 15,
             "label": "Neutral",
-            "chg": 2.187499999999995,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
-            ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "ECZYT.IS",
-            "price": 336,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 1.2048192771084338,
+            "chg": 4.282655246252676,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1306,17 +1320,6 @@
             "reasons": [
                 "strongUpDay"
             ],
-            "time": "2025-12-08T18:00:00+03:00"
-        },
-        {
-            "symbol": "BIOEN.IS",
-            "price": 20.84000015258789,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -3.8745387453874534,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
             "time": "2025-12-08T18:00:00+03:00"
         }
     ]
