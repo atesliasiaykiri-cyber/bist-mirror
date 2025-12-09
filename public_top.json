@@ -1,48 +1,14 @@
 {
-    "updated": "2025-12-09T13:11:32+03:00",
-    "count": 5,
+    "updated": "2025-12-09T13:12:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "BERA.IS",
-            "price": 17.229999542236328,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": 0.7009345794392373,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T12:55:00+03:00"
-        },
-        {
-            "symbol": "CWENE.IS",
-            "price": 28.459999084472656,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 4.632352941176476,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T12:56:17+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.800000190734863,
+            "price": 17.219999313354492,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0,
-            "range15": 1,
+            "chg": 0.5257009345794383,
+            "range15": 0.9090877564099087,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -50,14 +16,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:50:08+03:00"
+            "time": "2025-12-09T12:56:00+03:00"
         },
         {
             "symbol": "TRCAS.IS",
-            "price": 42.7400016784668,
+            "price": 42.7599983215332,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.1401869158878392,
+            "chg": -0.09345794392523166,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -66,7 +32,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:56:11+03:00"
+            "time": "2025-12-09T12:56:41+03:00"
         },
         {
             "symbol": "KRVGD.IS",
@@ -82,7 +48,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:56:13+03:00"
+            "time": "2025-12-09T12:57:09+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 28.420000076293945,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.485294117647068,
+            "range15": 0.9090928794978808,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:57:19+03:00"
         }
     ]
 }
