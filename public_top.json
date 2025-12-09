@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-09T16:16:32+03:00",
-    "count": 5,
+    "updated": "2025-12-09T16:17:33+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "GLYHO.IS",
-            "price": 12.8100004196167,
+            "price": 12.829999923706055,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.656862745098041,
-            "range15": 0.9166686534914769,
+            "chg": 4.820261437908496,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,55 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T16:01:20+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.050000190734863,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T16:01:06+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 11.770000457763672,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.4655172413793098,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T16:00:50+03:00"
-        },
-        {
-            "symbol": "ULKER.IS",
-            "price": 115.19999694824219,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.4977973568281964,
-            "range15": 0.5999908447199971,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T16:01:12+03:00"
+            "time": "2025-12-09T16:02:16+03:00"
         },
         {
             "symbol": "ASELS.IS",
@@ -82,7 +34,22 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T16:01:01+03:00"
+            "time": "2025-12-09T16:02:02+03:00"
+        },
+        {
+            "symbol": "PRKAB.IS",
+            "price": 32.68000030517578,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.8641975308642011,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-09T16:02:08+03:00"
         }
     ]
 }
