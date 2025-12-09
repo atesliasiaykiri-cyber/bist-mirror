@@ -1,13 +1,30 @@
 {
-    "updated": "2025-12-09T13:32:45+03:00",
-    "count": 1,
+    "updated": "2025-12-09T13:33:37+03:00",
+    "count": 4,
     "data": [
         {
-            "symbol": "MAVI.IS",
-            "price": 37.439998626708984,
+            "symbol": "BORSK.IS",
+            "price": 23.799999237060547,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.8394415357766096,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:18:21+03:00"
+        },
+        {
+            "symbol": "AKSEN.IS",
+            "price": 61.95000076293945,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.753498385360606,
+            "chg": 0.7317073170731754,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +33,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:17:32+03:00"
+            "time": "2025-12-09T13:17:00+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.5299999713897705,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.5698005698005704,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:18:27+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 44.63999938964844,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.3853211009174293,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:18:23+03:00"
         }
     ]
 }
