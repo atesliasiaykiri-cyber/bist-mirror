@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-09T12:43:31+03:00",
-    "count": 3,
+    "updated": "2025-12-09T12:44:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "SUNTK.IS",
-            "price": 43.119998931884766,
+            "price": 43.15999984741211,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.256704980842911,
-            "range15": 0.9523796548607907,
+            "chg": 3.352490421455936,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T12:28:23+03:00"
+            "time": "2025-12-09T12:29:13+03:00"
         },
         {
             "symbol": "SOKM.IS",
-            "price": 50.20000076293945,
+            "price": 50.25,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.1281224818694646,
+            "chg": 1.2288477034649465,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,13 +35,13 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:28:14+03:00"
+            "time": "2025-12-09T12:29:03+03:00"
         },
         {
             "symbol": "DERIM.IS",
             "price": 35.459999084472656,
-            "score": 65,
-            "label": "Watchlist",
+            "score": 75,
+            "label": "Strong Short Zone",
             "chg": -0.22509848058525125,
             "range15": 1,
             "vwapPrem": null,
@@ -49,9 +49,25 @@
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-12-09T12:27:31+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 285.25,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.08771929824561403,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T12:28:55+03:00"
         }
     ]
 }
