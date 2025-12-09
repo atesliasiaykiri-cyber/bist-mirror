@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T13:37:32+03:00",
-    "count": 2,
+    "updated": "2025-12-09T13:38:33+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "GSDHO.IS",
@@ -16,23 +16,54 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:20:59+03:00"
+            "time": "2025-12-09T13:22:40+03:00"
         },
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.5299999713897705,
-            "score": 65,
+            "symbol": "SMRTG.IS",
+            "price": 29.739999771118164,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.5698005698005704,
+            "chg": 2.1291208791208702,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:23:13+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 28.459999084472656,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.632352941176476,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T13:23:18+03:00"
+        },
+        {
+            "symbol": "FENER.IS",
+            "price": 9.899999618530273,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-09T13:22:17+03:00"
+            "time": "2025-12-09T13:23:07+03:00"
         }
     ]
 }
