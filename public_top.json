@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T12:13:32+03:00",
+    "updated": "2025-12-09T12:14:33+03:00",
     "count": 3,
     "data": [
         {
             "symbol": "NTHOL.IS",
-            "price": 48.2400016784668,
+            "price": 48.2599983215332,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 0.9205020920502193,
+            "chg": 0.9623430962343116,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +18,24 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:58:23+03:00"
+            "time": "2025-12-09T11:59:07+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.04999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8259468170829907,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:59:12+03:00"
         },
         {
             "symbol": "BERA.IS",
@@ -33,22 +50,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T11:58:02+03:00"
-        },
-        {
-            "symbol": "TSKB.IS",
-            "price": 13.100000381469727,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.15243902439024065,
-            "range15": 0.8888959532110363,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-09T11:57:57+03:00"
+            "time": "2025-12-09T11:58:14+03:00"
         }
     ]
 }
