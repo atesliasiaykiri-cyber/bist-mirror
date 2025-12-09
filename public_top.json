@@ -1,14 +1,31 @@
 {
-    "updated": "2025-12-09T12:30:30+03:00",
-    "count": 3,
+    "updated": "2025-12-09T12:31:33+03:00",
+    "count": 2,
     "data": [
+        {
+            "symbol": "SUNTK.IS",
+            "price": 42.86000061035156,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.634099616858241,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T12:16:24+03:00"
+        },
         {
             "symbol": "NTHOL.IS",
             "price": 48.619998931884766,
             "score": 70,
             "label": "Watchlist",
             "chg": 1.715481171548118,
-            "range15": 0.7499952316475714,
+            "range15": 0.7368368217645819,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,38 +35,6 @@
                 "rsiOB"
             ],
             "time": "2025-12-09T12:14:51+03:00"
-        },
-        {
-            "symbol": "MPARK.IS",
-            "price": 348.25,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 4.658151765589782,
-            "range15": 0.9090909090909091,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp60"
-            ],
-            "time": "2025-12-09T12:15:21+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.769999980926514,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.6250000000000052,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T12:12:13+03:00"
         }
     ]
 }
