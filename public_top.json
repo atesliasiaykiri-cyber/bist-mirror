@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T12:03:32+03:00",
-    "count": 5,
+    "updated": "2025-12-09T12:04:33+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "ASELS.IS",
-            "price": 195.60000610351562,
+            "price": 196.3000030517578,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 0.980898296334541,
+            "chg": 1.3422818791946427,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,15 +19,15 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T11:48:02+03:00"
+            "time": "2025-12-09T11:49:04+03:00"
         },
         {
             "symbol": "MPARK.IS",
-            "price": 347.5,
-            "score": 100,
+            "price": 347.25,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.432757325319309,
-            "range15": 1,
+            "chg": 4.357625845229151,
+            "range15": 0.9565217391304348,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -35,17 +35,16 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rsiOB"
             ],
-            "time": "2025-12-09T11:48:11+03:00"
+            "time": "2025-12-09T11:49:16+03:00"
         },
         {
-            "symbol": "KUYAS.IS",
-            "price": 44.619998931884766,
+            "symbol": "SUNTK.IS",
+            "price": 42.599998474121094,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.3394495412843943,
+            "chg": 2.0114942528735713,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -55,40 +54,70 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:48:15+03:00"
+            "time": "2025-12-09T11:49:24+03:00"
         },
         {
-            "symbol": "MGROS.IS",
-            "price": 519,
-            "score": 70,
+            "symbol": "FENER.IS",
+            "price": 9.920000076293945,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 1.5655577299412915,
+            "chg": 0.20202020202019771,
             "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:48:24+03:00"
+        },
+        {
+            "symbol": "TUPRS.IS",
+            "price": 199.60000610351562,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.25113008538422904,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:49:15+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 44.599998474121094,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 2.2935779816513757,
+            "range15": 0.874997019762793,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp60"
             ],
-            "time": "2025-12-09T11:48:10+03:00"
+            "time": "2025-12-09T11:49:14+03:00"
         },
         {
-            "symbol": "DERIM.IS",
-            "price": 35.400001525878906,
-            "score": 65,
+            "symbol": "AKBNK.IS",
+            "price": 69,
+            "score": 55,
             "label": "Watchlist",
-            "chg": -0.3939223410241997,
+            "chg": 1.0248901903367538,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
             ],
-            "time": "2025-12-09T11:46:01+03:00"
+            "time": "2025-12-09T11:48:54+03:00"
         }
     ]
 }
