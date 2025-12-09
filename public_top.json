@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-09T11:58:32+03:00",
+    "updated": "2025-12-09T11:59:34+03:00",
     "count": 5,
     "data": [
         {
             "symbol": "MPARK.IS",
-            "price": 345.75,
+            "price": 346,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.9068369646882046,
-            "range15": 0.9047619047619048,
+            "chg": 3.9819684447783623,
+            "range15": 0.9444444444444444,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,23 +18,24 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:43:17+03:00"
+            "time": "2025-12-09T11:44:18+03:00"
         },
         {
-            "symbol": "SUNTK.IS",
-            "price": 42.560001373291016,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.9157088122605466,
-            "range15": 0.857142857140827,
+            "symbol": "ASELS.IS",
+            "price": 194.8000030517578,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.5678884873515864,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-09T11:43:12+03:00"
+            "time": "2025-12-09T11:44:03+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -50,22 +51,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:42:58+03:00"
+            "time": "2025-12-09T11:43:35+03:00"
         },
         {
-            "symbol": "BAGFS.IS",
-            "price": 27.579999923706055,
-            "score": 55,
+            "symbol": "NTHOL.IS",
+            "price": 47.959999084472656,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 0.14524328249818136,
+            "chg": 0.3347280334728111,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-09T11:43:01+03:00"
+            "time": "2025-12-09T11:44:19+03:00"
         },
         {
             "symbol": "TTRAK.IS",
@@ -80,7 +82,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T11:43:02+03:00"
+            "time": "2025-12-09T11:44:13+03:00"
         }
     ]
 }
