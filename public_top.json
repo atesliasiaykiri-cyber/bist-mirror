@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T18:38:38+03:00",
+    "updated": "2025-12-09T18:39:36+03:00",
     "count": 97,
     "data": [
         {
-            "symbol": "SAHOL.IS",
-            "price": 86.44999694824219,
+            "symbol": "ULKER.IS",
+            "price": 117.9000015258789,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.9340338587273754,
+            "chg": 3.87665198237886,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -21,11 +21,11 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "ULKER.IS",
-            "price": 117.9000015258789,
+            "symbol": "SUNTK.IS",
+            "price": 43.5,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.87665198237886,
+            "chg": 4.166666666666671,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -56,11 +56,11 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "SUNTK.IS",
-            "price": 43.5,
+            "symbol": "SAHOL.IS",
+            "price": 86.44999694824219,
             "score": 70,
             "label": "Watchlist",
-            "chg": 4.166666666666671,
+            "chg": 0.9340338587273754,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -95,23 +95,6 @@
             "score": 65,
             "label": "Watchlist",
             "chg": 0.20202020202019771,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "KCHOL.IS",
-            "price": 173,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.2317497103128654,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -222,11 +205,27 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "PETKM.IS",
-            "price": 17.40999984741211,
+            "symbol": "ENKAI.IS",
+            "price": 81.55000305175781,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.135718341851217,
+            "chg": 0.5548705302096213,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 173,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.2317497103128654,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -315,21 +314,6 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "ENKAI.IS",
-            "price": 81.55000305175781,
-            "score": 45,
-            "label": "Neutral",
-            "chg": 0.5548705302096213,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
             "symbol": "FROTO.IS",
             "price": 91.3499984741211,
             "score": 45,
@@ -371,6 +355,21 @@
                 "dayHighClose",
                 "rp30",
                 "rsiOB"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "PETKM.IS",
+            "price": 17.40999984741211,
+            "score": 45,
+            "label": "Neutral",
+            "chg": -1.135718341851217,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
@@ -494,6 +493,21 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
+            "symbol": "CEMTS.IS",
+            "price": 11.739999771118164,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 1.206896551724143,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
             "symbol": "CLEBI.IS",
             "price": 1592,
             "score": 35,
@@ -504,21 +518,6 @@
             "reasons": [
                 "dayHighClose",
                 "rp30"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "EREGL.IS",
-            "price": 24.239999771118164,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 0.33112582781456246,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30",
-                "rsiOB",
-                "rsiExtreme"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
@@ -622,16 +621,16 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "CEMTS.IS",
-            "price": 11.739999771118164,
+            "symbol": "EREGL.IS",
+            "price": 24.239999771118164,
             "score": 25,
             "label": "Neutral",
-            "chg": 1.206896551724143,
+            "chg": 0.33112582781456246,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
-                "rp60"
+                "rp30",
+                "rsiOB"
             ],
             "time": "2025-12-09T18:00:00+03:00"
         },
