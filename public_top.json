@@ -1,13 +1,32 @@
 {
-    "updated": "2025-12-09T14:14:33+03:00",
-    "count": 14,
+    "updated": "2025-12-09T14:15:33+03:00",
+    "count": 15,
     "data": [
         {
             "symbol": "CWENE.IS",
-            "price": 29.420000076293945,
+            "price": 29.540000915527344,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 8.602941176470589,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-09T14:00:20+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 42.29999923706055,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 8.161764705882362,
+            "chg": 1.002865329512881,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +37,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T13:59:20+03:00"
+            "time": "2025-12-09T13:59:58+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -36,7 +55,41 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T13:59:09+03:00"
+            "time": "2025-12-09T14:00:20+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 329,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9202453987730062,
+            "range15": 0.8571428571428571,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T14:00:06+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.20000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1281224818694646,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T14:00:02+03:00"
         },
         {
             "symbol": "SUNTK.IS",
@@ -53,39 +106,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:59:17+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 90.1500015258789,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.33388981636061366,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T13:58:37+03:00"
-        },
-        {
-            "symbol": "FENER.IS",
-            "price": 9.899999618530273,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T13:59:07+03:00"
+            "time": "2025-12-09T14:00:14+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -104,6 +125,22 @@
             "time": "2025-12-09T13:59:06+03:00"
         },
         {
+            "symbol": "KRDMD.IS",
+            "price": 25.799999237060547,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -0.1547987616099038,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T14:00:10+03:00"
+        },
+        {
             "symbol": "FMIZP.IS",
             "price": 334.75,
             "score": 65,
@@ -118,14 +155,30 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T13:58:36+03:00"
+            "time": "2025-12-09T14:00:05+03:00"
+        },
+        {
+            "symbol": "IZMDC.IS",
+            "price": 7.190000057220459,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.5594405594405599,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T14:00:19+03:00"
         },
         {
             "symbol": "MGROS.IS",
-            "price": 516.5,
+            "price": 517,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.076320939334638,
+            "chg": 1.1741682974559686,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -134,7 +187,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:59:11+03:00"
+            "time": "2025-12-09T14:00:11+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -150,61 +203,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T13:58:11+03:00"
+            "time": "2025-12-09T14:00:19+03:00"
         },
         {
             "symbol": "ALARK.IS",
-            "price": 96.94999694824219,
+            "price": 97.0999984741211,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.424211597151568,
-            "range15": 0.8695640636090988,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T13:58:00+03:00"
-        },
-        {
-            "symbol": "ASELS.IS",
-            "price": 196.6999969482422,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.5487867836861127,
-            "range15": 0.6428555858299461,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T13:59:03+03:00"
-        },
-        {
-            "symbol": "BASGZ.IS",
-            "price": 42.20000076293945,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.7640878701050627,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-09T13:58:58+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 28.479999542236328,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.628053035589671,
+            "chg": -1.2207527975584973,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -213,7 +219,23 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T13:58:33+03:00"
+            "time": "2025-12-09T14:00:02+03:00"
+        },
+        {
+            "symbol": "SAHOL.IS",
+            "price": 85.3499984741211,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.3502626970227803,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T14:00:11+03:00"
         },
         {
             "symbol": "YYLGD.IS",
@@ -229,7 +251,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T13:57:43+03:00"
+            "time": "2025-12-09T14:00:25+03:00"
         }
     ]
 }
