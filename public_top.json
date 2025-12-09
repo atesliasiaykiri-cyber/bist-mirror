@@ -1,29 +1,44 @@
 {
-    "updated": "2025-12-09T13:04:31+03:00",
-    "count": 5,
+    "updated": "2025-12-09T13:05:31+03:00",
+    "count": 6,
     "data": [
         {
-            "symbol": "SOKM.IS",
-            "price": 50.25,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.2288477034649465,
+            "symbol": "AKBNK.IS",
+            "price": 68.94999694824219,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 0.9516837481698472,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-09T12:49:59+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 42.18000030517578,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7163323782234889,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:48:54+03:00"
+            "time": "2025-12-09T12:49:58+03:00"
         },
         {
             "symbol": "GSDHO.IS",
             "price": 4.800000190734863,
-            "score": 75,
-            "label": "Strong Short Zone",
+            "score": 65,
+            "label": "Watchlist",
             "chg": 0,
             "range15": 1,
             "vwapPrem": null,
@@ -31,10 +46,9 @@
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-09T12:47:23+03:00"
+            "time": "2025-12-09T12:50:08+03:00"
         },
         {
             "symbol": "TAVHL.IS",
@@ -50,7 +64,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:48:49+03:00"
+            "time": "2025-12-09T12:49:45+03:00"
         },
         {
             "symbol": "TRCAS.IS",
@@ -66,7 +80,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:48:52+03:00"
+            "time": "2025-12-09T12:50:16+03:00"
         },
         {
             "symbol": "CWENE.IS",
@@ -82,7 +96,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T12:49:16+03:00"
+            "time": "2025-12-09T12:50:16+03:00"
         }
     ]
 }
