@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-09T18:59:37+03:00",
+    "updated": "2025-12-09T19:00:37+03:00",
     "count": 97,
     "data": [
         {
@@ -197,6 +197,20 @@
             "score": 30,
             "label": "Neutral",
             "chg": -1.441441441441445,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1592,
+            "score": 30,
+            "label": "Neutral",
+            "chg": -0.7481296758104738,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -514,19 +528,6 @@
             "time": "2025-12-09T18:00:00+03:00"
         },
         {
-            "symbol": "CLEBI.IS",
-            "price": 1592,
-            "score": 20,
-            "label": "Neutral",
-            "chg": -0.7481296758104738,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose"
-            ],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
             "symbol": "GARAN.IS",
             "price": 140.60000610351562,
             "score": 20,
@@ -831,6 +832,19 @@
             "score": 10,
             "label": "Neutral",
             "chg": -0.4843918191603868,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-09T18:00:00+03:00"
+        },
+        {
+            "symbol": "SANEL.IS",
+            "price": 40.29999923706055,
+            "score": 10,
+            "label": "Neutral",
+            "chg": -2.609956500725001,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1163,17 +1177,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.5862524785194991,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-09T18:00:00+03:00"
-        },
-        {
-            "symbol": "SANEL.IS",
-            "price": 40.29999923706055,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -2.609956500725001,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
