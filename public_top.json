@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-09T16:18:31+03:00",
+    "updated": "2025-12-09T16:19:32+03:00",
     "count": 3,
     "data": [
         {
             "symbol": "GLYHO.IS",
-            "price": 12.800000190734863,
+            "price": 12.850000381469727,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.575163398692815,
-            "range15": 0.8695661187872399,
+            "chg": 4.98366013071895,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,7 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T16:03:09+03:00"
+            "time": "2025-12-09T16:04:14+03:00"
         },
         {
             "symbol": "PRKAB.IS",
@@ -38,21 +38,22 @@
             "time": "2025-12-09T16:03:09+03:00"
         },
         {
-            "symbol": "ASELS.IS",
-            "price": 199,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.736189984512138,
-            "range15": 0.3333502873830953,
+            "symbol": "SUNTK.IS",
+            "price": 43.2400016784668,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.5440613026820023,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-12-09T16:03:01+03:00"
+            "time": "2025-12-09T16:04:10+03:00"
         }
     ]
 }
