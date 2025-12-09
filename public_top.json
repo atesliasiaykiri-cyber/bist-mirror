@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-09T14:33:32+03:00",
-    "count": 9,
+    "updated": "2025-12-09T14:34:31+03:00",
+    "count": 11,
     "data": [
         {
             "symbol": "CEMTS.IS",
-            "price": 11.720000267028809,
+            "price": 11.729999542236328,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 1.0344827586206984,
+            "chg": 1.1206896551724206,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,25 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T14:18:04+03:00"
+            "time": "2025-12-09T14:19:01+03:00"
+        },
+        {
+            "symbol": "IZMDC.IS",
+            "price": 7.21999979019165,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 0.9790209790209706,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T14:19:20+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -37,7 +55,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T14:17:43+03:00"
+            "time": "2025-12-09T14:18:37+03:00"
         },
         {
             "symbol": "BASGZ.IS",
@@ -54,7 +72,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T14:17:58+03:00"
+            "time": "2025-12-09T14:18:58+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -88,24 +106,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T14:18:11+03:00"
+            "time": "2025-12-09T14:19:05+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 48.41999816894531,
-            "score": 70,
+            "symbol": "FENER.IS",
+            "price": 9.899999618530273,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 1.2133891213389234,
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
+                "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-09T14:16:00+03:00"
+            "time": "2025-12-09T14:18:47+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 285.25,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.08771929824561403,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T14:18:36+03:00"
         },
         {
             "symbol": "TRCAS.IS",
@@ -121,23 +154,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T14:18:15+03:00"
+            "time": "2025-12-09T14:19:13+03:00"
         },
         {
-            "symbol": "IZMDC.IS",
-            "price": 7.210000038146973,
+            "symbol": "TLMAN.IS",
+            "price": 106.5999984741211,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.8391608391608336,
-            "range15": 0.750005960470062,
+            "chg": 1.0426540284360135,
+            "range15": 0.8571444141700539,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T14:18:04+03:00"
+            "time": "2025-12-09T14:18:29+03:00"
         },
         {
             "symbol": "AGHOL.IS",
@@ -153,7 +186,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T14:18:14+03:00"
+            "time": "2025-12-09T14:18:35+03:00"
         }
     ]
 }
