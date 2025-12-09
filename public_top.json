@@ -1,7 +1,25 @@
 {
-    "updated": "2025-12-09T15:38:33+03:00",
-    "count": 8,
+    "updated": "2025-12-09T15:39:31+03:00",
+    "count": 10,
     "data": [
+        {
+            "symbol": "GLYHO.IS",
+            "price": 12.449999809265137,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.7156862745097965,
+            "range15": 0.9166646798418595,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T15:24:09+03:00"
+        },
         {
             "symbol": "NTHOL.IS",
             "price": 48.7599983215332,
@@ -18,14 +36,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T15:23:10+03:00"
+            "time": "2025-12-09T15:24:03+03:00"
         },
         {
-            "symbol": "BORSK.IS",
-            "price": 24.420000076293945,
+            "symbol": "SMRTG.IS",
+            "price": 29.700000762939453,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 6.544502617801047,
+            "chg": 1.9917582417582358,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +53,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T15:23:18+03:00"
+            "time": "2025-12-09T15:24:13+03:00"
+        },
+        {
+            "symbol": "BORSK.IS",
+            "price": 24.399999618530273,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 6.457242582897019,
+            "range15": 0.9333316379070254,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T15:24:14+03:00"
         },
         {
             "symbol": "KRVGD.IS",
@@ -52,15 +87,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T15:23:18+03:00"
+            "time": "2025-12-09T15:24:14+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 109.30000305175781,
+            "price": 109.0999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.601895734597154,
-            "range15": 0.9696974601079029,
+            "chg": 3.412322274881511,
+            "range15": 0.9090900683864521,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -69,14 +104,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T15:23:17+03:00"
+            "time": "2025-12-09T15:24:13+03:00"
         },
         {
             "symbol": "SOKM.IS",
-            "price": 50.04999923706055,
+            "price": 50.099998474121094,
             "score": 70,
             "label": "Watchlist",
-            "chg": 0.8259468170829907,
+            "chg": 0.9266720386784867,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -85,14 +120,14 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T15:23:04+03:00"
+            "time": "2025-12-09T15:24:13+03:00"
         },
         {
-            "symbol": "EUREN.IS",
-            "price": 6.300000190734863,
+            "symbol": "TAVHL.IS",
+            "price": 285.75,
             "score": 65,
             "label": "Watchlist",
-            "chg": -1.4084507042253498,
+            "chg": 0.2631578947368421,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -101,7 +136,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T15:22:51+03:00"
+            "time": "2025-12-09T15:23:53+03:00"
         },
         {
             "symbol": "ZOREN.IS",
@@ -117,7 +152,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T15:23:07+03:00"
+            "time": "2025-12-09T15:23:52+03:00"
         },
         {
             "symbol": "MGROS.IS",
@@ -133,7 +168,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T15:23:07+03:00"
+            "time": "2025-12-09T15:23:56+03:00"
         }
     ]
 }
