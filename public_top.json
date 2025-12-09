@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-09T11:59:34+03:00",
+    "updated": "2025-12-09T12:00:31+03:00",
     "count": 5,
     "data": [
         {
-            "symbol": "MPARK.IS",
-            "price": 346,
+            "symbol": "ASELS.IS",
+            "price": 195.3000030517578,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.9819684447783623,
-            "range15": 0.9444444444444444,
+            "chg": 0.8260196179659386,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,14 +18,32 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:44:18+03:00"
+            "time": "2025-12-09T11:45:03+03:00"
         },
         {
-            "symbol": "ASELS.IS",
-            "price": 194.8000030517578,
+            "symbol": "MPARK.IS",
+            "price": 346.25,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 4.0570999248685204,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T11:45:22+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 47.97999954223633,
             "score": 75,
             "label": "Strong Short Zone",
-            "chg": 0.5678884873515864,
+            "chg": 0.3765690376569032,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +53,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-09T11:44:03+03:00"
+            "time": "2025-12-09T11:45:23+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -51,23 +69,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:43:35+03:00"
-        },
-        {
-            "symbol": "NTHOL.IS",
-            "price": 47.959999084472656,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.3347280334728111,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-09T11:44:19+03:00"
+            "time": "2025-12-09T11:45:05+03:00"
         },
         {
             "symbol": "TTRAK.IS",
@@ -82,7 +84,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-09T11:44:13+03:00"
+            "time": "2025-12-09T11:44:44+03:00"
         }
     ]
 }
