@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-09T11:20:30+03:00",
-    "count": 4,
+    "updated": "2025-12-09T11:21:32+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "MGROS.IS",
@@ -8,7 +8,7 @@
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 1.467710371819961,
-            "range15": 0.6,
+            "range15": 0.3333333333333333,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,57 +18,74 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-09T11:05:03+03:00"
+            "time": "2025-12-09T11:06:08+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 49.81999969482422,
-            "score": 75,
+            "symbol": "SMRTG.IS",
+            "price": 29.420000076293945,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.36261079774375443,
-            "range15": 0.8999980926572825,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T11:05:10+03:00"
-        },
-        {
-            "symbol": "CWENE.IS",
-            "price": 28.31999969482422,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 4.117647058823533,
-            "range15": 0.8970591741448937,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-09T11:05:17+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.0248901903367538,
-            "range15": 0.7500047683536942,
+            "chg": 1.0302197802197826,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-09T11:05:01+03:00"
+            "time": "2025-12-09T11:06:13+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 13.869999885559082,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.2408759124087587,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:06:22+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 28.360000610351562,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 4.264705882352942,
+            "range15": 0.9264716400830415,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-09T11:06:16+03:00"
+        },
+        {
+            "symbol": "ASELS.IS",
+            "price": 193.8000030517578,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.05162622612288217,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-09T11:06:03+03:00"
         }
     ]
 }
