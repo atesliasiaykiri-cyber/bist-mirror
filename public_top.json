@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T12:17:32+03:00",
-    "count": 4,
+    "updated": "2025-12-10T12:18:44+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "SRVGY.IS",
@@ -17,24 +17,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:02:17+03:00"
+            "time": "2025-12-10T12:03:34+03:00"
         },
         {
-            "symbol": "KRDMD.IS",
-            "price": 26.65999984741211,
-            "score": 70,
+            "symbol": "ECILC.IS",
+            "price": 89.19999694824219,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 2.4596464258262896,
-            "range15": 0.7999961853185545,
+            "chg": 0.11223344556678848,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
+                "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-10T12:02:11+03:00"
+            "time": "2025-12-10T12:03:05+03:00"
         },
         {
             "symbol": "GSDDE.IS",
@@ -53,19 +52,36 @@
             "time": "2025-12-10T12:01:04+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.079999923706055,
+            "symbol": "SANEL.IS",
+            "price": 39.65999984741211,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -1.5384615384615323,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-10T11:59:00+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 347,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.7407407407407469,
+            "chg": 1.461988304093567,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp15",
-                "rp30"
+                "strongUpDay",
+                "rp15"
             ],
-            "time": "2025-12-10T12:02:23+03:00"
+            "time": "2025-12-10T12:03:08+03:00"
         }
     ]
 }
