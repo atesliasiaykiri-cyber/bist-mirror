@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T12:50:32+03:00",
-    "count": 6,
+    "updated": "2025-12-10T12:51:32+03:00",
+    "count": 4,
     "data": [
+        {
+            "symbol": "KCHOL.IS",
+            "price": 174.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8670520231213872,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:36:07+03:00"
+        },
         {
             "symbol": "SRVGY.IS",
             "price": 3.6500000953674316,
@@ -17,23 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:35:24+03:00"
-        },
-        {
-            "symbol": "KCHOL.IS",
-            "price": 174.39999389648438,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 0.8092485549132981,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T12:35:02+03:00"
+            "time": "2025-12-10T12:36:24+03:00"
         },
         {
             "symbol": "AKBNK.IS",
@@ -49,15 +50,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:35:01+03:00"
+            "time": "2025-12-10T12:36:01+03:00"
         },
         {
             "symbol": "DOAS.IS",
-            "price": 188.3000030517578,
+            "price": 188.1999969482422,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.31965903036762,
-            "range15": 1,
+            "chg": 0.26638252530633993,
+            "range15": 0.8888832375389683,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -65,39 +66,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:34:54+03:00"
-        },
-        {
-            "symbol": "TLMAN.IS",
-            "price": 107.80000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.2770398481973353,
-            "range15": 0.8666687011733339,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T12:35:12+03:00"
-        },
-        {
-            "symbol": "VERUS.IS",
-            "price": 272.5,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -1.1786038077969174,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T12:35:20+03:00"
+            "time": "2025-12-10T12:36:04+03:00"
         }
     ]
 }
