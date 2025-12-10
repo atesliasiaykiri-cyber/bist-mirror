@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T17:59:34+03:00",
-    "count": 3,
+    "updated": "2025-12-10T18:00:29+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "EUREN.IS",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:44:21+03:00"
+            "time": "2025-12-10T17:44:00+03:00"
         },
         {
             "symbol": "SKBNK.IS",
@@ -33,19 +33,35 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:44:02+03:00"
+            "time": "2025-12-10T17:43:00+03:00"
         },
         {
             "symbol": "BORSK.IS",
             "price": 6.139999866485596,
             "score": 65,
             "label": "Watchlist",
-            "chg": -74.52282157676349,
+            "chg": -74.48132780082989,
             "range15": 0.8888865341418982,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T17:44:00+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 296.75,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.2413793103448274,
+            "range15": 0.6666666666666666,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
                 "rp30",
                 "rp60"
             ],
