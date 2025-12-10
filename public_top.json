@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T18:33:30+03:00",
+    "updated": "2025-12-10T18:34:33+03:00",
     "count": 97,
     "data": [
         {
@@ -77,8 +77,8 @@
         {
             "symbol": "ISMEN.IS",
             "price": 40.939998626708984,
-            "score": 65,
-            "label": "Watchlist",
+            "score": 75,
+            "label": "Strong Short Zone",
             "chg": -0.1463414634146397,
             "range15": 1,
             "vwapPrem": null,
@@ -86,7 +86,8 @@
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -224,6 +225,20 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
+            "symbol": "TTRAK.IS",
+            "price": 521,
+            "score": 35,
+            "label": "Neutral",
+            "chg": -0.8563273073263558,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
             "symbol": "KUYAS.IS",
             "price": 52.75,
             "score": 35,
@@ -296,19 +311,6 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.3680981595091946,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "TTRAK.IS",
-            "price": 521,
-            "score": 20,
-            "label": "Neutral",
-            "chg": -0.8563273073263558,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
