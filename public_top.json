@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T12:46:32+03:00",
-    "count": 4,
+    "updated": "2025-12-10T12:47:42+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "GSDDE.IS",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:31:09+03:00"
+            "time": "2025-12-10T12:32:24+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -34,7 +34,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:31:20+03:00"
+            "time": "2025-12-10T12:32:33+03:00"
+        },
+        {
+            "symbol": "DERIM.IS",
+            "price": 35.5,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.16930022573364076,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:31:36+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -50,23 +66,22 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-10T12:30:00+03:00"
+            "time": "2025-12-10T12:32:30+03:00"
         },
         {
-            "symbol": "TLMAN.IS",
-            "price": 107.5999984741211,
-            "score": 60,
+            "symbol": "KCHOL.IS",
+            "price": 174.3000030517578,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 2.0872865275142205,
+            "chg": 0.7514450867052089,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
+                "dayHighClose",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-10T12:31:18+03:00"
+            "time": "2025-12-10T12:32:08+03:00"
         }
     ]
 }
