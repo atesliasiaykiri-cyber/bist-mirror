@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T18:39:34+03:00",
+    "updated": "2025-12-10T18:40:34+03:00",
     "count": 97,
     "data": [
         {
@@ -17,6 +17,23 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.400000095367432,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.2658227848101276,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -72,22 +89,6 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "EUREN.IS",
-            "price": 6.400000095367432,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.2658227848101276,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "MPARK.IS",
             "price": 340.5,
             "score": 45,
@@ -99,6 +100,22 @@
                 "dayHighClose",
                 "rp30",
                 "rp60"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "TSKB.IS",
+            "price": 12.770000457763672,
+            "score": 45,
+            "label": "Neutral",
+            "chg": -2.7418126428027505,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -217,20 +234,6 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "TSKB.IS",
-            "price": 12.770000457763672,
-            "score": 25,
-            "label": "Neutral",
-            "chg": -2.7418126428027505,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "BASGZ.IS",
             "price": 41.79999923706055,
             "score": 20,
@@ -240,6 +243,20 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 47.779998779296875,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -1.0766045548654162,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rsiOB",
+                "rsiExtreme"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -374,19 +391,6 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 47.779998779296875,
-            "score": 15,
-            "label": "Neutral",
-            "chg": -1.0766045548654162,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "SRVGY.IS",
             "price": 3.5899999141693115,
             "score": 15,
@@ -396,6 +400,19 @@
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "TURSG.IS",
+            "price": 12.010000228881836,
+            "score": 15,
+            "label": "Neutral",
+            "chg": -2.3577235772357796,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -1111,17 +1128,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.08818342151674984,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 12.010000228881836,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -2.3577235772357796,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
