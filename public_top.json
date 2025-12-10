@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T15:05:33+03:00",
-    "count": 3,
+    "updated": "2025-12-10T15:06:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "TRCAS.IS",
-            "price": 43.119998931884766,
+            "price": 43.13999938964844,
             "score": 85,
             "label": "Strong Short Zone",
-            "chg": 0.5128205128205102,
+            "chg": 0.5594405594405641,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +18,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T14:50:06+03:00"
+            "time": "2025-12-10T14:51:08+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -35,7 +35,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:49:53+03:00"
+            "time": "2025-12-10T14:50:48+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 50.79999923706055,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 5.921601334445363,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T14:51:22+03:00"
         },
         {
             "symbol": "TLMAN.IS",
@@ -52,7 +69,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T14:50:22+03:00"
+            "time": "2025-12-10T14:51:23+03:00"
         }
     ]
 }
