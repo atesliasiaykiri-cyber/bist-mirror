@@ -1,23 +1,38 @@
 {
-    "updated": "2025-12-10T12:31:32+03:00",
-    "count": 1,
+    "updated": "2025-12-10T12:32:34+03:00",
+    "count": 2,
     "data": [
         {
-            "symbol": "FMIZP.IS",
-            "price": 339.25,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.4200298953662183,
+            "symbol": "CANTE.IS",
+            "price": 2.180000066757202,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:16:20+03:00"
+            "time": "2025-12-10T12:16:49+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 89.3499984741211,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.28058361391694725,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:17:02+03:00"
         }
     ]
 }
