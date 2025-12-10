@@ -1,23 +1,54 @@
 {
-    "updated": "2025-12-10T13:47:43+03:00",
-    "count": 1,
+    "updated": "2025-12-10T13:48:33+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "BIMAS.IS",
-            "price": 537.5,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.1863117870722433,
+            "symbol": "EUREN.IS",
+            "price": 6.349999904632568,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.47468354430378734,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:32:50+03:00"
+        },
+        {
+            "symbol": "KONTR.IS",
+            "price": 14.460000038146973,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.0482180293501073,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
                 "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:32:02+03:00"
+            "time": "2025-12-10T13:33:11+03:00"
+        },
+        {
+            "symbol": "PRKAB.IS",
+            "price": 32.7599983215332,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.49079754601225944,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T13:32:26+03:00"
         }
     ]
 }
