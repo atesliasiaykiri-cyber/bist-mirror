@@ -1,40 +1,39 @@
 {
-    "updated": "2025-12-10T13:39:32+03:00",
+    "updated": "2025-12-10T13:40:37+03:00",
     "count": 7,
     "data": [
         {
-            "symbol": "BURCE.IS",
-            "price": 48,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 4.940970703979007,
-            "range15": null,
+            "symbol": "PENTA.IS",
+            "price": 14.0600004196167,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1510791366906485,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp15",
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-10T12:55:09+03:00"
+            "time": "2025-12-10T13:25:26+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 48.040000915527344,
+            "symbol": "CLEBI.IS",
+            "price": 1614,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.5383022774327081,
+            "chg": 1.3819095477386936,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
+                "strongUpDay",
                 "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp60"
             ],
-            "time": "2025-12-10T13:18:01+03:00"
+            "time": "2025-12-10T13:24:52+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -50,31 +49,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:23:57+03:00"
-        },
-        {
-            "symbol": "PENTA.IS",
-            "price": 14.050000190734863,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.0791366906474844,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:24:16+03:00"
+            "time": "2025-12-10T13:25:03+03:00"
         },
         {
             "symbol": "FROTO.IS",
-            "price": 91.8499984741211,
+            "price": 91.9000015258789,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.5473453749315819,
-            "range15": 0.4999999999999645,
+            "chg": 0.6020799124247525,
+            "range15": 0.750019073778561,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -82,7 +65,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T13:24:07+03:00"
+            "time": "2025-12-10T13:25:08+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -98,7 +81,22 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T13:24:05+03:00"
+            "time": "2025-12-10T13:24:00+03:00"
+        },
+        {
+            "symbol": "TUPRS.IS",
+            "price": 199.10000610351562,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.8101265822784781,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-10T13:25:11+03:00"
         },
         {
             "symbol": "SEKUR.IS",
