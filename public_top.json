@@ -1,12 +1,12 @@
 {
-    "updated": "2025-12-10T14:59:30+03:00",
-    "count": 2,
+    "updated": "2025-12-10T15:00:34+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "TRCAS.IS",
             "price": 42.959999084472656,
-            "score": 75,
-            "label": "Strong Short Zone",
+            "score": 65,
+            "label": "Watchlist",
             "chg": 0.13986013986014517,
             "range15": 1,
             "vwapPrem": null,
@@ -14,10 +14,25 @@
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-10T14:41:03+03:00"
+            "time": "2025-12-10T14:44:24+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.360000133514404,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.6329113924050638,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:45:19+03:00"
         },
         {
             "symbol": "TLMAN.IS",
@@ -33,7 +48,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:44:23+03:00"
+            "time": "2025-12-10T14:45:22+03:00"
         }
     ]
 }
