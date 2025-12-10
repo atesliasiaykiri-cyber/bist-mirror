@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T13:26:33+03:00",
-    "count": 7,
+    "updated": "2025-12-10T13:27:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "FROTO.IS",
@@ -18,7 +18,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T13:11:06+03:00"
+            "time": "2025-12-10T13:12:07+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -39,39 +39,6 @@
             "time": "2025-12-10T12:55:09+03:00"
         },
         {
-            "symbol": "FMIZP.IS",
-            "price": 344,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.8400597907324365,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:10:23+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.349999904632568,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.47468354430378734,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:11:17+03:00"
-        },
-        {
             "symbol": "TTKOM.IS",
             "price": 57.04999923706055,
             "score": 65,
@@ -85,14 +52,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:11:22+03:00"
+            "time": "2025-12-10T13:12:25+03:00"
+        },
+        {
+            "symbol": "FMIZP.IS",
+            "price": 343.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.690582959641256,
+            "range15": 0.8181818181818182,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:11:49+03:00"
         },
         {
             "symbol": "DOHOL.IS",
-            "price": 17.809999465942383,
+            "price": 17.81999969482422,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.438848920863318,
+            "chg": -1.3835085777531821,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -101,7 +84,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T13:11:03+03:00"
+            "time": "2025-12-10T13:12:05+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -116,7 +99,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-10T13:11:21+03:00"
+            "time": "2025-12-10T13:12:24+03:00"
         }
     ]
 }
