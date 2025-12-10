@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T12:43:33+03:00",
+    "updated": "2025-12-10T12:44:33+03:00",
     "count": 4,
     "data": [
         {
@@ -17,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:28:12+03:00"
+            "time": "2025-12-10T12:29:20+03:00"
+        },
+        {
+            "symbol": "GSDDE.IS",
+            "price": 9.869999885559082,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.714285714285699,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T12:29:12+03:00"
         },
         {
             "symbol": "TAVHL.IS",
@@ -33,39 +50,23 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-10T12:28:14+03:00"
+            "time": "2025-12-10T12:29:14+03:00"
         },
         {
-            "symbol": "GSDDE.IS",
-            "price": 9.850000381469727,
-            "score": 65,
+            "symbol": "AKSEN.IS",
+            "price": 63.20000076293945,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.5102040816326422,
+            "chg": 1.3632718524458722,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:28:14+03:00"
-        },
-        {
-            "symbol": "YYLGD.IS",
-            "price": 10.300000190734863,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.38986354775829357,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T12:28:24+03:00"
+            "time": "2025-12-10T12:29:01+03:00"
         }
     ]
 }
