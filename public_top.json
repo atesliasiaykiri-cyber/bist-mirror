@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-10T13:45:31+03:00",
-    "count": 3,
+    "updated": "2025-12-10T13:46:32+03:00",
+    "count": 4,
     "data": [
-        {
-            "symbol": "BIMAS.IS",
-            "price": 537.5,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.1863117870722433,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:29:00+03:00"
-        },
         {
             "symbol": "FROTO.IS",
             "price": 91.94999694824219,
@@ -33,14 +16,45 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:30:04+03:00"
+            "time": "2025-12-10T13:31:05+03:00"
+        },
+        {
+            "symbol": "BIMAS.IS",
+            "price": 537,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.091254752851711,
+            "range15": 0.8,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:31:04+03:00"
+        },
+        {
+            "symbol": "TUPRS.IS",
+            "price": 199.1999969482422,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.8607594936708804,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-10T13:31:17+03:00"
         },
         {
             "symbol": "GLYHO.IS",
-            "price": 12.800000190734863,
+            "price": 12.8100004196167,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.3115264797507722,
+            "chg": -0.23364485981307914,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,7 +63,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T13:30:06+03:00"
+            "time": "2025-12-10T13:30:53+03:00"
         }
     ]
 }
