@@ -1,25 +1,7 @@
 {
-    "updated": "2025-12-10T14:28:31+03:00",
+    "updated": "2025-12-10T14:29:41+03:00",
     "count": 4,
     "data": [
-        {
-            "symbol": "GLYHO.IS",
-            "price": 13.0600004196167,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 1.7133956386292886,
-            "range15": 0.9166726271410943,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T14:13:19+03:00"
-        },
         {
             "symbol": "BURCE.IS",
             "price": 50.20000076293945,
@@ -52,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:13:04+03:00"
+            "time": "2025-12-10T14:14:04+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -68,7 +50,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:13:13+03:00"
+            "time": "2025-12-10T14:14:10+03:00"
+        },
+        {
+            "symbol": "GLYHO.IS",
+            "price": 13.050000190734863,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.6355140186915955,
+            "range15": 0.8000038147218257,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:14:28+03:00"
         }
     ]
 }
