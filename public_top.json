@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T14:22:33+03:00",
-    "count": 4,
+    "updated": "2025-12-10T14:23:33+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "BURCE.IS",
@@ -37,15 +37,32 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T14:06:57+03:00"
+            "time": "2025-12-10T14:07:59+03:00"
+        },
+        {
+            "symbol": "BIMAS.IS",
+            "price": 538,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2813688212927756,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:07:54+03:00"
         },
         {
             "symbol": "EGEEN.IS",
-            "price": 7625,
+            "price": 7620,
             "score": 70,
             "label": "Watchlist",
-            "chg": 4.024556616643929,
-            "range15": 1,
+            "chg": 3.956343792633015,
+            "range15": 0.9285714285714286,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -53,7 +70,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T14:06:58+03:00"
+            "time": "2025-12-10T14:07:53+03:00"
         },
         {
             "symbol": "MGROS.IS",
@@ -69,7 +86,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:07:12+03:00"
+            "time": "2025-12-10T14:08:02+03:00"
         }
     ]
 }
