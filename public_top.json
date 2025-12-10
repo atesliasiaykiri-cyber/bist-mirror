@@ -1,13 +1,31 @@
 {
-    "updated": "2025-12-10T13:41:32+03:00",
+    "updated": "2025-12-10T13:42:33+03:00",
     "count": 4,
     "data": [
         {
-            "symbol": "PENTA.IS",
-            "price": 14.0600004196167,
+            "symbol": "KONTR.IS",
+            "price": 14.460000038146973,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.1510791366906485,
+            "chg": 1.0482180293501073,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-10T13:27:10+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 14.069999694824219,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.2230215827338125,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,24 +35,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:25:26+03:00"
+            "time": "2025-12-10T13:27:16+03:00"
         },
         {
-            "symbol": "KONTR.IS",
-            "price": 14.359999656677246,
+            "symbol": "FROTO.IS",
+            "price": 91.94999694824219,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.34940600978336084,
+            "chg": 0.6568144499179075,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rp60"
             ],
-            "time": "2025-12-10T13:26:10+03:00"
+            "time": "2025-12-10T13:27:05+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -50,23 +67,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:25:59+03:00"
-        },
-        {
-            "symbol": "FROTO.IS",
-            "price": 91.9000015258789,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.6020799124247525,
-            "range15": 0.750019073778561,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T13:26:07+03:00"
+            "time": "2025-12-10T13:26:59+03:00"
         }
     ]
 }
