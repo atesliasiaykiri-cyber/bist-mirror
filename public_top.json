@@ -1,11 +1,11 @@
 {
-    "updated": "2025-12-10T17:50:34+03:00",
-    "count": 2,
+    "updated": "2025-12-10T17:51:34+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "TAVHL.IS",
             "price": 296.5,
-            "score": 80,
+            "score": 90,
             "label": "Strong Short Zone",
             "chg": 2.2413793103448274,
             "range15": 0.875,
@@ -15,9 +15,10 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-10T17:35:14+03:00"
+            "time": "2025-12-10T17:36:11+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -34,6 +35,54 @@
                 "rp60"
             ],
             "time": "2025-12-10T17:34:31+03:00"
+        },
+        {
+            "symbol": "AKBNK.IS",
+            "price": 68.8499984741211,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.6493506493506535,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T17:36:01+03:00"
+        },
+        {
+            "symbol": "ENKAI.IS",
+            "price": 81.0999984741211,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.5518087063151476,
+            "range15": 0.6666497126279574,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T17:36:03+03:00"
+        },
+        {
+            "symbol": "VAKBN.IS",
+            "price": 30.18000030517578,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -2.770618556701029,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T17:36:18+03:00"
         }
     ]
 }
