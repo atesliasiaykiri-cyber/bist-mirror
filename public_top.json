@@ -1,7 +1,25 @@
 {
-    "updated": "2025-12-10T14:41:33+03:00",
-    "count": 4,
+    "updated": "2025-12-10T14:42:32+03:00",
+    "count": 5,
     "data": [
+        {
+            "symbol": "KONTR.IS",
+            "price": 14.760000228881836,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 3.1446540880503098,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T14:27:10+03:00"
+        },
         {
             "symbol": "KCHOL.IS",
             "price": 175,
@@ -17,24 +35,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:26:08+03:00"
+            "time": "2025-12-10T14:27:08+03:00"
         },
         {
-            "symbol": "GLYHO.IS",
-            "price": 13.100000381469727,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.024922118380061,
-            "range15": 0.8571525885628442,
+            "symbol": "TCELL.IS",
+            "price": 102.5,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7866273352998988,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:25:45+03:00"
+            "time": "2025-12-10T14:27:14+03:00"
         },
         {
             "symbol": "EUREN.IS",
@@ -50,14 +67,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:26:16+03:00"
+            "time": "2025-12-10T14:27:11+03:00"
         },
         {
             "symbol": "AKBNK.IS",
             "price": 69.30000305175781,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0,
+            "chg": -0.07215007215006805,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -65,7 +82,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T14:25:59+03:00"
+            "time": "2025-12-10T14:26:00+03:00"
         }
     ]
 }
