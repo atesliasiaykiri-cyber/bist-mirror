@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T15:46:33+03:00",
-    "count": 1,
+    "updated": "2025-12-10T15:47:33+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "ARCLK.IS",
-            "price": 108.30000305175781,
+            "price": 108.4000015258789,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.2149532710280349,
+            "chg": 1.3084112149532763,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +16,55 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T15:31:01+03:00"
+            "time": "2025-12-10T15:32:03+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 51.400001525878906,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 7.172643869891572,
+            "range15": 0.9642862981676801,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T15:32:22+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.640000104904175,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.5352112676056424,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T15:32:08+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 327.5,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.3062787136294028,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T15:32:05+03:00"
         }
     ]
 }
