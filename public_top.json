@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T18:27:33+03:00",
+    "updated": "2025-12-10T18:28:33+03:00",
     "count": 97,
     "data": [
         {
@@ -40,6 +40,24 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
+            "symbol": "DERIM.IS",
+            "price": 35.36000061035156,
+            "score": 85,
+            "label": "Strong Short Zone",
+            "chg": -0.2257336343115076,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
             "symbol": "EUREN.IS",
             "price": 6.400000095367432,
             "score": 80,
@@ -53,23 +71,6 @@
                 "rp15",
                 "rp30",
                 "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "DERIM.IS",
-            "price": 35.36000061035156,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": -0.2257336343115076,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -290,11 +291,37 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
+            "symbol": "PRKAB.IS",
+            "price": 32.720001220703125,
+            "score": 20,
+            "label": "Neutral",
+            "chg": 0.3680981595091946,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
             "symbol": "TTRAK.IS",
             "price": 521,
             "score": 20,
             "label": "Neutral",
             "chg": -0.8563273073263558,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "TUPRS.IS",
+            "price": 198,
+            "score": 20,
+            "label": "Neutral",
+            "chg": 0.25316455696202533,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -386,7 +413,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.8811881188118866,
-            "range15": 0.3333502873830953,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -473,7 +500,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.670644391408121,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T18:00:00+03:00"
@@ -765,17 +792,6 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "PRKAB.IS",
-            "price": 32.720001220703125,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0.3680981595091946,
-            "range15": 0.16667196490687086,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "QUAGR.IS",
             "price": 3.3299999237060547,
             "score": 0,
@@ -870,17 +886,6 @@
             "label": "Neutral",
             "chg": -2.7417027417027295,
             "range15": 0,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "TUPRS.IS",
-            "price": 198,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0.25316455696202533,
-            "range15": 0.5,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T18:00:00+03:00"
@@ -1089,7 +1094,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.9417475728155356,
-            "range15": 0.24999403952993804,
+            "range15": 0.4999880790586327,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T18:00:00+03:00"
@@ -1122,7 +1127,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.09487666034155058,
-            "range15": 0.19999694823999903,
+            "range15": 0.24999523164318832,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T18:00:00+03:00"
