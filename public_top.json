@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T14:30:32+03:00",
-    "count": 4,
+    "updated": "2025-12-10T14:31:32+03:00",
+    "count": 6,
     "data": [
+        {
+            "symbol": "BIMAS.IS",
+            "price": 538,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2813688212927756,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:16:02+03:00"
+        },
         {
             "symbol": "BURCE.IS",
             "price": 50.20000076293945,
@@ -34,7 +51,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:15:01+03:00"
+            "time": "2025-12-10T14:16:05+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -50,7 +67,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:15:13+03:00"
+            "time": "2025-12-10T14:16:05+03:00"
         },
         {
             "symbol": "KCHOL.IS",
@@ -65,7 +82,23 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-10T14:15:04+03:00"
+            "time": "2025-12-10T14:16:02+03:00"
+        },
+        {
+            "symbol": "GLYHO.IS",
+            "price": 13.039999961853027,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.5576323987538885,
+            "range15": 0.7000009536804609,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T14:16:20+03:00"
         }
     ]
 }
