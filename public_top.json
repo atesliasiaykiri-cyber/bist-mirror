@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T17:12:39+03:00",
+    "updated": "2025-12-10T17:13:33+03:00",
     "count": 4,
     "data": [
+        {
+            "symbol": "ASELS.IS",
+            "price": 208.3000030517578,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.1188118811881242,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T16:58:01+03:00"
+        },
         {
             "symbol": "EUREN.IS",
             "price": 6.380000114440918,
@@ -17,30 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T16:57:27+03:00"
+            "time": "2025-12-10T16:58:19+03:00"
         },
         {
-            "symbol": "AGHOL.IS",
-            "price": 28.84000015258789,
+            "symbol": "DERIM.IS",
+            "price": 35.099998474121094,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.4878048780487825,
-            "range15": 0.8749970197635729,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T16:57:06+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 12.050000190734863,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -2.0325203252032518,
+            "chg": -0.9593679458239175,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,22 +50,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T16:57:31+03:00"
+            "time": "2025-12-10T16:58:13+03:00"
         },
         {
-            "symbol": "ASELS.IS",
-            "price": 208.1999969482422,
-            "score": 55,
+            "symbol": "SANEL.IS",
+            "price": 40,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 3.0693069306930636,
+            "chg": -0.7444168734491244,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-10T16:57:03+03:00"
+            "time": "2025-12-10T16:58:25+03:00"
         }
     ]
 }
