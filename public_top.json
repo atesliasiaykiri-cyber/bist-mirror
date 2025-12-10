@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T18:18:30+03:00",
+    "updated": "2025-12-10T18:19:33+03:00",
     "count": 97,
     "data": [
         {
@@ -17,21 +17,6 @@
                 "rp60"
             ],
             "time": "2025-12-10T17:58:00+03:00"
-        },
-        {
-            "symbol": "DERIM.IS",
-            "price": 35.2599983215332,
-            "score": 45,
-            "label": "Neutral",
-            "chg": -0.4514672686230152,
-            "range15": 0.7499880787730981,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T17:57:00+03:00"
         },
         {
             "symbol": "IZMDC.IS",
@@ -106,6 +91,20 @@
             "time": "2025-12-10T13:55:00+03:00"
         },
         {
+            "symbol": "DERIM.IS",
+            "price": 35.2599983215332,
+            "score": 35,
+            "label": "Neutral",
+            "chg": -0.4514672686230152,
+            "range15": 0.7499880787730981,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30"
+            ],
+            "time": "2025-12-10T17:57:00+03:00"
+        },
+        {
             "symbol": "KUYAS.IS",
             "price": 52.75,
             "score": 35,
@@ -175,11 +174,37 @@
             "time": "2025-12-10T17:58:00+03:00"
         },
         {
+            "symbol": "TKFEN.IS",
+            "price": 67.5,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -2.6695526695526617,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-10T17:58:00+03:00"
+        },
+        {
             "symbol": "OZKGY.IS",
             "price": 14.649999618530273,
             "score": 20,
             "label": "Neutral",
             "chg": -1.7461383478844845,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-10T17:58:00+03:00"
+        },
+        {
+            "symbol": "TSKB.IS",
+            "price": 12.760000228881836,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -2.817974105102825,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -219,7 +244,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.448040885860306,
-            "range15": 0.7499940395255749,
+            "range15": 0.6666560701834752,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -236,19 +261,6 @@
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
-            ],
-            "time": "2025-12-10T17:58:00+03:00"
-        },
-        {
-            "symbol": "SOKM.IS",
-            "price": 49.619998931884766,
-            "score": 15,
-            "label": "Neutral",
-            "chg": -0.20128824476650847,
-            "range15": 0.6666454730487751,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30"
             ],
             "time": "2025-12-10T17:58:00+03:00"
         },
@@ -396,7 +408,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.18844221105527637,
-            "range15": 0.5,
+            "range15": 0.6666666666666666,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -484,7 +496,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.35561877667140823,
-            "range15": 0.2000122070400039,
+            "range15": 0.25000953653172897,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -495,7 +507,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -2.1953405017921237,
-            "range15": 0.2500000000031974,
+            "range15": 0.3333333333389781,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -550,7 +562,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.34146341463414775,
-            "range15": 0.500000000006306,
+            "range15": 0.6666666666778377,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -682,7 +694,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -2.254196642685863,
-            "range15": 0.09091224359009134,
+            "range15": 0.1111134658602367,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -710,6 +722,17 @@
             "time": "2025-12-10T17:58:00+03:00"
         },
         {
+            "symbol": "SOKM.IS",
+            "price": 49.619998931884766,
+            "score": 0,
+            "label": "Neutral",
+            "chg": -0.20128824476650847,
+            "range15": 0.6666454730487751,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-10T17:58:00+03:00"
+        },
+        {
             "symbol": "TCELL.IS",
             "price": 101.30000305175781,
             "score": 0,
@@ -726,17 +749,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.2762430939226519,
-            "range15": 0.5,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T17:58:00+03:00"
-        },
-        {
-            "symbol": "TKFEN.IS",
-            "price": 67.5,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -2.6695526695526617,
             "range15": 0.5,
             "vwapPrem": null,
             "reasons": [],
@@ -825,7 +837,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.45871559633028175,
-            "range15": 0.24999999999371628,
+            "range15": 0.33333333332216225,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -858,7 +870,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -4.234972677595636,
-            "range15": 0.16666931574535324,
+            "range15": 0.20000381468543513,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -869,7 +881,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.9726858877086493,
-            "range15": 0.25,
+            "range15": 0.5,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -946,7 +958,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.0869565217391388,
-            "range15": 0.24999523164444062,
+            "range15": 0.3333248563129049,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -1001,7 +1013,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.07194244604316392,
-            "range15": 0.5000119209488725,
+            "range15": 0.6666666666666864,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
@@ -1062,17 +1074,6 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "TSKB.IS",
-            "price": 12.760000228881836,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -2.817974105102825,
-            "range15": 0.4999999999999556,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T17:58:00+03:00"
-        },
-        {
             "symbol": "TTKOM.IS",
             "price": 56.849998474121094,
             "score": 0,
@@ -1100,7 +1101,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -3.71713508612874,
-            "range15": 0.23076923076923078,
+            "range15": 0.2727272727272727,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-10T17:58:00+03:00"
