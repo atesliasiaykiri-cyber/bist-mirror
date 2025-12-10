@@ -1,13 +1,30 @@
 {
-    "updated": "2025-12-10T14:49:37+03:00",
-    "count": 1,
+    "updated": "2025-12-10T14:50:32+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "DOAS.IS",
-            "price": 188.89999389648438,
+            "symbol": "BIMAS.IS",
+            "price": 538,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2813688212927756,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:35:03+03:00"
+        },
+        {
+            "symbol": "SISE.IS",
+            "price": 41.81999969482422,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.6393180607352249,
+            "chg": 0.2877697841726557,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +33,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:33:57+03:00"
+            "time": "2025-12-10T14:35:11+03:00"
+        },
+        {
+            "symbol": "PGSUS.IS",
+            "price": 204,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.6413418845584664,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-10T14:35:11+03:00"
         }
     ]
 }
