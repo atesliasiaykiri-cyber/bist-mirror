@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T12:24:32+03:00",
-    "count": 5,
+    "updated": "2025-12-10T12:25:32+03:00",
+    "count": 8,
     "data": [
         {
             "symbol": "FMIZP.IS",
@@ -21,11 +21,11 @@
         },
         {
             "symbol": "MPARK.IS",
-            "price": 347.75,
+            "price": 348.5,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.6812865497076022,
-            "range15": 0.875,
+            "chg": 1.9005847953216373,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -34,7 +34,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:09:23+03:00"
+            "time": "2025-12-10T12:10:19+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 89.19999694824219,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.11223344556678848,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:10:02+03:00"
+        },
+        {
+            "symbol": "GSDDE.IS",
+            "price": 9.819999694824219,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.20408163265305687,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:10:07+03:00"
         },
         {
             "symbol": "QUAGR.IS",
@@ -50,7 +82,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:09:13+03:00"
+            "time": "2025-12-10T12:10:07+03:00"
         },
         {
             "symbol": "SANEL.IS",
@@ -66,7 +98,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T12:09:17+03:00"
+            "time": "2025-12-10T12:10:14+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -81,7 +113,22 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T12:09:25+03:00"
+            "time": "2025-12-10T12:10:14+03:00"
+        },
+        {
+            "symbol": "YYLGD.IS",
+            "price": 10.260000228881836,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-10T12:10:11+03:00"
         }
     ]
 }
