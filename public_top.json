@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-10T14:07:37+03:00",
-    "count": 4,
+    "updated": "2025-12-10T14:08:31+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "BIMAS.IS",
-            "price": 538,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.2813688212927756,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:52:03+03:00"
-        },
         {
             "symbol": "TCELL.IS",
             "price": 102.30000305175781,
@@ -33,30 +16,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:52:05+03:00"
+            "time": "2025-12-10T13:53:11+03:00"
         },
         {
-            "symbol": "GLYHO.IS",
-            "price": 12.930000305175781,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7009345794392512,
-            "range15": 0.8571457765688493,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:52:17+03:00"
-        },
-        {
-            "symbol": "SISE.IS",
-            "price": 41.84000015258789,
+            "symbol": "ALFAS.IS",
+            "price": 43.7599983215332,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.33573141486810687,
+            "chg": 0.3669724770642124,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -64,7 +31,23 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T13:52:13+03:00"
+            "time": "2025-12-10T13:52:58+03:00"
+        },
+        {
+            "symbol": "GLYHO.IS",
+            "price": 12.930000305175781,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.7009345794392512,
+            "range15": 0.833337306982955,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T13:53:15+03:00"
         }
     ]
 }
