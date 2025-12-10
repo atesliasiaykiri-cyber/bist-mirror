@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T13:51:33+03:00",
-    "count": 5,
+    "updated": "2025-12-10T13:52:33+03:00",
+    "count": 6,
     "data": [
+        {
+            "symbol": "BIMAS.IS",
+            "price": 537.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.1863117870722433,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:37:03+03:00"
+        },
         {
             "symbol": "KCHOL.IS",
             "price": 174.8000030517578,
@@ -16,7 +33,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T13:36:05+03:00"
+            "time": "2025-12-10T13:37:07+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -32,7 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:36:07+03:00"
+            "time": "2025-12-10T13:37:04+03:00"
+        },
+        {
+            "symbol": "PGSUS.IS",
+            "price": 204.3000030517578,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7893438579181169,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:37:10+03:00"
         },
         {
             "symbol": "TRCAS.IS",
@@ -65,22 +98,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:36:18+03:00"
-        },
-        {
-            "symbol": "PGSUS.IS",
-            "price": 204,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.6413418845584664,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T13:36:11+03:00"
+            "time": "2025-12-10T13:37:22+03:00"
         }
     ]
 }
