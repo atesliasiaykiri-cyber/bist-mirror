@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T12:40:33+03:00",
+    "updated": "2025-12-10T12:41:32+03:00",
     "count": 4,
     "data": [
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.6500000953674316,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.8169014084507067,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:25:49+03:00"
+        },
         {
             "symbol": "GSDDE.IS",
             "price": 9.850000381469727,
@@ -16,7 +33,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:25:18+03:00"
+            "time": "2025-12-10T12:26:15+03:00"
         },
         {
             "symbol": "YYLGD.IS",
@@ -32,39 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:25:14+03:00"
+            "time": "2025-12-10T12:26:19+03:00"
         },
         {
-            "symbol": "AKSEN.IS",
-            "price": 63.04999923706055,
-            "score": 60,
+            "symbol": "VERUS.IS",
+            "price": 270.75,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 1.1226944667201215,
+            "chg": -1.813236627379873,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-10T12:24:18+03:00"
-        },
-        {
-            "symbol": "FMIZP.IS",
-            "price": 339,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.345291479820628,
-            "range15": 0.8333333333333334,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T12:24:39+03:00"
+            "time": "2025-12-10T12:26:23+03:00"
         }
     ]
 }
