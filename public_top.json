@@ -1,38 +1,54 @@
 {
-    "updated": "2025-12-10T13:49:31+03:00",
-    "count": 2,
+    "updated": "2025-12-10T13:50:33+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "FROTO.IS",
-            "price": 91.94999694824219,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6568144499179075,
+            "symbol": "TUPRS.IS",
+            "price": 199.3000030517578,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9113924050632969,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:34:03+03:00"
+            "time": "2025-12-10T13:35:17+03:00"
         },
         {
-            "symbol": "EUREN.IS",
-            "price": 6.349999904632568,
-            "score": 65,
+            "symbol": "PGSUS.IS",
+            "price": 204,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 0.47468354430378734,
+            "chg": 0.6413418845584664,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-10T13:33:50+03:00"
+            "time": "2025-12-10T13:35:06+03:00"
+        },
+        {
+            "symbol": "TRCAS.IS",
+            "price": 42.81999969482422,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.18648018648018252,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T13:35:15+03:00"
         }
     ]
 }
