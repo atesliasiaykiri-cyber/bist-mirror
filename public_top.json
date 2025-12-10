@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T15:10:32+03:00",
-    "count": 3,
+    "updated": "2025-12-10T15:11:30+03:00",
+    "count": 5,
     "data": [
+        {
+            "symbol": "DOAS.IS",
+            "price": 189.60000610351562,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.0122535961640948,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:56:01+03:00"
+        },
         {
             "symbol": "PENTA.IS",
             "price": 14.100000381469727,
@@ -17,15 +34,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:55:04+03:00"
+            "time": "2025-12-10T14:56:14+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 107.69999694824219,
+            "price": 107.9000015258789,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.1821631878557843,
-            "range15": 0.949996948239999,
+            "chg": 2.371916508538899,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -35,7 +52,23 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T14:55:19+03:00"
+            "time": "2025-12-10T14:56:18+03:00"
+        },
+        {
+            "symbol": "TCELL.IS",
+            "price": 102.5,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7866273352998988,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:56:05+03:00"
         },
         {
             "symbol": "TRCAS.IS",
