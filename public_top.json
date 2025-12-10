@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T13:18:32+03:00",
-    "count": 7,
+    "updated": "2025-12-10T13:19:32+03:00",
+    "count": 11,
     "data": [
         {
             "symbol": "BURCE.IS",
@@ -23,11 +23,11 @@
         },
         {
             "symbol": "CEMTS.IS",
-            "price": 12.050000190734863,
+            "price": 12.039999961853027,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.6405451448040926,
-            "range15": 0.9499990463286412,
+            "chg": 2.555366269165238,
+            "range15": 0.8999980926572825,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -37,7 +37,25 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T13:02:49+03:00"
+            "time": "2025-12-10T13:03:57+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1616,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.507537688442211,
+            "range15": 0.9473684210526315,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T13:04:01+03:00"
         },
         {
             "symbol": "TUPRS.IS",
@@ -55,15 +73,67 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T13:03:16+03:00"
+            "time": "2025-12-10T13:04:12+03:00"
         },
         {
-            "symbol": "EREGL.IS",
-            "price": 24.420000076293945,
+            "symbol": "FROTO.IS",
+            "price": 91.6500015258789,
+            "score": 85,
+            "label": "Strong Short Zone",
+            "chg": 0.3284072249589616,
+            "range15": 0.9090984754960377,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-10T13:04:07+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 175,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1560693641618496,
+            "range15": 0.8749928474647825,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:04:08+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.639999389648438,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.3827824750192197,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:04:05+03:00"
+        },
+        {
+            "symbol": "PGSUS.IS",
+            "price": 204.10000610351562,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.7425742574257561,
-            "range15": 0.874997019762768,
+            "chg": 0.6906758756783452,
+            "range15": 0.8571553133604313,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -71,31 +141,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:03:04+03:00"
+            "time": "2025-12-10T13:04:03+03:00"
         },
         {
-            "symbol": "FROTO.IS",
-            "price": 91.5999984741211,
+            "symbol": "SISE.IS",
+            "price": 41.84000015258789,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.27367268746579093,
-            "range15": 0.8333354526151,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-10T13:03:07+03:00"
-        },
-        {
-            "symbol": "TTRAK.IS",
-            "price": 529,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6660323501427212,
+            "chg": 0.33573141486810687,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -104,23 +157,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:03:15+03:00"
+            "time": "2025-12-10T13:04:11+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 299.25,
-            "score": 55,
+            "symbol": "TTRAK.IS",
+            "price": 529.5,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 3.189655172413793,
-            "range15": 0.6666666666666666,
+            "chg": 0.7611798287345386,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
-                "rp60",
-                "rsiOB"
+                "rp15",
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-10T13:03:11+03:00"
+            "time": "2025-12-10T13:04:01+03:00"
+        },
+        {
+            "symbol": "TTKOM.IS",
+            "price": 57.04999923706055,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.6172839506172738,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:04:23+03:00"
         }
     ]
 }
