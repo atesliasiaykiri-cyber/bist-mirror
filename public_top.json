@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T12:14:30+03:00",
-    "count": 6,
+    "updated": "2025-12-10T12:15:33+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "KRDMD.IS",
-            "price": 26.639999389648438,
+            "price": 26.700000762939453,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.3827824750192197,
+            "chg": 2.6133743274404297,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,58 +18,39 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T11:59:10+03:00"
+            "time": "2025-12-10T12:00:11+03:00"
+        },
+        {
+            "symbol": "EREGL.IS",
+            "price": 24.420000076293945,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7425742574257561,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:00:07+03:00"
         },
         {
             "symbol": "TAVHL.IS",
-            "price": 298.5,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.9310344827586206,
-            "range15": 0.9090909090909091,
+            "price": 298.25,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 2.844827586206897,
+            "range15": 0.8,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30",
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T11:59:09+03:00"
-        },
-        {
-            "symbol": "SRVGY.IS",
-            "price": 3.640000104904175,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.5352112676056424,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T11:59:05+03:00"
-        },
-        {
-            "symbol": "TTRAK.IS",
-            "price": 529,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6660323501427212,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T11:58:13+03:00"
+            "time": "2025-12-10T12:00:14+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -84,7 +65,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-10T11:59:17+03:00"
+            "time": "2025-12-10T12:00:11+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -99,7 +80,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T11:59:17+03:00"
+            "time": "2025-12-10T12:00:18+03:00"
         }
     ]
 }
