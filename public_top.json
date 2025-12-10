@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T19:20:30+03:00",
+    "updated": "2025-12-10T19:21:33+03:00",
     "count": 97,
     "data": [
         {
@@ -45,25 +45,24 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "ISMEN.IS",
-            "price": 40.939998626708984,
-            "score": 30,
-            "label": "Neutral",
-            "chg": -0.1463414634146397,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "BASGZ.IS",
             "price": 41.79999923706055,
             "score": 20,
             "label": "Neutral",
             "chg": -0.476190476190483,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "ISMEN.IS",
+            "price": 40.939998626708984,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -0.1463414634146397,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -189,63 +188,22 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "AKSEN.IS",
-            "price": 61.349998474121094,
-            "score": 10,
-            "label": "Neutral",
-            "chg": -1.6038492381716118,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "BAGFS.IS",
-            "price": 27.260000228881836,
-            "score": 10,
-            "label": "Neutral",
-            "chg": -1.8011527377521614,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "HEKTS.IS",
-            "price": 3.200000047683716,
-            "score": 10,
-            "label": "Neutral",
-            "chg": -1.234567901234569,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "ISCTR.IS",
-            "price": 14.050000190734863,
-            "score": 10,
-            "label": "Neutral",
-            "chg": -1.9539427773900861,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp60"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "AKBNK.IS",
             "price": 68.6500015258789,
             "score": 0,
             "label": "Neutral",
             "chg": -0.9379509379509257,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "AKSEN.IS",
+            "price": 61.349998474121094,
+            "score": 0,
+            "label": "Neutral",
+            "chg": -1.6038492381716118,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
@@ -279,6 +237,17 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.18691588785046995,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "BAGFS.IS",
+            "price": 27.260000228881836,
+            "score": 0,
+            "label": "Neutral",
+            "chg": -1.8011527377521614,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
@@ -466,6 +435,28 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.2526096033402843,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "HEKTS.IS",
+            "price": 3.200000047683716,
+            "score": 0,
+            "label": "Neutral",
+            "chg": -1.234567901234569,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "ISCTR.IS",
+            "price": 14.050000190734863,
+            "score": 0,
+            "label": "Neutral",
+            "chg": -1.9539427773900861,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
