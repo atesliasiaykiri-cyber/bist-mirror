@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T13:55:30+03:00",
-    "count": 6,
+    "updated": "2025-12-10T13:56:32+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "BIMAS.IS",
-            "price": 537.5,
+            "price": 538,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.1863117870722433,
+            "chg": 2.2813688212927756,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,39 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:40:03+03:00"
-        },
-        {
-            "symbol": "KCHOL.IS",
-            "price": 174.8000030517578,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.0404624277456713,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T13:39:58+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69.3499984741211,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.07215007215006805,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:39:59+03:00"
+            "time": "2025-12-10T13:41:02+03:00"
         },
         {
             "symbol": "TRCAS.IS",
@@ -66,7 +34,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T13:36:07+03:00"
+            "time": "2025-12-10T13:40:28+03:00"
         },
         {
             "symbol": "EUREN.IS",
@@ -82,15 +50,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:40:15+03:00"
+            "time": "2025-12-10T13:41:20+03:00"
         },
         {
             "symbol": "GLYHO.IS",
-            "price": 12.859999656677246,
+            "price": 12.850000381469727,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.1557632398753861,
-            "range15": 1,
+            "chg": 0.07788161993769305,
+            "range15": 0.9375044703558314,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -98,7 +66,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:40:18+03:00"
+            "time": "2025-12-10T13:41:18+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 12.079999923706055,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.896081771720612,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:41:02+03:00"
         }
     ]
 }
