@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T17:16:34+03:00",
+    "updated": "2025-12-10T17:17:33+03:00",
     "count": 4,
     "data": [
         {
@@ -17,14 +17,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:01:03+03:00"
+            "time": "2025-12-10T17:02:01+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.380000114440918,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9493670886075887,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T17:02:17+03:00"
         },
         {
             "symbol": "BIOEN.IS",
-            "price": 20.520000457763672,
+            "price": 20.540000915527344,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.869565217391303,
+            "chg": -0.7729468599033823,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,7 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:01:05+03:00"
+            "time": "2025-12-10T17:01:56+03:00"
         },
         {
             "symbol": "DERIM.IS",
@@ -50,22 +67,6 @@
                 "rp60"
             ],
             "time": "2025-12-10T17:00:20+03:00"
-        },
-        {
-            "symbol": "SANEL.IS",
-            "price": 40.060001373291016,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -0.5955334987592925,
-            "range15": 0.8648672333714709,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T17:00:51+03:00"
         }
     ]
 }
