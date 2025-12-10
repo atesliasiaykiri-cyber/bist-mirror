@@ -1,29 +1,30 @@
 {
-    "updated": "2025-12-10T18:05:34+03:00",
+    "updated": "2025-12-10T18:06:33+03:00",
     "count": 4,
     "data": [
         {
             "symbol": "BORSK.IS",
-            "price": 6.179999828338623,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -74.23236514522821,
-            "range15": 0.9166646798427588,
+            "price": 6.210000038146973,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": -74.31535269709542,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-10T17:48:00+03:00"
+            "time": "2025-12-10T17:50:00+03:00"
         },
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.5999999046325684,
+            "symbol": "CEMTS.IS",
+            "price": 11.90999984741211,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.1267605633802829,
+            "chg": 1.448040885860306,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -32,11 +33,27 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:49:00+03:00"
+            "time": "2025-12-10T17:50:00+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.5999999046325684,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.4084507042253596,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T17:50:00+03:00"
         },
         {
             "symbol": "DERIM.IS",
-            "price": 35.20000076293945,
+            "price": 35.220001220703125,
             "score": 55,
             "label": "Watchlist",
             "chg": -0.6772009029345228,
@@ -47,23 +64,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T17:46:00+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.019999980926514,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.7407407407407469,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T17:49:00+03:00"
+            "time": "2025-12-10T17:50:00+03:00"
         }
     ]
 }
