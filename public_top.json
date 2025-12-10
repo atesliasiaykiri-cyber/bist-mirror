@@ -1,31 +1,13 @@
 {
-    "updated": "2025-12-10T13:42:33+03:00",
-    "count": 4,
+    "updated": "2025-12-10T13:43:33+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "KONTR.IS",
-            "price": 14.460000038146973,
+            "symbol": "BIMAS.IS",
+            "price": 537.5,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.0482180293501073,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-10T13:27:10+03:00"
-        },
-        {
-            "symbol": "PENTA.IS",
-            "price": 14.069999694824219,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.2230215827338125,
+            "chg": 2.1863117870722433,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:27:16+03:00"
+            "time": "2025-12-10T13:28:01+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 14.0600004196167,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.1510791366906485,
+            "range15": 0.9166726271410943,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:28:10+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -51,23 +50,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:27:05+03:00"
+            "time": "2025-12-10T13:28:05+03:00"
         },
         {
-            "symbol": "BIMAS.IS",
-            "price": 536.5,
-            "score": 60,
+            "symbol": "EUREN.IS",
+            "price": 6.349999904632568,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 1.9961977186311788,
+            "chg": 0.47468354430378734,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
+                "dayHighClose",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:26:59+03:00"
+            "time": "2025-12-10T13:28:19+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 108.5999984741211,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.495327102803733,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-10T13:27:44+03:00"
         }
     ]
 }
