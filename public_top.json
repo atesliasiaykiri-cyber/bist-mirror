@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T15:11:30+03:00",
-    "count": 5,
+    "updated": "2025-12-10T15:12:33+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "DOAS.IS",
@@ -17,15 +17,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:56:01+03:00"
+            "time": "2025-12-10T14:57:01+03:00"
         },
         {
-            "symbol": "PENTA.IS",
-            "price": 14.100000381469727,
+            "symbol": "TUPRS.IS",
+            "price": 199.1999969482422,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.4388489208633042,
-            "range15": 0.9000066757632083,
+            "chg": 0.8607594936708804,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -34,15 +34,32 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:56:14+03:00"
+            "time": "2025-12-10T14:57:07+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 14.109999656677246,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.510791366906468,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:56:59+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 107.9000015258789,
+            "price": 107.69999694824219,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.371916508538899,
-            "range15": 1,
+            "chg": 2.1821631878557843,
+            "range15": 0.8571397431054338,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -52,7 +69,39 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T14:56:18+03:00"
+            "time": "2025-12-10T14:57:25+03:00"
+        },
+        {
+            "symbol": "AKBNK.IS",
+            "price": 69.30000305175781,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -0.07215007215006805,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:56:00+03:00"
+        },
+        {
+            "symbol": "SISE.IS",
+            "price": 41.959999084472656,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.6235011990407626,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:57:10+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -68,7 +117,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:56:05+03:00"
+            "time": "2025-12-10T14:57:12+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 108.19999694824219,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.1214953271028065,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:57:01+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 174.6999969482422,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.9826589595375657,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-10T14:56:55+03:00"
         },
         {
             "symbol": "TRCAS.IS",
