@@ -1,14 +1,31 @@
 {
-    "updated": "2025-12-10T14:04:32+03:00",
-    "count": 1,
+    "updated": "2025-12-10T14:05:30+03:00",
+    "count": 3,
     "data": [
         {
+            "symbol": "BIMAS.IS",
+            "price": 538,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2813688212927756,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:50:01+03:00"
+        },
+        {
             "symbol": "TCELL.IS",
-            "price": 102.19999694824219,
+            "price": 102.30000305175781,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.4916420845624385,
-            "range15": 0.8571350720917241,
+            "chg": 0.5899705014749206,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -16,7 +33,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:49:14+03:00"
+            "time": "2025-12-10T13:50:08+03:00"
+        },
+        {
+            "symbol": "GLYHO.IS",
+            "price": 12.930000305175781,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7009345794392512,
+            "range15": 0.8888912436504576,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:50:08+03:00"
         }
     ]
 }
