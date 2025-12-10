@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T15:04:31+03:00",
+    "updated": "2025-12-10T15:05:33+03:00",
     "count": 3,
     "data": [
         {
             "symbol": "TRCAS.IS",
-            "price": 43.099998474121094,
+            "price": 43.119998931884766,
             "score": 85,
             "label": "Strong Short Zone",
-            "chg": 0.4662004662004729,
+            "chg": 0.5128205128205102,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,14 +18,31 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T14:48:16+03:00"
+            "time": "2025-12-10T14:50:06+03:00"
+        },
+        {
+            "symbol": "BIMAS.IS",
+            "price": 538,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.2813688212927756,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:49:53+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 106.5999984741211,
+            "price": 106.69999694824219,
             "score": 70,
             "label": "Watchlist",
-            "chg": 1.138519924098661,
+            "chg": 1.233396584440225,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,23 +52,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T14:49:17+03:00"
-        },
-        {
-            "symbol": "MGROS.IS",
-            "price": 525,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.9615384615384616,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T14:49:02+03:00"
+            "time": "2025-12-10T14:50:22+03:00"
         }
     ]
 }
