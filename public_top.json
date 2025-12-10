@@ -1,7 +1,23 @@
 {
-    "updated": "2025-12-10T16:54:30+03:00",
+    "updated": "2025-12-10T16:55:33+03:00",
     "count": 2,
     "data": [
+        {
+            "symbol": "BORSK.IS",
+            "price": 6.070000171661377,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -74.81327800829875,
+            "range15": 0.888891832322912,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T16:40:16+03:00"
+        },
         {
             "symbol": "ZOREN.IS",
             "price": 3.190000057220459,
@@ -16,22 +32,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T16:39:14+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.03000020980835,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.49382716049381664,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T16:39:22+03:00"
+            "time": "2025-12-10T16:40:18+03:00"
         }
     ]
 }
