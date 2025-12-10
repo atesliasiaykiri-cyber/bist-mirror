@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T15:54:31+03:00",
-    "count": 4,
+    "updated": "2025-12-10T15:55:34+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T15:39:04+03:00"
+            "time": "2025-12-10T15:40:02+03:00"
         },
         {
             "symbol": "EREGL.IS",
@@ -33,7 +33,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T15:39:06+03:00"
+            "time": "2025-12-10T15:40:06+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.369999885559082,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7911392405063262,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T15:40:21+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -49,14 +65,46 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T15:38:55+03:00"
+            "time": "2025-12-10T15:40:13+03:00"
         },
         {
-            "symbol": "KCHOL.IS",
-            "price": 174.6999969482422,
+            "symbol": "PGSUS.IS",
+            "price": 205.3000030517578,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.9826589595375657,
+            "chg": 1.2826837691169328,
+            "range15": 0.7142888283401078,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T15:40:12+03:00"
+        },
+        {
+            "symbol": "SKBNK.IS",
+            "price": 7.789999961853027,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.12820512820512547,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T15:40:12+03:00"
+        },
+        {
+            "symbol": "PENTA.IS",
+            "price": 14.109999656677246,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.510791366906468,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -64,7 +112,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-10T15:39:07+03:00"
+            "time": "2025-12-10T15:40:08+03:00"
         }
     ]
 }
