@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T19:08:32+03:00",
+    "updated": "2025-12-10T19:09:34+03:00",
     "count": 97,
     "data": [
         {
@@ -208,6 +208,19 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
+            "symbol": "CLEBI.IS",
+            "price": 1592,
+            "score": 10,
+            "label": "Neutral",
+            "chg": 0,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
             "symbol": "DOAS.IS",
             "price": 187.8000030517578,
             "score": 10,
@@ -338,11 +351,37 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
+            "symbol": "NTHOL.IS",
+            "price": 47.779998779296875,
+            "score": 10,
+            "label": "Neutral",
+            "chg": -1.0766045548654162,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
             "symbol": "TSKB.IS",
             "price": 12.770000457763672,
             "score": 10,
             "label": "Neutral",
             "chg": -2.7418126428027505,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "YEOTK.IS",
+            "price": 38.84000015258789,
+            "score": 10,
+            "label": "Neutral",
+            "chg": 0.5175983436853075,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -455,17 +494,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.7666098807495729,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "CLEBI.IS",
-            "price": 1592,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
@@ -967,17 +995,6 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 47.779998779296875,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -1.0766045548654162,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
             "symbol": "OBASE.IS",
             "price": 33.560001373291016,
             "score": 0,
@@ -1093,17 +1110,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": -4.351767905711696,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "YEOTK.IS",
-            "price": 38.84000015258789,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0.5175983436853075,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
