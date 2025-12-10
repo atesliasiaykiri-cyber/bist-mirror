@@ -1,13 +1,32 @@
 {
-    "updated": "2025-12-10T11:36:32+03:00",
-    "count": 6,
+    "updated": "2025-12-10T11:37:45+03:00",
+    "count": 8,
     "data": [
         {
-            "symbol": "OTKAR.IS",
-            "price": 525.5,
+            "symbol": "TAVHL.IS",
+            "price": 296.25,
+            "score": 100,
+            "label": "Strong Short Zone",
+            "chg": 2.1551724137931036,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-10T11:22:27+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.090000152587891,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.0576923076923077,
+            "chg": 0.9876543209876552,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,24 +36,40 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T11:21:10+03:00"
+            "time": "2025-12-10T11:22:36+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 295,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.7241379310344827,
-            "range15": 0.75,
+            "symbol": "ZOREN.IS",
+            "price": 3.2300000190734863,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9374999999999939,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-10T11:21:14+03:00"
+            "time": "2025-12-10T11:22:36+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.180000066757202,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T11:22:02+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -50,23 +85,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T11:20:51+03:00"
+            "time": "2025-12-10T11:21:15+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.079999923706055,
+            "symbol": "KRDMD.IS",
+            "price": 26.360000610351562,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.7407407407407469,
+            "chg": 1.3066871637202149,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
-                "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T11:21:24+03:00"
+            "time": "2025-12-10T11:22:24+03:00"
         },
         {
             "symbol": "YYLGD.IS",
@@ -82,23 +117,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T11:20:06+03:00"
+            "time": "2025-12-10T11:22:40+03:00"
         },
         {
-            "symbol": "TLMAN.IS",
-            "price": 106.69999694824219,
+            "symbol": "OTKAR.IS",
+            "price": 525,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.233396584440225,
-            "range15": 0.916661898309855,
+            "chg": 0.9615384615384616,
+            "range15": 0.75,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T11:21:22+03:00"
+            "time": "2025-12-10T11:21:51+03:00"
         }
     ]
 }
