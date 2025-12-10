@@ -1,7 +1,40 @@
 {
-    "updated": "2025-12-10T17:01:33+03:00",
-    "count": 1,
+    "updated": "2025-12-10T17:02:33+03:00",
+    "count": 4,
     "data": [
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.380000114440918,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9493670886075887,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T16:47:18+03:00"
+        },
+        {
+            "symbol": "ALARK.IS",
+            "price": 95.75,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -0.20844189682126404,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T16:46:59+03:00"
+        },
         {
             "symbol": "ZOREN.IS",
             "price": 3.190000057220459,
@@ -16,7 +49,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T16:46:28+03:00"
+            "time": "2025-12-10T16:47:22+03:00"
+        },
+        {
+            "symbol": "LIDER.IS",
+            "price": 55.099998474121094,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -2.736098852603702,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-10T16:46:25+03:00"
         }
     ]
 }
