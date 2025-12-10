@@ -1,32 +1,49 @@
 {
-    "updated": "2025-12-10T15:07:31+03:00",
-    "count": 4,
+    "updated": "2025-12-10T15:08:31+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "TRCAS.IS",
-            "price": 43.220001220703125,
-            "score": 85,
+            "symbol": "PENTA.IS",
+            "price": 14.109999656677246,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.7459207459207466,
+            "chg": 1.510791366906468,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:53:19+03:00"
+        },
+        {
+            "symbol": "TLMAN.IS",
+            "price": 107.19999694824219,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.707779886148005,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-10T14:52:09+03:00"
+            "time": "2025-12-10T14:53:24+03:00"
         },
         {
             "symbol": "KUYAS.IS",
-            "price": 51,
+            "price": 50.900001525878906,
             "score": 70,
             "label": "Watchlist",
-            "chg": 6.338615512927438,
-            "range15": 1,
+            "chg": 6.1301084236864005,
+            "range15": 0.9333343505859991,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -35,39 +52,40 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T14:52:20+03:00"
+            "time": "2025-12-10T14:53:20+03:00"
         },
         {
-            "symbol": "TLMAN.IS",
-            "price": 107,
-            "score": 70,
+            "symbol": "TRCAS.IS",
+            "price": 43.15999984741211,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 1.5180265654648901,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T14:52:19+03:00"
-        },
-        {
-            "symbol": "PENTA.IS",
-            "price": 14.0600004196167,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.1510791366906485,
-            "range15": 1,
+            "chg": 0.6060606060606014,
+            "range15": 0.8235254518732458,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
-                "rp15"
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-12-10T14:52:06+03:00"
+            "time": "2025-12-10T14:53:02+03:00"
+        },
+        {
+            "symbol": "ASELS.IS",
+            "price": 207.1999969482422,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.5742574257425686,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:53:03+03:00"
         }
     ]
 }
