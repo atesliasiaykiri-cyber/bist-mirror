@@ -1,7 +1,40 @@
 {
-    "updated": "2025-12-10T17:15:30+03:00",
+    "updated": "2025-12-10T17:16:34+03:00",
     "count": 4,
     "data": [
+        {
+            "symbol": "ASELS.IS",
+            "price": 208.60000610351562,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.267326732673265,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T17:01:03+03:00"
+        },
+        {
+            "symbol": "BIOEN.IS",
+            "price": 20.520000457763672,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -0.869565217391303,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T17:01:05+03:00"
+        },
         {
             "symbol": "DERIM.IS",
             "price": 35.099998474121094,
@@ -16,7 +49,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T16:59:54+03:00"
+            "time": "2025-12-10T17:00:20+03:00"
         },
         {
             "symbol": "SANEL.IS",
@@ -32,38 +65,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:00:18+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 12.039999961853027,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -2.113821138211395,
-            "range15": 0.8888865341398028,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T17:00:20+03:00"
-        },
-        {
-            "symbol": "ASELS.IS",
-            "price": 208.1999969482422,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 3.0693069306930636,
-            "range15": 0.8999938964799981,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-10T17:00:02+03:00"
+            "time": "2025-12-10T17:00:51+03:00"
         }
     ]
 }
