@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T12:25:32+03:00",
-    "count": 8,
+    "updated": "2025-12-10T12:26:31+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "FMIZP.IS",
@@ -34,14 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:10:19+03:00"
+            "time": "2025-12-10T12:11:07+03:00"
         },
         {
-            "symbol": "ECILC.IS",
-            "price": 89.19999694824219,
+            "symbol": "CANTE.IS",
+            "price": 2.180000066757202,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.11223344556678848,
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,7 +50,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:10:02+03:00"
+            "time": "2025-12-10T12:11:03+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 89.25,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.16835016835017474,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:10:42+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 527,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 1.3461538461538463,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:11:11+03:00"
         },
         {
             "symbol": "GSDDE.IS",
@@ -69,53 +101,6 @@
             "time": "2025-12-10T12:10:07+03:00"
         },
         {
-            "symbol": "QUAGR.IS",
-            "price": 3.4700000286102295,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.204204204204208,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T12:10:07+03:00"
-        },
-        {
-            "symbol": "SANEL.IS",
-            "price": 39.880001068115234,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -1.0421836228287709,
-            "range15": 0.9285704554421828,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T12:10:14+03:00"
-        },
-        {
-            "symbol": "SNICA.IS",
-            "price": 4.079999923706055,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.7407407407407469,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T12:10:14+03:00"
-        },
-        {
             "symbol": "YYLGD.IS",
             "price": 10.260000228881836,
             "score": 55,
@@ -128,7 +113,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T12:10:11+03:00"
+            "time": "2025-12-10T12:11:22+03:00"
         }
     ]
 }
