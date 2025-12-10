@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T12:13:32+03:00",
-    "count": 4,
+    "updated": "2025-12-10T12:14:30+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "KRDMD.IS",
-            "price": 26.600000381469727,
+            "price": 26.639999389648438,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 2.22905457340508,
+            "chg": 2.3827824750192197,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T11:58:11+03:00"
+            "time": "2025-12-10T11:59:10+03:00"
         },
         {
             "symbol": "TAVHL.IS",
@@ -36,7 +36,24 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T11:58:04+03:00"
+            "time": "2025-12-10T11:59:09+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.640000104904175,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.5352112676056424,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T11:59:05+03:00"
         },
         {
             "symbol": "TTRAK.IS",
@@ -55,6 +72,21 @@
             "time": "2025-12-10T11:58:13+03:00"
         },
         {
+            "symbol": "MPARK.IS",
+            "price": 347,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.461988304093567,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-10T11:59:17+03:00"
+        },
+        {
             "symbol": "SNICA.IS",
             "price": 4.079999923706055,
             "score": 55,
@@ -67,7 +99,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T11:58:24+03:00"
+            "time": "2025-12-10T11:59:17+03:00"
         }
     ]
 }
