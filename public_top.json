@@ -1,23 +1,38 @@
 {
-    "updated": "2025-12-10T14:47:32+03:00",
-    "count": 6,
+    "updated": "2025-12-10T14:48:34+03:00",
+    "count": 4,
     "data": [
         {
-            "symbol": "BIMAS.IS",
-            "price": 538,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.2813688212927756,
+            "symbol": "DOAS.IS",
+            "price": 188.6999969482422,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.5327650506126799,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:31:59+03:00"
+            "time": "2025-12-10T14:33:05+03:00"
+        },
+        {
+            "symbol": "SISE.IS",
+            "price": 41.81999969482422,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.2877697841726557,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T14:33:13+03:00"
         },
         {
             "symbol": "KCHOL.IS",
@@ -33,38 +48,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:31:48+03:00"
-        },
-        {
-            "symbol": "DOAS.IS",
-            "price": 188.60000610351562,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.47948854555141485,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T14:31:55+03:00"
-        },
-        {
-            "symbol": "GARAN.IS",
-            "price": 141,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.28449502133713067,
-            "range15": 0.749990463468271,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T14:32:06+03:00"
+            "time": "2025-12-10T14:33:10+03:00"
         },
         {
             "symbol": "PGSUS.IS",
@@ -79,23 +63,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T14:32:11+03:00"
-        },
-        {
-            "symbol": "SANEL.IS",
-            "price": 39.65999984741211,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -1.5880893300248153,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T14:32:22+03:00"
+            "time": "2025-12-10T14:33:03+03:00"
         }
     ]
 }
