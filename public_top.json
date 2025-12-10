@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T14:46:31+03:00",
-    "count": 7,
+    "updated": "2025-12-10T14:47:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -17,64 +17,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:31:04+03:00"
+            "time": "2025-12-10T14:31:59+03:00"
         },
         {
             "symbol": "KCHOL.IS",
-            "price": 175,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.1560693641618496,
-            "range15": 1,
+            "price": 174.89999389648438,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.0982658959537606,
+            "range15": 0.7499809262089507,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T14:31:06+03:00"
+            "time": "2025-12-10T14:31:48+03:00"
         },
         {
-            "symbol": "GARAN.IS",
-            "price": 141.10000610351562,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": 0.35561877667140823,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T14:31:06+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.360000133514404,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6329113924050638,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T14:31:19+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69.30000305175781,
+            "symbol": "DOAS.IS",
+            "price": 188.60000610351562,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.07215007215006805,
+            "chg": 0.47948854555141485,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -82,7 +48,23 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T14:30:00+03:00"
+            "time": "2025-12-10T14:31:55+03:00"
+        },
+        {
+            "symbol": "GARAN.IS",
+            "price": 141,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.28449502133713067,
+            "range15": 0.749990463468271,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T14:32:06+03:00"
         },
         {
             "symbol": "PGSUS.IS",
@@ -97,7 +79,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T14:31:06+03:00"
+            "time": "2025-12-10T14:32:11+03:00"
         },
         {
             "symbol": "SANEL.IS",
@@ -113,7 +95,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-10T14:30:07+03:00"
+            "time": "2025-12-10T14:32:22+03:00"
         }
     ]
 }
