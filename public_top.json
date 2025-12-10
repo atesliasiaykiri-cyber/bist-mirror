@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-10T13:53:30+03:00",
-    "count": 8,
+    "updated": "2025-12-10T13:54:30+03:00",
+    "count": 6,
     "data": [
+        {
+            "symbol": "BIMAS.IS",
+            "price": 537.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.1863117870722433,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:39:03+03:00"
+        },
         {
             "symbol": "KCHOL.IS",
             "price": 174.8000030517578,
@@ -16,14 +33,14 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T13:37:59+03:00"
+            "time": "2025-12-10T13:39:08+03:00"
         },
         {
-            "symbol": "FROTO.IS",
-            "price": 91.94999694824219,
+            "symbol": "AKBNK.IS",
+            "price": 69.3499984741211,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.6568144499179075,
+            "chg": 0.07215007215006805,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -32,7 +49,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:38:01+03:00"
+            "time": "2025-12-10T13:38:57+03:00"
         },
         {
             "symbol": "TRCAS.IS",
@@ -52,22 +69,6 @@
             "time": "2025-12-10T13:36:07+03:00"
         },
         {
-            "symbol": "EUREN.IS",
-            "price": 6.349999904632568,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.47468354430378734,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T13:38:11+03:00"
-        },
-        {
             "symbol": "SEKUR.IS",
             "price": 4.130000114440918,
             "score": 65,
@@ -81,22 +82,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:37:00+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69.30000305175781,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T13:38:02+03:00"
+            "time": "2025-12-10T13:38:41+03:00"
         },
         {
             "symbol": "PRKAB.IS",
@@ -113,21 +99,6 @@
                 "rsiOB"
             ],
             "time": "2025-12-10T13:37:18+03:00"
-        },
-        {
-            "symbol": "TTKOM.IS",
-            "price": 57.25,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.9700176366842983,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-10T13:38:21+03:00"
         }
     ]
 }
