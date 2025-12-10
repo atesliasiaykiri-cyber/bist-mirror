@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-10T18:44:34+03:00",
+    "updated": "2025-12-10T18:45:39+03:00",
     "count": 97,
     "data": [
         {
@@ -172,11 +172,11 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "KRVGD.IS",
-            "price": 2.559999942779541,
+            "symbol": "YKBNK.IS",
+            "price": 35.959999084472656,
             "score": 45,
             "label": "Neutral",
-            "chg": -2.2900763358778646,
+            "chg": -1.5873015873015828,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -235,11 +235,11 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
-            "symbol": "CLEBI.IS",
-            "price": 1592,
+            "symbol": "BAGFS.IS",
+            "price": 27.260000228881836,
             "score": 35,
             "label": "Neutral",
-            "chg": 0,
+            "chg": -1.8011527377521614,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -306,21 +306,6 @@
                 "rp30",
                 "rsiOB",
                 "rsiExtreme"
-            ],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "YKBNK.IS",
-            "price": 35.959999084472656,
-            "score": 35,
-            "label": "Neutral",
-            "chg": -1.5873015873015828,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-12-10T18:00:00+03:00"
         },
@@ -507,6 +492,19 @@
             "time": "2025-12-10T18:00:00+03:00"
         },
         {
+            "symbol": "KRVGD.IS",
+            "price": 2.559999942779541,
+            "score": 10,
+            "label": "Neutral",
+            "chg": -2.2900763358778646,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp60"
+            ],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
             "symbol": "AKBNK.IS",
             "price": 68.6500015258789,
             "score": 0,
@@ -545,17 +543,6 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.18691588785046995,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-10T18:00:00+03:00"
-        },
-        {
-            "symbol": "BAGFS.IS",
-            "price": 27.260000228881836,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -1.8011527377521614,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
@@ -611,6 +598,17 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.7666098807495729,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-10T18:00:00+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1592,
+            "score": 0,
+            "label": "Neutral",
+            "chg": 0,
             "range15": null,
             "vwapPrem": null,
             "reasons": [],
