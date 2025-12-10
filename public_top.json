@@ -1,47 +1,31 @@
 {
-    "updated": "2025-12-10T18:08:34+03:00",
-    "count": 6,
+    "updated": "2025-12-10T18:09:33+03:00",
+    "count": 4,
     "data": [
         {
-            "symbol": "BORSK.IS",
-            "price": 6.210000038146973,
-            "score": 75,
+            "symbol": "EUREN.IS",
+            "price": 6.380000114440918,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": -74.19087136929461,
+            "chg": 0.9493670886075887,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-10T17:52:00+03:00"
+            "time": "2025-12-10T17:53:00+03:00"
         },
         {
             "symbol": "SKBNK.IS",
             "price": 7.769999980926514,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.3846153846153878,
+            "chg": -0.5128205128205132,
             "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T17:52:00+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 12.039999961853027,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -2.195121951219523,
-            "range15": 0.8571409108853879,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -65,14 +49,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T17:52:00+03:00"
+            "time": "2025-12-10T17:53:00+03:00"
         },
         {
             "symbol": "GUBRF.IS",
             "price": 327,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.0765696784073507,
+            "chg": 0.1531393568147014,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -81,21 +65,6 @@
                 "rp30"
             ],
             "time": "2025-12-10T17:52:00+03:00"
-        },
-        {
-            "symbol": "SOKM.IS",
-            "price": 49.63999938964844,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.12077294685990796,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T17:51:00+03:00"
         }
     ]
 }
