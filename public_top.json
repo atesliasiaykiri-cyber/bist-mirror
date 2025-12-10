@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-10T12:47:42+03:00",
-    "count": 5,
+    "updated": "2025-12-10T12:48:41+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "GSDDE.IS",
@@ -17,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:32:24+03:00"
+            "time": "2025-12-10T12:33:19+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 348.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.9005847953216373,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:33:14+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -34,15 +51,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:32:33+03:00"
+            "time": "2025-12-10T12:33:34+03:00"
         },
         {
             "symbol": "DERIM.IS",
-            "price": 35.5,
+            "price": 35.47999954223633,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.16930022573364076,
-            "range15": 1,
+            "chg": 0.1128668171557538,
+            "range15": 0.9230746658437162,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -50,23 +67,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:31:36+03:00"
+            "time": "2025-12-10T12:33:08+03:00"
         },
         {
-            "symbol": "MPARK.IS",
-            "price": 348.25,
-            "score": 65,
+            "symbol": "TLMAN.IS",
+            "price": 108,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 1.827485380116959,
+            "chg": 2.46679316888045,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
+                "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:32:30+03:00"
+            "time": "2025-12-10T12:33:29+03:00"
         },
         {
             "symbol": "KCHOL.IS",
@@ -81,7 +98,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T12:32:08+03:00"
+            "time": "2025-12-10T12:33:10+03:00"
         }
     ]
 }
