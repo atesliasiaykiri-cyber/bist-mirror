@@ -1,55 +1,23 @@
 {
-    "updated": "2025-12-10T17:06:33+03:00",
-    "count": 3,
+    "updated": "2025-12-10T17:07:33+03:00",
+    "count": 1,
     "data": [
         {
-            "symbol": "EUREN.IS",
-            "price": 6.380000114440918,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.9493670886075887,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T16:51:08+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 55.20000076293945,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -2.5595763459841057,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T16:51:13+03:00"
-        },
-        {
             "symbol": "SANEL.IS",
-            "price": 40,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": -0.7444168734491244,
-            "range15": 1,
+            "price": 39.97999954223633,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": -0.7940446650124077,
+            "range15": 0.9777773068279356,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-10T16:50:09+03:00"
+            "time": "2025-12-10T16:52:19+03:00"
         }
     ]
 }
