@@ -1,22 +1,38 @@
 {
-    "updated": "2025-12-10T17:03:34+03:00",
-    "count": 1,
+    "updated": "2025-12-10T17:04:31+03:00",
+    "count": 2,
     "data": [
         {
-            "symbol": "ZOREN.IS",
-            "price": 3.190000057220459,
-            "score": 65,
+            "symbol": "EUREN.IS",
+            "price": 6.380000114440918,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9493670886075887,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T16:49:14+03:00"
+        },
+        {
+            "symbol": "LIDER.IS",
+            "price": 55.150001525878906,
+            "score": 55,
             "label": "Watchlist",
-            "chg": -0.3125000000000072,
+            "chg": -2.64783759929391,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-10T16:48:28+03:00"
+            "time": "2025-12-10T16:49:16+03:00"
         }
     ]
 }
