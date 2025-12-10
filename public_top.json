@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-10T11:09:32+03:00",
-    "count": 13,
+    "updated": "2025-12-10T11:10:32+03:00",
+    "count": 10,
     "data": [
         {
-            "symbol": "BIOEN.IS",
-            "price": 20.920000076293945,
-            "score": 90,
+            "symbol": "BIMAS.IS",
+            "price": 532,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.0628019323671614,
+            "chg": 1.1406844106463878,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -15,10 +15,9 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-10T10:53:57+03:00"
+            "time": "2025-12-10T10:55:03+03:00"
         },
         {
             "symbol": "KORDS.IS",
@@ -35,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:53:55+03:00"
+            "time": "2025-12-10T10:54:31+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -52,14 +51,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:54:11+03:00"
+            "time": "2025-12-10T10:54:58+03:00"
         },
         {
-            "symbol": "BRISA.IS",
-            "price": 82.5,
+            "symbol": "ZOREN.IS",
+            "price": 3.2300000190734863,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9374999999999939,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T10:55:18+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.180000066757202,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.5484460694698389,
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -68,7 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:51:53+03:00"
+            "time": "2025-12-10T10:54:00+03:00"
         },
         {
             "symbol": "GUBRF.IS",
@@ -84,7 +100,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:53:52+03:00"
+            "time": "2025-12-10T10:54:17+03:00"
         },
         {
             "symbol": "KRDMD.IS",
@@ -100,7 +116,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:54:10+03:00"
+            "time": "2025-12-10T10:55:09+03:00"
         },
         {
             "symbol": "SASA.IS",
@@ -116,23 +132,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:54:12+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 57,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.6178287731685815,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T10:54:22+03:00"
+            "time": "2025-12-10T10:55:14+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -148,69 +148,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T10:52:09+03:00"
+            "time": "2025-12-10T10:54:29+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.070000171661377,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.4938271604938386,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-10T10:53:49+03:00"
-        },
-        {
-            "symbol": "BIMAS.IS",
-            "price": 531.5,
+            "symbol": "KUYAS.IS",
+            "price": 50.95000076293945,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.0456273764258555,
-            "range15": 0.6666666666666666,
+            "chg": 6.234361968306926,
+            "range15": 0.9099113341115265,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
-                "rp60"
+                "rsiOB"
             ],
-            "time": "2025-12-10T10:54:03+03:00"
-        },
-        {
-            "symbol": "SISE.IS",
-            "price": 41.84000015258789,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.33573141486810687,
-            "range15": 0.8571389645758514,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T10:54:13+03:00"
-        },
-        {
-            "symbol": "YYLGD.IS",
-            "price": 10.25,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.09746588693956908,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-10T10:53:13+03:00"
+            "time": "2025-12-10T10:55:21+03:00"
         }
     ]
 }
