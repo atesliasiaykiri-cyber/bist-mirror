@@ -1,49 +1,13 @@
 {
-    "updated": "2025-12-10T12:16:32+03:00",
-    "count": 5,
+    "updated": "2025-12-10T12:17:32+03:00",
+    "count": 4,
     "data": [
         {
-            "symbol": "KRDMD.IS",
-            "price": 26.700000762939453,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.6133743274404297,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T12:01:11+03:00"
-        },
-        {
-            "symbol": "TAVHL.IS",
-            "price": 298.5,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.9310344827586206,
-            "range15": 0.875,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-10T12:01:11+03:00"
-        },
-        {
             "symbol": "SRVGY.IS",
-            "price": 3.640000104904175,
+            "price": 3.6500000953674316,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.5352112676056424,
+            "chg": 2.8169014084507067,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T12:01:20+03:00"
+            "time": "2025-12-10T12:02:17+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.65999984741211,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.4596464258262896,
+            "range15": 0.7999961853185545,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-10T12:02:11+03:00"
         },
         {
             "symbol": "GSDDE.IS",
@@ -84,7 +65,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-10T12:01:13+03:00"
+            "time": "2025-12-10T12:02:23+03:00"
         }
     ]
 }
