@@ -1,25 +1,7 @@
 {
-    "updated": "2025-12-10T13:28:31+03:00",
+    "updated": "2025-12-10T13:29:40+03:00",
     "count": 6,
     "data": [
-        {
-            "symbol": "FROTO.IS",
-            "price": 91.9000015258789,
-            "score": 85,
-            "label": "Strong Short Zone",
-            "chg": 0.6020799124247525,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-10T13:13:07+03:00"
-        },
         {
             "symbol": "BURCE.IS",
             "price": 48,
@@ -39,6 +21,23 @@
             "time": "2025-12-10T12:55:09+03:00"
         },
         {
+            "symbol": "TTKOM.IS",
+            "price": 57.25,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9700176366842983,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T13:14:34+03:00"
+        },
+        {
             "symbol": "EREGL.IS",
             "price": 24.420000076293945,
             "score": 65,
@@ -52,39 +51,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:13:07+03:00"
+            "time": "2025-12-10T13:14:07+03:00"
         },
         {
-            "symbol": "TTKOM.IS",
-            "price": 57.04999923706055,
-            "score": 65,
+            "symbol": "BIMAS.IS",
+            "price": 535.5,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.6172839506172738,
+            "chg": 1.8060836501901139,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-10T13:12:35+03:00"
+            "time": "2025-12-10T13:13:55+03:00"
         },
         {
-            "symbol": "FMIZP.IS",
-            "price": 343,
-            "score": 60,
+            "symbol": "FROTO.IS",
+            "price": 91.80000305175781,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 2.5411061285500747,
-            "range15": 0.6363636363636364,
+            "chg": 0.49261083743842676,
+            "range15": 0.6666751436859739,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-10T13:13:08+03:00"
+            "time": "2025-12-10T13:14:07+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -99,7 +98,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-10T13:13:23+03:00"
+            "time": "2025-12-10T13:14:28+03:00"
         }
     ]
 }
