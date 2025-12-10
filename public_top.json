@@ -1,23 +1,72 @@
 {
-    "updated": "2025-12-10T12:45:32+03:00",
-    "count": 1,
+    "updated": "2025-12-10T12:46:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "GSDDE.IS",
-            "price": 9.869999885559082,
-            "score": 75,
+            "price": 9.880000114440918,
+            "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.714285714285699,
+            "chg": 0.8163265306122455,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-10T12:29:12+03:00"
+            "time": "2025-12-10T12:31:09+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.6500000953674316,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.8169014084507067,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:31:20+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 348.25,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 1.827485380116959,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:30:00+03:00"
+        },
+        {
+            "symbol": "TLMAN.IS",
+            "price": 107.5999984741211,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.0872865275142205,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-10T12:31:18+03:00"
         }
     ]
 }
