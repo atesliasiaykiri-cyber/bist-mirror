@@ -1,11 +1,11 @@
 {
-    "updated": "2025-12-11T18:31:33+03:00",
+    "updated": "2025-12-11T18:32:33+03:00",
     "count": 97,
     "data": [
         {
             "symbol": "ARCLK.IS",
             "price": 108.4000015258789,
-            "score": 90,
+            "score": 100,
             "label": "Strong Short Zone",
             "chg": 1.4981273408239781,
             "range15": 1,
@@ -16,7 +16,8 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -420,6 +421,20 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "BAGFS.IS",
+            "price": 27.34000015258789,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 0.2934702861335227,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "DOAS.IS",
             "price": 190.8000030517578,
             "score": 35,
@@ -467,19 +482,6 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.509832483612519,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "BAGFS.IS",
-            "price": 27.34000015258789,
-            "score": 20,
-            "label": "Neutral",
-            "chg": 0.2934702861335227,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
