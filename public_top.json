@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T13:26:33+03:00",
-    "count": 8,
+    "updated": "2025-12-11T13:27:32+03:00",
+    "count": 7,
     "data": [
         {
-            "symbol": "AGHOL.IS",
-            "price": 29.65999984741211,
-            "score": 80,
+            "symbol": "SRVGY.IS",
+            "price": 3.7100000381469727,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.201113430758531,
+            "chg": 3.342618384401117,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -15,26 +15,10 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-11T13:11:10+03:00"
-        },
-        {
-            "symbol": "BSOKE.IS",
-            "price": 16.65999984741211,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 5.509816339455358,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:11:07+03:00"
+            "time": "2025-12-11T13:12:24+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -55,38 +39,20 @@
             "time": "2025-12-11T12:55:05+03:00"
         },
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.700000047683716,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.064066852367697,
-            "range15": 1,
+            "symbol": "BSOKE.IS",
+            "price": 16.649999618530273,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 5.446485117162759,
+            "range15": 0.9090893327765188,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-11T13:11:21+03:00"
-        },
-        {
-            "symbol": "SMRTG.IS",
-            "price": 28.65999984741211,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.2720848056537082,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-11T13:11:13+03:00"
+            "time": "2025-12-11T13:12:15+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -102,14 +68,14 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-11T13:10:59+03:00"
+            "time": "2025-12-11T13:11:55+03:00"
         },
         {
-            "symbol": "KORDS.IS",
-            "price": 50.400001525878906,
+            "symbol": "TCELL.IS",
+            "price": 101.19999694824219,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.4985044865403789,
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -118,7 +84,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:10:38+03:00"
+            "time": "2025-12-11T13:12:07+03:00"
+        },
+        {
+            "symbol": "AGHOL.IS",
+            "price": 29.639999389648438,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.131524008350738,
+            "range15": 0.7499940395255749,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:12:12+03:00"
         },
         {
             "symbol": "MPARK.IS",
