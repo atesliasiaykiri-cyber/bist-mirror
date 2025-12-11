@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T15:54:32+03:00",
-    "count": 2,
+    "updated": "2025-12-11T15:55:29+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "EUREN.IS",
@@ -17,24 +17,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:39:20+03:00"
+            "time": "2025-12-11T15:40:16+03:00"
         },
         {
             "symbol": "BSOKE.IS",
-            "price": 16.6299991607666,
-            "score": 70,
+            "price": 16.610000610351562,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 5.319822672577581,
-            "range15": 1,
+            "chg": 5.1931602279924025,
+            "range15": 0.8666759915068238,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-11T15:39:15+03:00"
+            "time": "2025-12-11T15:40:15+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.7200000286102295,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 3.62116991643455,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T15:40:21+03:00"
         }
     ]
 }
