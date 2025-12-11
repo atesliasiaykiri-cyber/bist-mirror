@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T18:33:32+03:00",
+    "updated": "2025-12-11T18:34:33+03:00",
     "count": 97,
     "data": [
         {
@@ -22,24 +22,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "BERA.IS",
-            "price": 17.010000228881836,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 1.009501187648466,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "OZKGY.IS",
             "price": 14.729999542236328,
             "score": 85,
@@ -54,6 +36,40 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "BERA.IS",
+            "price": 17.010000228881836,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.009501187648466,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "PETKM.IS",
+            "price": 17.360000610351562,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9302325581395358,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -140,22 +156,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "PETKM.IS",
-            "price": 17.360000610351562,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 0.9302325581395358,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "SASA.IS",
             "price": 2.890000104904175,
             "score": 65,
@@ -223,6 +223,21 @@
             "score": 55,
             "label": "Watchlist",
             "chg": -2.21784130113356,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 28.100000381469727,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.2139800285306786,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -379,20 +394,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "CWENE.IS",
-            "price": 28.100000381469727,
-            "score": 40,
-            "label": "Neutral",
-            "chg": 0.2139800285306786,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "KORDS.IS",
             "price": 50.29999923706055,
             "score": 40,
@@ -459,6 +460,20 @@
             "reasons": [
                 "strongUpDay",
                 "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "SKBNK.IS",
+            "price": 7.699999809265137,
+            "score": 35,
+            "label": "Neutral",
+            "chg": -0.25906735751294785,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -534,19 +549,6 @@
             "score": 20,
             "label": "Neutral",
             "chg": -1.8018018018018036,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "SKBNK.IS",
-            "price": 7.699999809265137,
-            "score": 20,
-            "label": "Neutral",
-            "chg": -0.25906735751294785,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
