@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T17:22:32+03:00",
-    "count": 6,
+    "updated": "2025-12-11T17:23:33+03:00",
+    "count": 8,
     "data": [
         {
-            "symbol": "IZMDC.IS",
-            "price": 7.070000171661377,
+            "symbol": "BIMAS.IS",
+            "price": 553,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.211678832116798,
+            "chg": 3.75234521575985,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,24 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:06:38+03:00"
-        },
-        {
-            "symbol": "FROTO.IS",
-            "price": 93.44999694824219,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.259668508287296,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T17:07:06+03:00"
+            "time": "2025-12-11T17:08:01+03:00"
         },
         {
             "symbol": "GUBRF.IS",
@@ -52,23 +35,57 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:06:38+03:00"
+            "time": "2025-12-11T17:08:08+03:00"
         },
         {
-            "symbol": "BIMAS.IS",
-            "price": 552,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.564727954971857,
-            "range15": 0.6666666666666666,
+            "symbol": "MGROS.IS",
+            "price": 528.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.9286403085824495,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:07:03+03:00"
+            "time": "2025-12-11T17:08:12+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.79999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.8444266238973428,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:08:13+03:00"
+        },
+        {
+            "symbol": "TCELL.IS",
+            "price": 101.80000305175781,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.5928853754940655,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:08:02+03:00"
         },
         {
             "symbol": "PRKAB.IS",
@@ -84,7 +101,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:06:42+03:00"
+            "time": "2025-12-11T17:08:08+03:00"
+        },
+        {
+            "symbol": "IZMDC.IS",
+            "price": 7.059999942779541,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.065693430656934,
+            "range15": 0.7499940395286946,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:07:28+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -99,7 +132,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T17:07:06+03:00"
+            "time": "2025-12-11T17:07:56+03:00"
         }
     ]
 }
