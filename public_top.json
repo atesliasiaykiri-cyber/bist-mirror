@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T18:29:32+03:00",
+    "updated": "2025-12-11T18:30:34+03:00",
     "count": 97,
     "data": [
         {
@@ -107,6 +107,38 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "BIMAS.IS",
+            "price": 554,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 3.9399624765478425,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "KARSN.IS",
+            "price": 9.579999923706055,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.9148936170212734,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "PETKM.IS",
             "price": 17.360000610351562,
             "score": 70,
@@ -155,41 +187,11 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "BIMAS.IS",
-            "price": 554,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 3.9399624765478425,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "GUBRF.IS",
             "price": 331.75,
             "score": 55,
             "label": "Watchlist",
             "chg": 2.076923076923077,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "KARSN.IS",
-            "price": 9.579999923706055,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.9148936170212734,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -362,6 +364,20 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "TOASO.IS",
+            "price": 234.1999969482422,
+            "score": 40,
+            "label": "Neutral",
+            "chg": 0.08547008547008061,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "CWENE.IS",
             "price": 28.100000381469727,
             "score": 40,
@@ -451,7 +467,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.509832483612519,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -563,19 +579,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "TOASO.IS",
-            "price": 234.1999969482422,
-            "score": 20,
-            "label": "Neutral",
-            "chg": 0.08547008547008061,
-            "range15": 0.24998092620895077,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "TTRAK.IS",
             "price": 521.5,
             "score": 20,
@@ -585,6 +588,19 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "TUPRS.IS",
+            "price": 197.39999389648438,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -0.30303030303030015,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -698,7 +714,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 3.7558685446009425,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -802,7 +818,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 0.8221225710014948,
-            "range15": 0.3333333333333333,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -889,7 +905,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.4373177842565625,
-            "range15": 0.49996185241790153,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1043,7 +1059,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.8797653958944283,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1077,17 +1093,6 @@
             "label": "Neutral",
             "chg": -0.5085529357373991,
             "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "TUPRS.IS",
-            "price": 197.39999389648438,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -0.30303030303030015,
-            "range15": 0.6666497126169046,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
