@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T17:07:33+03:00",
-    "count": 3,
+    "updated": "2025-12-11T17:08:31+03:00",
+    "count": 4,
     "data": [
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.75,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.7441860465116226,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T16:53:13+03:00"
+        },
         {
             "symbol": "BIMAS.IS",
             "price": 551,
@@ -16,30 +33,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:52:04+03:00"
+            "time": "2025-12-11T16:53:04+03:00"
         },
         {
-            "symbol": "GSDHO.IS",
-            "price": 4.78000020980835,
+            "symbol": "FROTO.IS",
+            "price": 93.3499984741211,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.0570824524312858,
-            "range15": 1,
+            "chg": 3.1491712707182256,
+            "range15": 0.7499904634744702,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:51:43+03:00"
+            "time": "2025-12-11T16:53:07+03:00"
         },
         {
             "symbol": "ARCLK.IS",
             "price": 108.5,
             "score": 55,
             "label": "Watchlist",
-            "chg": 1.4981273408239781,
+            "chg": 1.591760299625471,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -47,7 +64,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T16:51:00+03:00"
+            "time": "2025-12-11T16:52:58+03:00"
         }
     ]
 }
