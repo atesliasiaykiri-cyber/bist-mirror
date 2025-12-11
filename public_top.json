@@ -1,13 +1,31 @@
 {
-    "updated": "2025-12-11T13:07:32+03:00",
+    "updated": "2025-12-11T13:08:31+03:00",
     "count": 10,
     "data": [
         {
+            "symbol": "AGHOL.IS",
+            "price": 29.600000381469727,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 2.9923451635351532,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T12:53:05+03:00"
+        },
+        {
             "symbol": "AKBNK.IS",
-            "price": 69.25,
+            "price": 69.30000305175781,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.8739985433357528,
+            "chg": 0.9468317552803954,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:51:00+03:00"
+            "time": "2025-12-11T12:53:01+03:00"
         },
         {
             "symbol": "ALBRK.IS",
@@ -37,23 +55,6 @@
             "time": "2025-12-11T12:51:39+03:00"
         },
         {
-            "symbol": "ARCLK.IS",
-            "price": 107.9000015258789,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.0299625468164875,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T12:51:23+03:00"
-        },
-        {
             "symbol": "BIMAS.IS",
             "price": 542,
             "score": 80,
@@ -68,7 +69,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:52:04+03:00"
+            "time": "2025-12-11T12:53:04+03:00"
         },
         {
             "symbol": "DOAS.IS",
@@ -85,14 +86,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:52:03+03:00"
+            "time": "2025-12-11T12:52:56+03:00"
         },
         {
-            "symbol": "AGHOL.IS",
-            "price": 29.600000381469727,
+            "symbol": "GSDDE.IS",
+            "price": 10.15999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.9923451635351532,
+            "chg": 4.742268041237122,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -102,7 +103,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:52:13+03:00"
+            "time": "2025-12-11T12:53:19+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -118,7 +119,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:51:49+03:00"
+            "time": "2025-12-11T12:52:55+03:00"
         },
         {
             "symbol": "TTKOM.IS",
@@ -134,23 +135,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:52:25+03:00"
+            "time": "2025-12-11T12:53:06+03:00"
         },
         {
-            "symbol": "CWENE.IS",
-            "price": 28.399999618530273,
+            "symbol": "KCHOL.IS",
+            "price": 174.3000030517578,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.2838801711840209,
-            "range15": 1,
+            "chg": 1.0434782608695718,
+            "range15": 0.6666836215787919,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:52:09+03:00"
+            "time": "2025-12-11T12:53:06+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -166,7 +167,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T12:51:00+03:00"
+            "time": "2025-12-11T12:53:05+03:00"
         }
     ]
 }
