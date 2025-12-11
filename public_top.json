@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T15:21:31+03:00",
-    "count": 4,
+    "updated": "2025-12-11T15:22:31+03:00",
+    "count": 6,
     "data": [
+        {
+            "symbol": "ALARK.IS",
+            "price": 96.55000305175781,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.4721345951629925,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:06:00+03:00"
+        },
         {
             "symbol": "EUREN.IS",
             "price": 6.460000038146973,
@@ -17,30 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:06:15+03:00"
-        },
-        {
-            "symbol": "ALARK.IS",
-            "price": 96.5,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.4721345951629925,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-11T15:05:56+03:00"
+            "time": "2025-12-11T15:06:23+03:00"
         },
         {
             "symbol": "BRISA.IS",
-            "price": 81.8499984741211,
+            "price": 81.9000015258789,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.8626001232285749,
+            "chg": 0.9242144177449167,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,7 +50,7 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-11T15:04:31+03:00"
+            "time": "2025-12-11T15:06:15+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -65,7 +66,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:06:03+03:00"
+            "time": "2025-12-11T15:06:29+03:00"
+        },
+        {
+            "symbol": "SOKM.IS",
+            "price": 50.04999923706055,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.3408179631114567,
+            "range15": 0.8684221093435125,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:07:10+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.260000228881836,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.845503458877782,
+            "range15": 0.666666666666647,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:06:00+03:00"
         }
     ]
 }
