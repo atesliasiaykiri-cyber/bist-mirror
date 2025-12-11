@@ -1,13 +1,32 @@
 {
-    "updated": "2025-12-11T18:23:33+03:00",
+    "updated": "2025-12-11T18:24:33+03:00",
     "count": 97,
     "data": [
         {
             "symbol": "BERA.IS",
             "price": 17.010000228881836,
-            "score": 90,
+            "score": 100,
             "label": "Strong Short Zone",
             "chg": 1.009501187648466,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 108.4000015258789,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.4981273408239781,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,23 +54,6 @@
                 "rp60",
                 "rsiOB",
                 "rsiExtreme"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "ARCLK.IS",
-            "price": 108.4000015258789,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.4981273408239781,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -169,22 +171,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.019999980926514,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.49999999999998934,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "TAVHL.IS",
             "price": 298.5,
             "score": 60,
@@ -281,7 +267,7 @@
             "score": 45,
             "label": "Neutral",
             "chg": 5.773195876288666,
-            "range15": 0.6666719649082624,
+            "range15": 0.5000119209488503,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -301,6 +287,21 @@
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.019999980926514,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 0.49999999999998934,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
                 "rp60"
             ],
             "time": "2025-12-11T18:00:00+03:00"
@@ -654,7 +655,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 0.855745721271397,
-            "range15": 0.6666613685120567,
+            "range15": 0.6363573311122529,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -693,7 +694,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 4.496516782773914,
-            "range15": 0.6666596024193688,
+            "range15": 0.7499940395255749,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -732,7 +733,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 0.8221225710014948,
-            "range15": 0.25,
+            "range15": 0.3333333333333333,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -784,7 +785,7 @@
             "score": 10,
             "label": "Neutral",
             "chg": -2.955665024630542,
-            "range15": 0.76,
+            "range15": 0.7391304347826086,
             "vwapPrem": null,
             "reasons": [
                 "rsiOB"
@@ -1215,7 +1216,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.8537590113285425,
-            "range15": 0.25000000000310857,
+            "range15": 0.33333333333885967,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
