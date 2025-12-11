@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T19:08:33+03:00",
+    "updated": "2025-12-11T19:09:33+03:00",
     "count": 97,
     "data": [
         {
@@ -332,20 +332,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.019999980926514,
-            "score": 30,
-            "label": "Neutral",
-            "chg": 0.49999999999998934,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp60"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "TTKOM.IS",
             "price": 56.75,
             "score": 30,
@@ -508,6 +494,19 @@
             "score": 20,
             "label": "Neutral",
             "chg": -0.5035971223021604,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.019999980926514,
+            "score": 20,
+            "label": "Neutral",
+            "chg": 0.49999999999998934,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
