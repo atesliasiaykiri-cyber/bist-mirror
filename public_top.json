@@ -1,7 +1,41 @@
 {
-    "updated": "2025-12-11T16:12:33+03:00",
+    "updated": "2025-12-11T16:13:31+03:00",
     "count": 3,
     "data": [
+        {
+            "symbol": "VESTL.IS",
+            "price": 32.70000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8014796547472414,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:57:47+03:00"
+        },
+        {
+            "symbol": "GSDDE.IS",
+            "price": 10.350000381469727,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 6.701030927835055,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:58:16+03:00"
+        },
         {
             "symbol": "CANTE.IS",
             "price": 2.240000009536743,
@@ -16,39 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:57:04+03:00"
-        },
-        {
-            "symbol": "ODAS.IS",
-            "price": 5.420000076293945,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.1194029850746194,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T15:56:55+03:00"
-        },
-        {
-            "symbol": "BSOKE.IS",
-            "price": 16.6299991607666,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 5.319822672577581,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T15:57:13+03:00"
+            "time": "2025-12-11T15:58:05+03:00"
         }
     ]
 }
