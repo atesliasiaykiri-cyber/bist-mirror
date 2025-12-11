@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T13:55:33+03:00",
-    "count": 7,
+    "updated": "2025-12-11T13:56:33+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:40:02+03:00"
+            "time": "2025-12-11T13:41:02+03:00"
         },
         {
             "symbol": "EUREN.IS",
@@ -34,7 +34,40 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:40:20+03:00"
+            "time": "2025-12-11T13:41:18+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 87.44999694824219,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 0.8069164265129716,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T13:40:16+03:00"
+        },
+        {
+            "symbol": "KCHOL.IS",
+            "price": 174.3000030517578,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.0434782608695718,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T13:41:09+03:00"
         },
         {
             "symbol": "OZKGY.IS",
@@ -81,7 +114,22 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T13:39:46+03:00"
+            "time": "2025-12-11T13:41:01+03:00"
+        },
+        {
+            "symbol": "SAHOL.IS",
+            "price": 85.3499984741211,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.1173020527859171,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T13:41:13+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -96,7 +144,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T13:40:16+03:00"
+            "time": "2025-12-11T13:41:08+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -111,7 +159,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:40:02+03:00"
+            "time": "2025-12-11T13:41:03+03:00"
         }
     ]
 }
