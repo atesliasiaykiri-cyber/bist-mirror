@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T13:54:32+03:00",
-    "count": 6,
+    "updated": "2025-12-11T13:55:33+03:00",
+    "count": 7,
     "data": [
+        {
+            "symbol": "BIMAS.IS",
+            "price": 542,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.6885553470919326,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:40:02+03:00"
+        },
         {
             "symbol": "EUREN.IS",
             "price": 6.460000038146973,
@@ -17,7 +34,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:38:47+03:00"
+            "time": "2025-12-11T13:40:20+03:00"
+        },
+        {
+            "symbol": "OZKGY.IS",
+            "price": 14.8100004196167,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.2995896032831826,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T13:39:49+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -36,36 +69,19 @@
             "time": "2025-12-11T13:38:47+03:00"
         },
         {
-            "symbol": "CANTE.IS",
-            "price": 2.2100000381469727,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.7558685446009425,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:38:56+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 87.4000015258789,
+            "symbol": "AKBNK.IS",
+            "price": 69.19999694824219,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.7492795389049057,
+            "chg": 0.8011653313911101,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
             ],
-            "time": "2025-12-11T13:38:56+03:00"
+            "time": "2025-12-11T13:39:46+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -80,7 +96,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T13:39:16+03:00"
+            "time": "2025-12-11T13:40:16+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -95,7 +111,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:39:22+03:00"
+            "time": "2025-12-11T13:40:02+03:00"
         }
     ]
 }
