@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T13:25:33+03:00",
-    "count": 10,
+    "updated": "2025-12-11T13:26:33+03:00",
+    "count": 8,
     "data": [
         {
             "symbol": "AGHOL.IS",
-            "price": 29.6200008392334,
+            "price": 29.65999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.0619345859429457,
+            "chg": 3.201113430758531,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:10:16+03:00"
+            "time": "2025-12-11T13:11:10+03:00"
+        },
+        {
+            "symbol": "BSOKE.IS",
+            "price": 16.65999984741211,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 5.509816339455358,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:11:07+03:00"
         },
         {
             "symbol": "BURCE.IS",
@@ -52,23 +69,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:10:22+03:00"
+            "time": "2025-12-11T13:11:21+03:00"
         },
         {
-            "symbol": "BSOKE.IS",
-            "price": 16.649999618530273,
+            "symbol": "SMRTG.IS",
+            "price": 28.65999984741211,
             "score": 70,
             "label": "Watchlist",
-            "chg": 5.446485117162759,
+            "chg": 1.2720848056537082,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-11T13:10:18+03:00"
+            "time": "2025-12-11T13:11:13+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -84,14 +102,14 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-11T13:09:50+03:00"
+            "time": "2025-12-11T13:10:59+03:00"
         },
         {
-            "symbol": "FENER.IS",
-            "price": 9.899999618530273,
+            "symbol": "KORDS.IS",
+            "price": 50.400001525878906,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.20242914979756652,
+            "chg": 0.4985044865403789,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -100,53 +118,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:09:26+03:00"
-        },
-        {
-            "symbol": "SMRTG.IS",
-            "price": 28.579999923706055,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.9893992932862106,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:10:11+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69.25,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.8739985433357528,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-11T13:09:53+03:00"
-        },
-        {
-            "symbol": "KONYA.IS",
-            "price": 4730,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.5313496280552604,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-11T13:08:51+03:00"
+            "time": "2025-12-11T13:10:38+03:00"
         },
         {
             "symbol": "MPARK.IS",
