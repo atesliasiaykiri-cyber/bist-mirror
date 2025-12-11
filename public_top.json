@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-11T13:50:32+03:00",
+    "updated": "2025-12-11T13:51:32+03:00",
     "count": 5,
     "data": [
-        {
-            "symbol": "ALARK.IS",
-            "price": 96.5,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.4721345951629925,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:34:30+03:00"
-        },
         {
             "symbol": "BIMAS.IS",
             "price": 542,
@@ -34,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:35:04+03:00"
+            "time": "2025-12-11T13:36:03+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -51,22 +34,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:35:04+03:00"
+            "time": "2025-12-11T13:36:07+03:00"
         },
         {
             "symbol": "KCHOL.IS",
-            "price": 174.10000610351562,
-            "score": 55,
+            "price": 174.1999969482422,
+            "score": 70,
             "label": "Watchlist",
-            "chg": 0.9275362318840547,
+            "chg": 0.985507246376805,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30"
             ],
-            "time": "2025-12-11T13:35:07+03:00"
+            "time": "2025-12-11T13:36:10+03:00"
+        },
+        {
+            "symbol": "YKBNK.IS",
+            "price": 36.400001525878906,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.2235817575083363,
+            "range15": 0.6667090539191484,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:36:15+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -81,7 +81,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:34:33+03:00"
+            "time": "2025-12-11T13:35:35+03:00"
         }
     ]
 }
