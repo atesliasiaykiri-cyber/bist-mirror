@@ -1,30 +1,47 @@
 {
-    "updated": "2025-12-11T16:09:32+03:00",
-    "count": 3,
+    "updated": "2025-12-11T16:10:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "VESTL.IS",
-            "price": 32.68000030517578,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7398273736128298,
-            "range15": 0.8999980926617908,
+            "price": 32.70000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8014796547472414,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:53:39+03:00"
+            "time": "2025-12-11T15:55:05+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.7200000286102295,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 3.62116991643455,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T15:55:17+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 104.19999694824219,
+            "price": 105,
             "score": 65,
             "label": "Watchlist",
-            "chg": -1.232227488151656,
-            "range15": 0.9677400301223772,
+            "chg": -0.47393364928909953,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "rp15",
@@ -33,14 +50,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-11T15:54:15+03:00"
+            "time": "2025-12-11T15:55:26+03:00"
         },
         {
             "symbol": "CANTE.IS",
-            "price": 2.2100000381469727,
+            "price": 2.2300000190734863,
             "score": 60,
             "label": "Watchlist",
-            "chg": 3.7558685446009425,
+            "chg": 4.694835680751178,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -49,7 +66,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:54:04+03:00"
+            "time": "2025-12-11T15:55:03+03:00"
         }
     ]
 }
