@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T14:29:32+03:00",
+    "updated": "2025-12-11T14:30:30+03:00",
     "count": 4,
     "data": [
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.460000038146973,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9374999999999939,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:15:04+03:00"
+        },
         {
             "symbol": "IZMDC.IS",
             "price": 6.960000038146973,
@@ -20,11 +37,11 @@
             "time": "2025-12-11T14:14:08+03:00"
         },
         {
-            "symbol": "NTHOL.IS",
-            "price": 47.959999084472656,
+            "symbol": "TKFEN.IS",
+            "price": 67.9000015258789,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.37672666387609816,
+            "chg": 0.7418397626112759,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,23 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:13:49+03:00"
-        },
-        {
-            "symbol": "GSDHO.IS",
-            "price": 4.789999961853027,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.2684989429175393,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T14:11:01+03:00"
+            "time": "2025-12-11T14:15:12+03:00"
         },
         {
             "symbol": "CWENE.IS",
@@ -65,7 +66,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:14:19+03:00"
+            "time": "2025-12-11T14:15:18+03:00"
         }
     ]
 }
