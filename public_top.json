@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-11T16:31:33+03:00",
+    "updated": "2025-12-11T16:32:32+03:00",
     "count": 4,
     "data": [
-        {
-            "symbol": "ARCLK.IS",
-            "price": 108.69999694824219,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.7790262172284699,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T16:15:08+03:00"
-        },
         {
             "symbol": "FROTO.IS",
             "price": 93.30000305175781,
@@ -33,39 +16,54 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T16:16:03+03:00"
+            "time": "2025-12-11T16:17:05+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 50.54999923706055,
-            "score": 70,
+            "symbol": "ARCLK.IS",
+            "price": 108.5999984741211,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 1.3432237369687139,
+            "chg": 1.6853932584269637,
+            "range15": 0,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T16:16:53+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 331.25,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.9230769230769231,
+            "range15": 0.75,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T16:17:05+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 528,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.832208293153327,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
-                "rp30"
+                "rp15"
             ],
-            "time": "2025-12-11T16:16:09+03:00"
-        },
-        {
-            "symbol": "KUYAS.IS",
-            "price": 53.650001525878906,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.7061611374407555,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T16:16:18+03:00"
+            "time": "2025-12-11T16:17:05+03:00"
         }
     ]
 }
