@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T13:03:33+03:00",
-    "count": 11,
+    "updated": "2025-12-11T13:04:31+03:00",
+    "count": 9,
     "data": [
         {
-            "symbol": "ALBRK.IS",
-            "price": 8.3100004196167,
+            "symbol": "AKBNK.IS",
+            "price": 69.25,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.8495145631067995,
+            "chg": 0.8739985433357528,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,32 +17,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:46:55+03:00"
-        },
-        {
-            "symbol": "ARCLK.IS",
-            "price": 107.9000015258789,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.0299625468164875,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T12:47:58+03:00"
+            "time": "2025-12-11T12:49:01+03:00"
         },
         {
             "symbol": "KCHOL.IS",
-            "price": 174.3000030517578,
+            "price": 174.39999389648438,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.0434782608695718,
-            "range15": 0.8888983079651148,
+            "chg": 1.1014492753623222,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -51,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:48:08+03:00"
+            "time": "2025-12-11T12:49:09+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -88,23 +71,6 @@
             "time": "2025-12-11T12:46:31+03:00"
         },
         {
-            "symbol": "ENKAI.IS",
-            "price": 81.55000305175781,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 0.9282178217821782,
-            "range15": 0.8333460491857034,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-11T12:48:04+03:00"
-        },
-        {
             "symbol": "FENER.IS",
             "price": 9.899999618530273,
             "score": 65,
@@ -118,7 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:48:07+03:00"
+            "time": "2025-12-11T12:48:52+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -134,7 +100,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:48:10+03:00"
+            "time": "2025-12-11T12:49:11+03:00"
         },
         {
             "symbol": "KORDS.IS",
@@ -153,6 +119,22 @@
             "time": "2025-12-11T12:46:59+03:00"
         },
         {
+            "symbol": "TTKOM.IS",
+            "price": 57.099998474121094,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.6167400881057294,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T12:49:10+03:00"
+        },
+        {
             "symbol": "BIMAS.IS",
             "price": 541,
             "score": 60,
@@ -166,23 +148,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T12:48:04+03:00"
-        },
-        {
-            "symbol": "FROTO.IS",
-            "price": 91.75,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.3812154696132597,
-            "range15": 0.6666666666666825,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-11T12:48:05+03:00"
+            "time": "2025-12-11T12:49:04+03:00"
         }
     ]
 }
