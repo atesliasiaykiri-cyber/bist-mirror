@@ -1,13 +1,29 @@
 {
-    "updated": "2025-12-11T14:25:32+03:00",
+    "updated": "2025-12-11T14:26:38+03:00",
     "count": 4,
     "data": [
         {
             "symbol": "VAKBN.IS",
-            "price": 30.360000610351562,
+            "price": 30.34000015258789,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.7968127490039788,
+            "chg": 0.7304116865869816,
+            "range15": 0.9090893327773468,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:11:13+03:00"
+        },
+        {
+            "symbol": "KONYA.IS",
+            "price": 4727.5,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.4782146652497344,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +32,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:10:16+03:00"
+            "time": "2025-12-11T14:09:52+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -48,22 +64,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:08:52+03:00"
-        },
-        {
-            "symbol": "KONYA.IS",
-            "price": 4727.5,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.4782146652497344,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-11T14:09:52+03:00"
+            "time": "2025-12-11T14:11:01+03:00"
         }
     ]
 }
