@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T02:53:32+03:00",
+    "updated": "2025-12-12T02:54:36+03:00",
     "count": 97,
     "data": [
         {
@@ -246,6 +246,20 @@
             "score": 35,
             "label": "Neutral",
             "chg": 4.496516782773914,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "BURCE.IS",
+            "price": 52.95000076293945,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 5.268389662027845,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1272,19 +1286,6 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "BURCE.IS",
-            "price": 52.95000076293945,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 5.268389662027845,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         }
