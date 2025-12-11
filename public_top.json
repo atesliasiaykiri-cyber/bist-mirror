@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-11T14:28:32+03:00",
-    "count": 3,
+    "updated": "2025-12-11T14:29:32+03:00",
+    "count": 4,
     "data": [
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.460000038146973,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.9374999999999939,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T14:12:55+03:00"
-        },
         {
             "symbol": "IZMDC.IS",
             "price": 6.960000038146973,
@@ -34,7 +17,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:13:03+03:00"
+            "time": "2025-12-11T14:14:08+03:00"
+        },
+        {
+            "symbol": "NTHOL.IS",
+            "price": 47.959999084472656,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.37672666387609816,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:13:49+03:00"
         },
         {
             "symbol": "GSDHO.IS",
@@ -51,6 +50,22 @@
                 "rp60"
             ],
             "time": "2025-12-11T14:11:01+03:00"
+        },
+        {
+            "symbol": "CWENE.IS",
+            "price": 28.5,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.6405135520684768,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:14:19+03:00"
         }
     ]
 }
