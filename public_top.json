@@ -1,22 +1,38 @@
 {
-    "updated": "2025-12-11T16:01:33+03:00",
-    "count": 1,
+    "updated": "2025-12-11T16:02:32+03:00",
+    "count": 2,
     "data": [
         {
-            "symbol": "SRVGY.IS",
-            "price": 3.7200000286102295,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 3.342618384401117,
+            "symbol": "EUREN.IS",
+            "price": 6.510000228881836,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.7187499999999911,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-11T15:45:00+03:00"
+            "time": "2025-12-11T15:47:20+03:00"
+        },
+        {
+            "symbol": "FROTO.IS",
+            "price": 93.25,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 3.0386740331491713,
+            "range15": 0.857136629173919,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T15:47:07+03:00"
         }
     ]
 }
