@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T16:59:32+03:00",
-    "count": 5,
+    "updated": "2025-12-11T17:00:32+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:44:03+03:00"
+            "time": "2025-12-11T16:45:01+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -34,14 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:44:06+03:00"
+            "time": "2025-12-11T16:45:07+03:00"
         },
         {
-            "symbol": "GSDDE.IS",
-            "price": 10.430000305175781,
+            "symbol": "TKFEN.IS",
+            "price": 67.94999694824219,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 7.525773195876294,
+            "chg": 0.8160237388723993,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,23 +51,54 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:44:20+03:00"
+            "time": "2025-12-11T16:45:14+03:00"
         },
         {
-            "symbol": "TKFEN.IS",
-            "price": 67.8499984741211,
-            "score": 65,
+            "symbol": "MGROS.IS",
+            "price": 528,
+            "score": 70,
             "label": "Watchlist",
-            "chg": 0.6676557863501315,
-            "range15": 0.8999938964839771,
+            "chg": 1.832208293153327,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T16:45:06+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.769999980926514,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.8456659619450135,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:44:04+03:00"
+            "time": "2025-12-11T16:44:49+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 108.4000015258789,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.4981273408239781,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T16:44:53+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -82,7 +113,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T16:44:12+03:00"
+            "time": "2025-12-11T16:45:06+03:00"
         }
     ]
 }
