@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T13:51:32+03:00",
-    "count": 5,
+    "updated": "2025-12-11T13:52:30+03:00",
+    "count": 9,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:36:03+03:00"
+            "time": "2025-12-11T13:36:50+03:00"
         },
         {
-            "symbol": "FROTO.IS",
-            "price": 92,
+            "symbol": "PRKAB.IS",
+            "price": 33.2400016784668,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.6574585635359116,
+            "chg": 1.5892420537897407,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,14 +34,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:36:07+03:00"
+            "time": "2025-12-11T13:36:37+03:00"
+        },
+        {
+            "symbol": "YKBNK.IS",
+            "price": 36.41999816894531,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.2791991101223605,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:37:11+03:00"
         },
         {
             "symbol": "KCHOL.IS",
-            "price": 174.1999969482422,
+            "price": 174.3000030517578,
             "score": 70,
             "label": "Watchlist",
-            "chg": 0.985507246376805,
+            "chg": 1.0434782608695718,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,23 +67,70 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:36:10+03:00"
+            "time": "2025-12-11T13:37:09+03:00"
         },
         {
-            "symbol": "YKBNK.IS",
-            "price": 36.400001525878906,
+            "symbol": "EUREN.IS",
+            "price": 6.449999809265137,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7812499999999972,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:37:16+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.2100000381469727,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.2235817575083363,
-            "range15": 0.6667090539191484,
+            "chg": 3.7558685446009425,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:37:02+03:00"
+        },
+        {
+            "symbol": "AKBNK.IS",
+            "price": 69.19999694824219,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.8011653313911101,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp30",
-                "rp60"
+                "rp15"
             ],
-            "time": "2025-12-11T13:36:15+03:00"
+            "time": "2025-12-11T13:37:02+03:00"
+        },
+        {
+            "symbol": "ECILC.IS",
+            "price": 87.4000015258789,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.7492795389049057,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T13:36:19+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -81,7 +145,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:35:35+03:00"
+            "time": "2025-12-11T13:37:13+03:00"
         }
     ]
 }
