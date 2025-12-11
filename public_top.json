@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T17:05:40+03:00",
-    "count": 6,
+    "updated": "2025-12-11T17:06:31+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:50:05+03:00"
+            "time": "2025-12-11T16:51:04+03:00"
         },
         {
             "symbol": "FROTO.IS",
-            "price": 93.3499984741211,
+            "price": 93.4000015258789,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.1491712707182256,
+            "chg": 3.204419889502769,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,15 +34,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:50:08+03:00"
+            "time": "2025-12-11T16:51:06+03:00"
         },
         {
             "symbol": "SOKM.IS",
-            "price": 50.650001525878906,
+            "price": 50.599998474121094,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.5437048917401683,
-            "range15": 1,
+            "chg": 1.4434643143544483,
+            "range15": 0.8571350720966311,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -51,47 +51,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:50:13+03:00"
-        },
-        {
-            "symbol": "GSDDE.IS",
-            "price": 10.420000076293945,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 7.422680412371141,
-            "range15": 0.8888865341398006,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T16:50:13+03:00"
-        },
-        {
-            "symbol": "ECILC.IS",
-            "price": 87.55000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.9221902017291034,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T16:49:52+03:00"
+            "time": "2025-12-11T16:51:10+03:00"
         },
         {
             "symbol": "GSDHO.IS",
-            "price": 4.769999980926514,
+            "price": 4.78000020980835,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.8456659619450135,
+            "chg": 1.0570824524312858,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -100,7 +67,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:49:39+03:00"
+            "time": "2025-12-11T16:51:05+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 108.5,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.591760299625471,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T16:50:32+03:00"
         }
     ]
 }
