@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T14:35:29+03:00",
-    "count": 1,
+    "updated": "2025-12-11T14:36:33+03:00",
+    "count": 4,
     "data": [
+        {
+            "symbol": "AKSEN.IS",
+            "price": 62.20000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.3854930725346395,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:21:02+03:00"
+        },
         {
             "symbol": "EUREN.IS",
             "price": 6.460000038146973,
@@ -17,7 +34,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:19:57+03:00"
+            "time": "2025-12-11T14:20:25+03:00"
+        },
+        {
+            "symbol": "IZMDC.IS",
+            "price": 6.960000038146973,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.605839416058399,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:21:19+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.7100000381469727,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 3.342618384401117,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T14:21:23+03:00"
         }
     ]
 }
