@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T18:28:33+03:00",
+    "updated": "2025-12-11T18:29:32+03:00",
     "count": 97,
     "data": [
         {
@@ -295,7 +295,7 @@
             "score": 45,
             "label": "Neutral",
             "chg": 2.7900146842878124,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -320,20 +320,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "BAGFS.IS",
-            "price": 27.34000015258789,
-            "score": 40,
-            "label": "Neutral",
-            "chg": 0.2934702861335227,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "CLEBI.IS",
             "price": 1592,
             "score": 40,
@@ -353,6 +339,20 @@
             "score": 40,
             "label": "Neutral",
             "chg": -0.17391304347826747,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "PGSUS.IS",
+            "price": 202.6999969482422,
+            "score": 40,
+            "label": "Neutral",
+            "chg": -0.049309664694291294,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -390,11 +390,11 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "TSKB.IS",
-            "price": 12.600000381469727,
+            "symbol": "PENTA.IS",
+            "price": 13.829999923706055,
             "score": 40,
             "label": "Neutral",
-            "chg": -1.3312451057165224,
+            "chg": -0.5035971223021604,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -459,11 +459,37 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "BAGFS.IS",
+            "price": 27.34000015258789,
+            "score": 20,
+            "label": "Neutral",
+            "chg": 0.2934702861335227,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "BRISA.IS",
             "price": 81.44999694824219,
             "score": 20,
             "label": "Neutral",
             "chg": 0.3696857670979632,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "GESAN.IS",
+            "price": 43.81999969482422,
+            "score": 20,
+            "label": "Neutral",
+            "chg": 0.5045871559633001,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -478,19 +504,6 @@
             "label": "Neutral",
             "chg": 0.5597014925373014,
             "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "PGSUS.IS",
-            "price": 202.6999969482422,
-            "score": 20,
-            "label": "Neutral",
-            "chg": -0.049309664694291294,
-            "range15": 0.5,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -581,7 +594,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": -1.0434782608695676,
-            "range15": 0.5000190730634579,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -615,12 +628,25 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "PENTA.IS",
-            "price": 13.829999923706055,
+            "symbol": "TLMAN.IS",
+            "price": 101.5999984741211,
             "score": 20,
             "label": "Neutral",
-            "chg": -0.5035971223021604,
-            "range15": 0.3333333333333136,
+            "chg": -3.696682464454982,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "TSKB.IS",
+            "price": 12.600000381469727,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -1.3312451057165224,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -628,11 +654,24 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "TLMAN.IS",
-            "price": 101.5999984741211,
+            "symbol": "TURSG.IS",
+            "price": 11.819999694824219,
             "score": 20,
             "label": "Neutral",
-            "chg": -3.696682464454982,
+            "chg": -1.582014987510404,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "VERUS.IS",
+            "price": 258.5,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -1.9905213270142181,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -839,7 +878,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.4854368932038947,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -894,7 +933,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.05662514156286276,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -938,7 +977,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.5060728744939162,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -950,17 +989,6 @@
             "label": "Neutral",
             "chg": -0.3579098067287044,
             "range15": 0,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "GESAN.IS",
-            "price": 43.81999969482422,
-            "score": 0,
-            "label": "Neutral",
-            "chg": 0.5045871559633001,
-            "range15": 0.49999999998747696,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1004,7 +1032,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.465457083042574,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1048,7 +1076,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.5085529357373991,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1180,7 +1208,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.990099009900991,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1208,28 +1236,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "TURSG.IS",
-            "price": 11.819999694824219,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -1.582014987510404,
-            "range15": 0.24998211857671346,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "VERUS.IS",
-            "price": 258.5,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -1.9905213270142181,
-            "range15": 0.5,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "YYLGD.IS",
             "price": 10.119999885559082,
             "score": 0,
@@ -1246,7 +1252,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0,
-            "range15": 0,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
