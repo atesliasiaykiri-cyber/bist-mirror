@@ -1,33 +1,14 @@
 {
-    "updated": "2025-12-11T17:29:32+03:00",
-    "count": 11,
+    "updated": "2025-12-11T17:30:35+03:00",
+    "count": 13,
     "data": [
         {
             "symbol": "BIMAS.IS",
-            "price": 555.5,
-            "score": 100,
-            "label": "Strong Short Zone",
-            "chg": 4.221388367729831,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-11T17:14:03+03:00"
-        },
-        {
-            "symbol": "FROTO.IS",
-            "price": 93.9000015258789,
+            "price": 555,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.7569060773480727,
-            "range15": 1,
+            "chg": 4.127579737335835,
+            "range15": 0.8571428571428571,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -37,7 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:14:04+03:00"
+            "time": "2025-12-11T17:15:03+03:00"
         },
         {
             "symbol": "BSOKE.IS",
@@ -55,14 +36,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:14:07+03:00"
+            "time": "2025-12-11T17:15:07+03:00"
         },
         {
             "symbol": "IZMDC.IS",
-            "price": 7.130000114440918,
+            "price": 7.150000095367432,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.087591240875916,
+            "chg": 4.379562043795631,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -73,7 +54,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:14:20+03:00"
+            "time": "2025-12-11T17:15:15+03:00"
         },
         {
             "symbol": "KORDS.IS",
@@ -94,6 +75,23 @@
             "time": "2025-12-11T17:13:59+03:00"
         },
         {
+            "symbol": "FROTO.IS",
+            "price": 93.8499984741211,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.7016574585635293,
+            "range15": 0.9230724086525925,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:15:06+03:00"
+        },
+        {
             "symbol": "MGROS.IS",
             "price": 529,
             "score": 80,
@@ -108,7 +106,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:14:10+03:00"
+            "time": "2025-12-11T17:15:05+03:00"
         },
         {
             "symbol": "FMIZP.IS",
@@ -128,11 +126,11 @@
             "time": "2025-12-11T17:11:03+03:00"
         },
         {
-            "symbol": "SNICA.IS",
-            "price": 4.03000020980835,
+            "symbol": "VESTL.IS",
+            "price": 32.65999984741211,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.7500000000000062,
+            "chg": 0.6781750924784182,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -141,23 +139,55 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:14:09+03:00"
+            "time": "2025-12-11T17:15:06+03:00"
         },
         {
-            "symbol": "SOKM.IS",
-            "price": 50.75,
+            "symbol": "KARSN.IS",
+            "price": 9.59000015258789,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.7441860465116226,
-            "range15": 0.7500047683518024,
+            "chg": 2.021276595744675,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:14:14+03:00"
+            "time": "2025-12-11T17:14:25+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.260000228881836,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.9223674096848655,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:15:05+03:00"
+        },
+        {
+            "symbol": "PRKAB.IS",
+            "price": 33.15999984741211,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.3447432762836116,
+            "range15": 0.9444432670699013,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:15:11+03:00"
         },
         {
             "symbol": "CLEBI.IS",
@@ -173,15 +203,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:13:56+03:00"
+            "time": "2025-12-11T17:14:57+03:00"
         },
         {
-            "symbol": "YEOTK.IS",
-            "price": 38.31999969482422,
+            "symbol": "GESAN.IS",
+            "price": 43.900001525878906,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.3388259526261665,
-            "range15": 0.9166653421269755,
+            "chg": 0.6880733944954063,
+            "range15": 0.9166799122626845,
             "vwapPrem": null,
             "reasons": [
                 "rp15",
@@ -189,7 +219,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:14:27+03:00"
+            "time": "2025-12-11T17:14:49+03:00"
         }
     ]
 }
