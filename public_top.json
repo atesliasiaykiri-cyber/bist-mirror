@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T14:51:33+03:00",
-    "count": 6,
+    "updated": "2025-12-11T14:52:33+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "BIMAS.IS",
-            "price": 546.5,
+            "price": 547,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.5328330206378986,
+            "chg": 2.6266416510318953,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:36:01+03:00"
+            "time": "2025-12-11T14:37:04+03:00"
         },
         {
             "symbol": "BRISA.IS",
-            "price": 81.80000305175781,
+            "price": 81.94999694824219,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.8009858287122507,
+            "chg": 0.985828712261241,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,14 +34,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:35:24+03:00"
+            "time": "2025-12-11T14:37:01+03:00"
         },
         {
-            "symbol": "EUREN.IS",
-            "price": 6.460000038146973,
+            "symbol": "FROTO.IS",
+            "price": 92.55000305175781,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.9374999999999939,
+            "chg": 2.2651933701657425,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,7 +51,41 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:36:18+03:00"
+            "time": "2025-12-11T14:37:10+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 330.75,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.7692307692307692,
+            "range15": 0.9166666666666666,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:36:59+03:00"
+        },
+        {
+            "symbol": "AGHOL.IS",
+            "price": 29.65999984741211,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.201113430758531,
+            "range15": 0.8571389645758731,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:37:18+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -66,15 +100,15 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T14:35:45+03:00"
+            "time": "2025-12-11T14:36:39+03:00"
         },
         {
             "symbol": "LIDER.IS",
-            "price": 54.75,
+            "price": 54.70000076293945,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.3513513513513513,
-            "range15": 1,
+            "chg": -1.4414414414414363,
+            "range15": 0.9473692664137238,
             "vwapPrem": null,
             "reasons": [
                 "rp15",
@@ -82,22 +116,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T14:36:14+03:00"
-        },
-        {
-            "symbol": "YYLGD.IS",
-            "price": 10.140000343322754,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.8955223880597,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-11T14:35:21+03:00"
+            "time": "2025-12-11T14:37:19+03:00"
         }
     ]
 }
