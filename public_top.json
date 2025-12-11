@@ -1,30 +1,13 @@
 {
-    "updated": "2025-12-11T14:24:33+03:00",
+    "updated": "2025-12-11T14:25:32+03:00",
     "count": 4,
     "data": [
         {
-            "symbol": "IZMDC.IS",
-            "price": 6.960000038146973,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.605839416058399,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T14:08:33+03:00"
-        },
-        {
             "symbol": "VAKBN.IS",
-            "price": 30.34000015258789,
+            "price": 30.360000610351562,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.7304116865869816,
+            "chg": 0.7968127490039788,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,7 +16,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:09:15+03:00"
+            "time": "2025-12-11T14:10:16+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -66,6 +49,21 @@
                 "rp60"
             ],
             "time": "2025-12-11T14:08:52+03:00"
+        },
+        {
+            "symbol": "KONYA.IS",
+            "price": 4727.5,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.4782146652497344,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T14:09:52+03:00"
         }
     ]
 }
