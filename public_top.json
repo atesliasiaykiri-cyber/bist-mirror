@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T13:53:31+03:00",
-    "count": 7,
+    "updated": "2025-12-11T13:54:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "EUREN.IS",
@@ -17,23 +17,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:38:17+03:00"
+            "time": "2025-12-11T13:38:47+03:00"
         },
         {
-            "symbol": "FENER.IS",
-            "price": 9.899999618530273,
+            "symbol": "NTHOL.IS",
+            "price": 47.86000061035156,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.20242914979756652,
+            "chg": 0.16743407283381812,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rsiOB"
             ],
-            "time": "2025-12-11T13:38:02+03:00"
+            "time": "2025-12-11T13:38:47+03:00"
         },
         {
             "symbol": "CANTE.IS",
@@ -49,38 +49,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:37:56+03:00"
-        },
-        {
-            "symbol": "YKBNK.IS",
-            "price": 36.400001525878906,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.2235817575083363,
-            "range15": 0.6667090539191484,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:38:16+03:00"
-        },
-        {
-            "symbol": "AKBNK.IS",
-            "price": 69.19999694824219,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.8011653313911101,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-11T13:38:01+03:00"
+            "time": "2025-12-11T13:38:56+03:00"
         },
         {
             "symbol": "ECILC.IS",
@@ -96,14 +65,29 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T13:36:19+03:00"
+            "time": "2025-12-11T13:38:56+03:00"
         },
         {
-            "symbol": "SAHOL.IS",
-            "price": 85.30000305175781,
+            "symbol": "MPARK.IS",
+            "price": 350.75,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.05865102639295855,
+            "chg": 3.010279001468429,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T13:39:16+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.03000020980835,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.7500000000000062,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -111,7 +95,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:37:58+03:00"
+            "time": "2025-12-11T13:39:22+03:00"
         }
     ]
 }
