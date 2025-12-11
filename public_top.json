@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T17:14:43+03:00",
+    "updated": "2025-12-11T17:15:32+03:00",
     "count": 3,
     "data": [
         {
             "symbol": "BIMAS.IS",
-            "price": 552,
+            "price": 552.5,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.564727954971857,
+            "chg": 3.6585365853658534,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,39 +18,39 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T16:59:02+03:00"
+            "time": "2025-12-11T17:00:04+03:00"
         },
         {
             "symbol": "ALARK.IS",
-            "price": 96.25,
+            "price": 96.19999694824219,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.2092534174553162,
+            "chg": 1.156677181913784,
+            "range15": 0.909085864890803,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T16:59:41+03:00"
+        },
+        {
+            "symbol": "BASGZ.IS",
+            "price": 41.84000015258789,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.09569377990432118,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-11T16:58:58+03:00"
-        },
-        {
-            "symbol": "IZMDC.IS",
-            "price": 7.039999961853027,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.7737226277372318,
-            "range15": 0.9090889386912355,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T16:59:27+03:00"
+            "time": "2025-12-11T16:58:45+03:00"
         }
     ]
 }
