@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-11T16:55:32+03:00",
-    "count": 2,
+    "updated": "2025-12-11T16:56:32+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "BIMAS.IS",
             "price": 549,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.0018761726078798,
+            "chg": 2.908067542213884,
             "range15": 0.8571428571428571,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T16:40:03+03:00"
+            "time": "2025-12-11T16:40:00+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 331.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T16:40:46+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -32,7 +49,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T16:40:06+03:00"
+            "time": "2025-12-11T16:41:04+03:00"
         }
     ]
 }
