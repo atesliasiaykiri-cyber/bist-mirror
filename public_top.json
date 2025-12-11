@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T18:27:34+03:00",
+    "updated": "2025-12-11T18:28:33+03:00",
     "count": 97,
     "data": [
         {
@@ -74,6 +74,23 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "KRVGD.IS",
+            "price": 2.569999933242798,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.3906249999999917,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "AKSEN.IS",
             "price": 62.25,
             "score": 70,
@@ -106,22 +123,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "KRDMD.IS",
-            "price": 26.219999313354492,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7686395080707121,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rsiOB"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "SASA.IS",
             "price": 2.890000104904175,
             "score": 65,
@@ -143,22 +144,6 @@
             "score": 65,
             "label": "Watchlist",
             "chg": 0.15873015873015534,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "KRVGD.IS",
-            "price": 2.569999933242798,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.3906249999999917,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -215,6 +200,21 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "KRDMD.IS",
+            "price": 26.219999313354492,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.7686395080707121,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "SISE.IS",
             "price": 39.68000030517578,
             "score": 55,
@@ -226,22 +226,6 @@
                 "dayHighClose",
                 "rp15",
                 "rp30"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "TAVHL.IS",
-            "price": 298.5,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.1864406779661016,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -271,6 +255,21 @@
             "reasons": [
                 "dayHighClose",
                 "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 298.5,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 1.1864406779661016,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
                 "rp60"
             ],
             "time": "2025-12-11T18:00:00+03:00"
