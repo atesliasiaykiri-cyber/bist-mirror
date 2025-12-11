@@ -1,7 +1,58 @@
 {
-    "updated": "2025-12-11T15:14:33+03:00",
-    "count": 3,
+    "updated": "2025-12-11T15:15:31+03:00",
+    "count": 6,
     "data": [
+        {
+            "symbol": "EREGL.IS",
+            "price": 24.479999542236328,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.4084507042253513,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:00:05+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.280000686645508,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9992313604919354,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:00:08+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.460000038146973,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.9374999999999939,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T14:59:24+03:00"
+        },
         {
             "symbol": "FENER.IS",
             "price": 9.890000343322754,
@@ -16,15 +67,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:58:50+03:00"
+            "time": "2025-12-11T14:59:51+03:00"
         },
         {
             "symbol": "SOKM.IS",
-            "price": 49.97999954223633,
+            "price": 49.959999084472656,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.20048115477144007,
-            "range15": 1,
+            "chg": 0.16038492381715777,
+            "range15": 0.9285694822912464,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -32,7 +83,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:59:04+03:00"
+            "time": "2025-12-11T15:00:08+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -47,7 +98,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T14:59:15+03:00"
+            "time": "2025-12-11T15:00:08+03:00"
         }
     ]
 }
