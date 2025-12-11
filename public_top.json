@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T01:55:31+03:00",
+    "updated": "2025-12-12T01:56:31+03:00",
     "count": 97,
     "data": [
         {
@@ -344,6 +344,20 @@
             "score": 35,
             "label": "Neutral",
             "chg": 2.7900146842878124,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "SANEL.IS",
+            "price": 39.380001068115234,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 0.8709016393442711,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1272,19 +1286,6 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "SANEL.IS",
-            "price": 39.380001068115234,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 0.8709016393442711,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         }
