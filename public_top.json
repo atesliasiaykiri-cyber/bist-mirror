@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T16:03:31+03:00",
+    "updated": "2025-12-11T16:04:32+03:00",
     "count": 2,
     "data": [
+        {
+            "symbol": "VESTL.IS",
+            "price": 32.70000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8014796547472414,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:49:10+03:00"
+        },
         {
             "symbol": "SRVGY.IS",
             "price": 3.7200000286102295,
@@ -16,23 +33,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T15:47:51+03:00"
-        },
-        {
-            "symbol": "VESTL.IS",
-            "price": 32.68000030517578,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7398273736128298,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T15:48:06+03:00"
+            "time": "2025-12-11T15:49:23+03:00"
         }
     ]
 }
