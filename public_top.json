@@ -1,7 +1,22 @@
 {
-    "updated": "2025-12-11T18:51:32+03:00",
+    "updated": "2025-12-11T18:52:35+03:00",
     "count": 97,
     "data": [
+        {
+            "symbol": "AKSEN.IS",
+            "price": 62.25,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 1.4669926650366725,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp60"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
         {
             "symbol": "ARCLK.IS",
             "price": 108.4000015258789,
@@ -74,20 +89,6 @@
                 "dayHighClose",
                 "strongUpDay",
                 "rp60"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "AKSEN.IS",
-            "price": 62.25,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 1.4669926650366725,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
