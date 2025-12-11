@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T17:16:32+03:00",
-    "count": 5,
+    "updated": "2025-12-11T17:17:35+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "BIMAS.IS",
@@ -18,14 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:01:03+03:00"
+            "time": "2025-12-11T17:02:06+03:00"
         },
         {
-            "symbol": "IZMDC.IS",
-            "price": 7.059999942779541,
+            "symbol": "CANTE.IS",
+            "price": 2.25,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.065693430656934,
+            "chg": 5.633802816901413,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +35,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:01:15+03:00"
+            "time": "2025-12-11T17:02:07+03:00"
+        },
+        {
+            "symbol": "IZMDC.IS",
+            "price": 7.050000190734863,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.919708029197083,
+            "range15": 0.9166686534906412,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T17:02:12+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -51,15 +68,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:01:12+03:00"
+            "time": "2025-12-11T17:02:16+03:00"
         },
         {
             "symbol": "ALARK.IS",
-            "price": 96.19999694824219,
+            "price": 96.25,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.156677181913784,
-            "range15": 0.909085864890803,
+            "chg": 1.2092534174553162,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -67,14 +84,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T17:00:39+03:00"
+            "time": "2025-12-11T17:01:59+03:00"
         },
         {
             "symbol": "BASGZ.IS",
-            "price": 41.86000061035156,
+            "price": 41.91999816894531,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.14354066985646477,
+            "chg": 0.28708133971292954,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -83,7 +100,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T17:00:58+03:00"
+            "time": "2025-12-11T17:01:58+03:00"
         }
     ]
 }
