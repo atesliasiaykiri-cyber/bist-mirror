@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T15:18:33+03:00",
-    "count": 4,
+    "updated": "2025-12-11T15:19:33+03:00",
+    "count": 3,
     "data": [
         {
             "symbol": "EUREN.IS",
@@ -17,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:03:04+03:00"
+            "time": "2025-12-11T15:04:15+03:00"
+        },
+        {
+            "symbol": "ZOREN.IS",
+            "price": 3.2100000381469727,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.2618296529968467,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:04:28+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -33,39 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:03:02+03:00"
-        },
-        {
-            "symbol": "EREGL.IS",
-            "price": 24.459999084472656,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.3256006628003325,
-            "range15": 0.8333280351000619,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T15:03:05+03:00"
-        },
-        {
-            "symbol": "KRDMD.IS",
-            "price": 26.260000228881836,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.9223674096848655,
-            "range15": 0.666666666666647,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T15:03:07+03:00"
+            "time": "2025-12-11T15:03:46+03:00"
         }
     ]
 }
