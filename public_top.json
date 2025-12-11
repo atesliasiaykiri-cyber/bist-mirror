@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T18:16:33+03:00",
+    "updated": "2025-12-11T18:17:32+03:00",
     "count": 97,
     "data": [
         {
@@ -243,6 +243,20 @@
             "time": "2025-12-11T17:58:00+03:00"
         },
         {
+            "symbol": "BAGFS.IS",
+            "price": 27.34000015258789,
+            "score": 40,
+            "label": "Neutral",
+            "chg": 0.5869405722670584,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15"
+            ],
+            "time": "2025-12-11T17:58:00+03:00"
+        },
+        {
             "symbol": "DOAS.IS",
             "price": 190.8000030517578,
             "score": 35,
@@ -354,17 +368,17 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "BAGFS.IS",
-            "price": 27.34000015258789,
+            "symbol": "ASELS.IS",
+            "price": 205,
             "score": 20,
             "label": "Neutral",
-            "chg": 0.5869405722670584,
-            "range15": 0.6666666666611206,
+            "chg": -0.3887269193391697,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose"
+                "rp15"
             ],
-            "time": "2025-12-11T17:58:00+03:00"
+            "time": "2025-12-11T18:00:00+03:00"
         },
         {
             "symbol": "BASGZ.IS",
@@ -372,7 +386,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.717703349282307,
-            "range15": 0.3999999999980389,
+            "range15": 0.5000000000000444,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -385,7 +399,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.5917159763313634,
-            "range15": 0.7499940395255416,
+            "range15": 0.4999999999999556,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -437,7 +451,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": -0.6350757205666782,
-            "range15": 0.16667196490687086,
+            "range15": 0.25000000000310857,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -844,17 +858,6 @@
             "time": "2025-12-11T17:58:00+03:00"
         },
         {
-            "symbol": "ASELS.IS",
-            "price": 205,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -0.3887269193391697,
-            "range15": 0.39999389647999806,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "BIOEN.IS",
             "price": 20.040000915527344,
             "score": 0,
@@ -915,7 +918,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.6806930693069272,
-            "range15": 0.20001220703198896,
+            "range15": 0.33335028737197947,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1025,7 +1028,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.7905138339920921,
-            "range15": 0.5714332425101617,
+            "range15": 0.6666709052330028,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
