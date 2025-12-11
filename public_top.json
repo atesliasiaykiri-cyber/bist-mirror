@@ -1,13 +1,47 @@
 {
-    "updated": "2025-12-11T13:43:33+03:00",
-    "count": 10,
+    "updated": "2025-12-11T13:44:32+03:00",
+    "count": 9,
     "data": [
         {
-            "symbol": "FMIZP.IS",
-            "price": 338,
+            "symbol": "BIMAS.IS",
+            "price": 542,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.046337817638266,
+            "chg": 1.6885553470919326,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:29:04+03:00"
+        },
+        {
+            "symbol": "AGHOL.IS",
+            "price": 29.65999984741211,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.201113430758531,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:29:12+03:00"
+        },
+        {
+            "symbol": "FMIZP.IS",
+            "price": 338.75,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.2705530642750373,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +52,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-11T13:28:15+03:00"
+            "time": "2025-12-11T13:29:20+03:00"
         },
         {
             "symbol": "EGEEN.IS",
@@ -34,7 +68,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:27:52+03:00"
+            "time": "2025-12-11T13:28:14+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -50,54 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:27:45+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 29.639999389648438,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 3.131524008350738,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:28:17+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.449999809265137,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7812499999999972,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:28:05+03:00"
-        },
-        {
-            "symbol": "ARCLK.IS",
-            "price": 107.69999694824219,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.8426966292134885,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
-            ],
-            "time": "2025-12-11T13:27:53+03:00"
+            "time": "2025-12-11T13:28:44+03:00"
         },
         {
             "symbol": "PETKM.IS",
@@ -112,7 +99,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:28:08+03:00"
+            "time": "2025-12-11T13:29:07+03:00"
         },
         {
             "symbol": "OZKGY.IS",
@@ -157,7 +144,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:27:28+03:00"
+            "time": "2025-12-11T13:29:08+03:00"
         }
     ]
 }
