@@ -1,26 +1,7 @@
 {
-    "updated": "2025-12-11T13:23:30+03:00",
-    "count": 8,
+    "updated": "2025-12-11T13:24:32+03:00",
+    "count": 9,
     "data": [
-        {
-            "symbol": "BURCE.IS",
-            "price": 54.900001525878906,
-            "score": 100,
-            "label": "Strong Short Zone",
-            "chg": 9.14512922465209,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-11T12:55:05+03:00"
-        },
         {
             "symbol": "ALBRK.IS",
             "price": 8.3100004196167,
@@ -36,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:08:02+03:00"
+            "time": "2025-12-11T13:08:47+03:00"
         },
         {
             "symbol": "AGHOL.IS",
@@ -53,24 +34,25 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:08:04+03:00"
+            "time": "2025-12-11T13:09:03+03:00"
         },
         {
-            "symbol": "OZKGY.IS",
-            "price": 14.829999923706055,
+            "symbol": "BURCE.IS",
+            "price": 54.900001525878906,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.4363885088919348,
-            "range15": 1,
+            "chg": 9.14512922465209,
+            "range15": null,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-12-11T13:07:39+03:00"
+            "time": "2025-12-11T12:55:05+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -87,7 +69,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:08:22+03:00"
+            "time": "2025-12-11T13:09:23+03:00"
+        },
+        {
+            "symbol": "SMRTG.IS",
+            "price": 28.579999923706055,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 0.9893992932862106,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T13:09:09+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -103,14 +102,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:08:04+03:00"
+            "time": "2025-12-11T13:08:26+03:00"
+        },
+        {
+            "symbol": "TCELL.IS",
+            "price": 101.19999694824219,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:09:03+03:00"
         },
         {
             "symbol": "KONYA.IS",
             "price": 4730,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.4782146652497344,
+            "chg": 0.5313496280552604,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -118,7 +133,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:03:00+03:00"
+            "time": "2025-12-11T13:08:51+03:00"
         },
         {
             "symbol": "MPARK.IS",
@@ -133,7 +148,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T13:08:14+03:00"
+            "time": "2025-12-11T13:08:57+03:00"
         }
     ]
 }
