@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-11T14:30:30+03:00",
-    "count": 4,
+    "updated": "2025-12-11T14:31:31+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.460000038146973,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.9374999999999939,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T14:15:04+03:00"
-        },
         {
             "symbol": "IZMDC.IS",
             "price": 6.960000038146973,
@@ -34,23 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:14:08+03:00"
-        },
-        {
-            "symbol": "TKFEN.IS",
-            "price": 67.9000015258789,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7418397626112759,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T14:15:12+03:00"
+            "time": "2025-12-11T14:15:47+03:00"
         },
         {
             "symbol": "CWENE.IS",
@@ -66,7 +33,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T14:15:18+03:00"
+            "time": "2025-12-11T14:16:12+03:00"
+        },
+        {
+            "symbol": "SRVGY.IS",
+            "price": 3.7100000381469727,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 3.342618384401117,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T14:16:15+03:00"
         }
     ]
 }
