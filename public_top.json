@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T13:16:32+03:00",
-    "count": 9,
+    "updated": "2025-12-11T13:17:31+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "BURCE.IS",
@@ -39,11 +39,11 @@
             "time": "2025-12-11T13:00:24+03:00"
         },
         {
-            "symbol": "AGHOL.IS",
-            "price": 29.600000381469727,
+            "symbol": "DOAS.IS",
+            "price": 191.8000030517578,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.9923451635351532,
+            "chg": 2.1299254526091587,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,7 +53,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:01:18+03:00"
+            "time": "2025-12-11T13:02:04+03:00"
         },
         {
             "symbol": "GSDDE.IS",
@@ -70,7 +70,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:01:18+03:00"
+            "time": "2025-12-11T13:02:07+03:00"
         },
         {
             "symbol": "IZMDC.IS",
@@ -87,23 +87,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:01:19+03:00"
-        },
-        {
-            "symbol": "FENER.IS",
-            "price": 9.899999618530273,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.20242914979756652,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T13:01:01+03:00"
+            "time": "2025-12-11T13:02:21+03:00"
         },
         {
             "symbol": "FROTO.IS",
@@ -119,7 +103,7 @@
                 "rp15",
                 "rp60"
             ],
-            "time": "2025-12-11T13:01:05+03:00"
+            "time": "2025-12-11T13:01:59+03:00"
         },
         {
             "symbol": "FMIZP.IS",
@@ -139,12 +123,12 @@
             "time": "2025-12-11T12:52:59+03:00"
         },
         {
-            "symbol": "DOAS.IS",
-            "price": 191.3000030517578,
+            "symbol": "BIMAS.IS",
+            "price": 541.5,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.8636847710330136,
-            "range15": 0.8333460491940329,
+            "chg": 1.594746716697936,
+            "range15": 0.6666666666666666,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -152,7 +136,38 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:00:58+03:00"
+            "time": "2025-12-11T13:02:01+03:00"
+        },
+        {
+            "symbol": "AGHOL.IS",
+            "price": 29.579999923706055,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.9227557411273484,
+            "range15": 0.7999961853145648,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:02:11+03:00"
+        },
+        {
+            "symbol": "KONYA.IS",
+            "price": 4730,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.5313496280552604,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T13:01:53+03:00"
         }
     ]
 }
