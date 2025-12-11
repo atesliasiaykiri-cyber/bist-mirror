@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-11T15:33:32+03:00",
-    "count": 7,
+    "updated": "2025-12-11T15:34:33+03:00",
+    "count": 9,
     "data": [
         {
             "symbol": "GSDDE.IS",
-            "price": 10.300000190734863,
+            "price": 10.289999961853027,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 6.185567010309293,
-            "range15": 1,
+            "chg": 6.0824742268041225,
+            "range15": 0.8888865341398028,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -17,7 +17,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:18:18+03:00"
+            "time": "2025-12-11T15:19:10+03:00"
         },
         {
             "symbol": "IZMDC.IS",
@@ -34,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:18:21+03:00"
+            "time": "2025-12-11T15:18:58+03:00"
         },
         {
             "symbol": "YYLGD.IS",
@@ -51,7 +51,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:18:13+03:00"
+            "time": "2025-12-11T15:19:18+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 108.4000015258789,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.4981273408239781,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T15:18:53+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -67,22 +83,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T15:17:00+03:00"
+            "time": "2025-12-11T15:19:04+03:00"
         },
         {
-            "symbol": "ARCLK.IS",
-            "price": 108.4000015258789,
-            "score": 55,
+            "symbol": "KRDMD.IS",
+            "price": 26.260000228881836,
+            "score": 65,
             "label": "Watchlist",
-            "chg": 1.4981273408239781,
+            "chg": 0.9223674096848655,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp60"
             ],
-            "time": "2025-12-11T15:17:24+03:00"
+            "time": "2025-12-11T15:19:06+03:00"
+        },
+        {
+            "symbol": "DOAS.IS",
+            "price": 191.1999969482422,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.8104366347177727,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T15:19:03+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -97,7 +130,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-11T15:18:04+03:00"
+            "time": "2025-12-11T15:18:54+03:00"
         },
         {
             "symbol": "NTHOL.IS",
@@ -112,7 +145,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T15:18:02+03:00"
+            "time": "2025-12-11T15:19:05+03:00"
         }
     ]
 }
