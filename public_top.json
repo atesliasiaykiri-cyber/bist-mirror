@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-11T18:25:33+03:00",
+    "updated": "2025-12-11T18:26:34+03:00",
     "count": 97,
     "data": [
         {
@@ -74,6 +74,23 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
+            "symbol": "KRVGD.IS",
+            "price": 2.569999933242798,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": 0.3906249999999917,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
             "symbol": "AKSEN.IS",
             "price": 62.25,
             "score": 70,
@@ -102,23 +119,6 @@
                 "strongUpDay",
                 "rp15",
                 "rp30"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "TAVHL.IS",
-            "price": 298.5,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.1864406779661016,
-            "range15": 0,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60",
-                "rsiOB"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -171,16 +171,16 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "KRVGD.IS",
-            "price": 2.569999933242798,
-            "score": 65,
+            "symbol": "TAVHL.IS",
+            "price": 298.5,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.3906249999999917,
-            "range15": 1,
+            "chg": 1.1864406779661016,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp15",
+                "strongUpDay",
                 "rp30",
                 "rp60"
             ],
@@ -192,6 +192,21 @@
             "score": 55,
             "label": "Watchlist",
             "chg": 3.9399624765478425,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "GUBRF.IS",
+            "price": 331.75,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 2.076923076923077,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -369,20 +384,6 @@
             "label": "Neutral",
             "chg": 1.5974440894568689,
             "range15": 0,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "GUBRF.IS",
-            "price": 331.75,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 2.076923076923077,
-            "range15": 0.6666666666666666,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -684,7 +685,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 0.855745721271397,
-            "range15": 0.20000000000198948,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -762,7 +763,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 4.087591240875916,
-            "range15": 0.5000000000000111,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -1199,7 +1200,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.582014987510404,
-            "range15": 0.14284741143717758,
+            "range15": 0.16665607018347026,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1210,7 +1211,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.9905213270142181,
-            "range15": 0.25,
+            "range15": 0.3333333333333333,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
