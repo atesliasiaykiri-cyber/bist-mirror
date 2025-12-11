@@ -1,7 +1,25 @@
 {
-    "updated": "2025-12-11T18:22:33+03:00",
+    "updated": "2025-12-11T18:23:33+03:00",
     "count": 97,
     "data": [
+        {
+            "symbol": "BERA.IS",
+            "price": 17.010000228881836,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.009501187648466,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
         {
             "symbol": "OZKGY.IS",
             "price": 14.729999542236328,
@@ -38,23 +56,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "BERA.IS",
-            "price": 17.010000228881836,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.009501187648466,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "AGHOL.IS",
             "price": 29.600000381469727,
             "score": 80,
@@ -68,6 +69,22 @@
                 "rp15",
                 "rp30",
                 "rp60"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "AKSEN.IS",
+            "price": 62.25,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.4669926650366725,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -173,28 +190,13 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 1.1864406779661016,
-            "range15": 0.6666666666666666,
+            "range15": 0.5,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp30",
                 "rp60"
-            ],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
-            "symbol": "AKSEN.IS",
-            "price": 62.25,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 1.4669926650366725,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -351,7 +353,7 @@
             "score": 35,
             "label": "Neutral",
             "chg": 1.5974440894568689,
-            "range15": 0.2000122070400039,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -379,7 +381,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.509832483612519,
-            "range15": 0.25000953652545876,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -535,7 +537,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": -2.1248339973439596,
-            "range15": 0.3999885559476664,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -587,7 +589,7 @@
             "score": 20,
             "label": "Neutral",
             "chg": -1.3312451057165224,
-            "range15": 0.6666878596331088,
+            "range15": 0.5000238424661947,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -600,7 +602,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 3.7558685446009425,
-            "range15": 0.3333333333344534,
+            "range15": 0.5000000000025091,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -652,7 +654,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 0.855745721271397,
-            "range15": 0.6153880012325096,
+            "range15": 0.6666613685120567,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -691,7 +693,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 4.496516782773914,
-            "range15": 0.5999923706351054,
+            "range15": 0.6666596024193688,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -730,7 +732,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 0.8221225710014948,
-            "range15": 0.16666666666666666,
+            "range15": 0.25,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -743,7 +745,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 4.087591240875916,
-            "range15": 0.6000019073411295,
+            "range15": 0.5000000000000111,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -773,6 +775,19 @@
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
+            ],
+            "time": "2025-12-11T18:00:00+03:00"
+        },
+        {
+            "symbol": "OTKAR.IS",
+            "price": 492.5,
+            "score": 10,
+            "label": "Neutral",
+            "chg": -2.955665024630542,
+            "range15": 0.76,
+            "vwapPrem": null,
+            "reasons": [
+                "rsiOB"
             ],
             "time": "2025-12-11T18:00:00+03:00"
         },
@@ -964,17 +979,6 @@
             "time": "2025-12-11T18:00:00+03:00"
         },
         {
-            "symbol": "OTKAR.IS",
-            "price": 492.5,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -2.955665024630542,
-            "range15": 0.76,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-11T18:00:00+03:00"
-        },
-        {
             "symbol": "SAHOL.IS",
             "price": 84.5,
             "score": 0,
@@ -1046,7 +1050,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.5561735261401637,
-            "range15": 0.14283378746344583,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1090,7 +1094,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.6376195536663124,
-            "range15": 0.14285714285714285,
+            "range15": 0.2,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
@@ -1211,7 +1215,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.8537590113285425,
-            "range15": 0.20000000000399315,
+            "range15": 0.25000000000310857,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-11T18:00:00+03:00"
