@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-11T13:59:33+03:00",
-    "count": 5,
+    "updated": "2025-12-11T14:00:33+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "AKSEN.IS",
@@ -17,7 +17,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:43:46+03:00"
+            "time": "2025-12-11T13:45:01+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 351.75,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.303964757709251,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:45:17+03:00"
         },
         {
             "symbol": "SRVGY.IS",
@@ -34,23 +51,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:44:20+03:00"
+            "time": "2025-12-11T13:45:17+03:00"
         },
         {
-            "symbol": "MPARK.IS",
-            "price": 351,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 3.0837004405286343,
+            "symbol": "YYLGD.IS",
+            "price": 10.140000343322754,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8955223880597,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-11T13:43:18+03:00"
+            "time": "2025-12-11T13:45:02+03:00"
         },
         {
             "symbol": "OZKGY.IS",
@@ -82,7 +100,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:44:05+03:00"
+            "time": "2025-12-11T13:45:03+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.03000020980835,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.7500000000000062,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T13:44:56+03:00"
         }
     ]
 }
