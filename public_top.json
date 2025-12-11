@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-11T13:40:29+03:00",
-    "count": 5,
+    "updated": "2025-12-11T13:41:33+03:00",
+    "count": 8,
     "data": [
+        {
+            "symbol": "ALARK.IS",
+            "price": 96.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.4721345951629925,
+            "range15": 0.857136629173919,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-11T13:26:02+03:00"
+        },
         {
             "symbol": "BIMAS.IS",
             "price": 542,
@@ -17,7 +34,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:25:01+03:00"
+            "time": "2025-12-11T13:26:02+03:00"
         },
         {
             "symbol": "FENER.IS",
@@ -33,7 +50,37 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-11T13:25:06+03:00"
+            "time": "2025-12-11T13:26:04+03:00"
+        },
+        {
+            "symbol": "ARCLK.IS",
+            "price": 107.69999694824219,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.8426966292134885,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-11T13:25:44+03:00"
+        },
+        {
+            "symbol": "PETKM.IS",
+            "price": 17.309999465942383,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.6395348837209269,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-11T13:26:06+03:00"
         },
         {
             "symbol": "FMIZP.IS",
@@ -49,7 +96,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-11T13:25:12+03:00"
+            "time": "2025-12-11T13:26:16+03:00"
         },
         {
             "symbol": "OZKGY.IS",
@@ -67,11 +114,11 @@
             "time": "2025-12-11T13:20:23+03:00"
         },
         {
-            "symbol": "YYLGD.IS",
-            "price": 10.130000114440918,
+            "symbol": "SNICA.IS",
+            "price": 4.03000020980835,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.796019900497513,
+            "chg": 0.7500000000000062,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -79,7 +126,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-11T13:24:49+03:00"
+            "time": "2025-12-11T13:26:01+03:00"
         }
     ]
 }
