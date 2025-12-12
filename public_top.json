@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T12:19:32+03:00",
-    "count": 7,
+    "updated": "2025-12-12T12:20:32+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "CLEBI.IS",
-            "price": 1607,
+            "price": 1610,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 0.9422110552763818,
+            "chg": 1.1306532663316584,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,32 +18,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T12:03:57+03:00"
-        },
-        {
-            "symbol": "SUNTK.IS",
-            "price": 41.060001373291016,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.958876629889668,
-            "range15": 0.8500052452382679,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T12:04:02+03:00"
+            "time": "2025-12-12T12:05:02+03:00"
         },
         {
             "symbol": "MGROS.IS",
-            "price": 536.5,
+            "price": 537,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.7061611374407581,
+            "chg": 1.8009478672985781,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,14 +35,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:04:11+03:00"
+            "time": "2025-12-12T12:05:08+03:00"
         },
         {
             "symbol": "GLYHO.IS",
-            "price": 12.729999542236328,
+            "price": 12.75,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 0.8716323296355087,
+            "chg": 1.030110935023778,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -70,24 +52,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:04:05+03:00"
-        },
-        {
-            "symbol": "BSOKE.IS",
-            "price": 16.389999389648438,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": -0.6666666666666632,
-            "range15": 0.9230746658434219,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T12:04:18+03:00"
+            "time": "2025-12-12T12:05:18+03:00"
         },
         {
             "symbol": "BERA.IS",
@@ -103,7 +68,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:03:59+03:00"
+            "time": "2025-12-12T12:04:09+03:00"
         },
         {
             "symbol": "CANTE.IS",
@@ -119,7 +84,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:04:03+03:00"
+            "time": "2025-12-12T12:05:02+03:00"
+        },
+        {
+            "symbol": "SNICA.IS",
+            "price": 4.039999961853027,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.4975124378109568,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:05:18+03:00"
         }
     ]
 }
