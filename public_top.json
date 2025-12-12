@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-12T13:58:32+03:00",
-    "count": 2,
+    "updated": "2025-12-12T13:59:32+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "KUYAS.IS",
@@ -17,23 +17,56 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:43:21+03:00"
+            "time": "2025-12-12T13:44:13+03:00"
         },
         {
-            "symbol": "SKBNK.IS",
-            "price": 7.880000114440918,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.337662337662334,
+            "symbol": "TTKOM.IS",
+            "price": 57.599998474121094,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.4977973568281964,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:42:46+03:00"
+            "time": "2025-12-12T13:44:24+03:00"
+        },
+        {
+            "symbol": "GSDDE.IS",
+            "price": 10.399999618530273,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.3645224171540018,
+            "range15": 0.769225690492637,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T13:44:18+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 302.25,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.256281407035176,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T13:44:14+03:00"
         }
     ]
 }
