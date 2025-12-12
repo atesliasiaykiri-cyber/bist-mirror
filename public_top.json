@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T17:41:34+03:00",
+    "updated": "2025-12-12T17:42:34+03:00",
     "count": 5,
     "data": [
         {
             "symbol": "TUPRS.IS",
-            "price": 198.60000610351562,
+            "price": 198.8000030517578,
             "score": 75,
             "label": "Strong Short Zone",
-            "chg": 0.6079027355623042,
+            "chg": 0.7092198581560312,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +17,23 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:26:18+03:00"
+            "time": "2025-12-12T17:27:17+03:00"
+        },
+        {
+            "symbol": "TOASO.IS",
+            "price": 239,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.049530315969262,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T17:26:57+03:00"
         },
         {
             "symbol": "ULKER.IS",
@@ -33,7 +49,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T17:26:16+03:00"
+            "time": "2025-12-12T17:27:05+03:00"
         },
         {
             "symbol": "EUREN.IS",
@@ -49,23 +65,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:26:21+03:00"
-        },
-        {
-            "symbol": "TCELL.IS",
-            "price": 104.30000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.781094527363181,
-            "range15": 0.800003051760001,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:26:15+03:00"
+            "time": "2025-12-12T17:27:11+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -81,7 +81,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:26:16+03:00"
+            "time": "2025-12-12T17:27:11+03:00"
         }
     ]
 }
