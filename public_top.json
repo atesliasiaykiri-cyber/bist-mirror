@@ -1,13 +1,49 @@
 {
-    "updated": "2025-12-12T17:57:34+03:00",
-    "count": 3,
+    "updated": "2025-12-12T17:58:32+03:00",
+    "count": 5,
     "data": [
         {
+            "symbol": "KORDS.IS",
+            "price": 51.29999923706055,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.9880715705765408,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T17:43:21+03:00"
+        },
+        {
+            "symbol": "GLYHO.IS",
+            "price": 12.75,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.030110935023778,
+            "range15": 0.8999980926572825,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-12T17:43:18+03:00"
+        },
+        {
             "symbol": "CEMTS.IS",
-            "price": 11.960000038146973,
+            "price": 11.979999542236328,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.928270042194103,
+            "chg": 1.0970464135021163,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,14 +52,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:41:00+03:00"
+            "time": "2025-12-12T17:43:02+03:00"
         },
         {
             "symbol": "BIOEN.IS",
-            "price": 19.959999084472656,
+            "price": 19.969999313354492,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.19999999999999576,
+            "chg": -0.15000000000000568,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -31,7 +67,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T17:42:03+03:00"
+            "time": "2025-12-12T17:42:46+03:00"
         },
         {
             "symbol": "GARAN.IS",
@@ -46,7 +82,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T17:41:56+03:00"
+            "time": "2025-12-12T17:43:05+03:00"
         }
     ]
 }
