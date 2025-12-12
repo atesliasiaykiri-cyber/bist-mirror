@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T14:48:32+03:00",
+    "updated": "2025-12-12T14:49:32+03:00",
     "count": 5,
     "data": [
         {
@@ -22,10 +22,10 @@
         },
         {
             "symbol": "CANTE.IS",
-            "price": 2.259999990463257,
+            "price": 2.2799999713897705,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.262443438914019,
+            "chg": 3.1674208144796308,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,14 +35,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:33:03+03:00"
+            "time": "2025-12-12T14:34:04+03:00"
         },
         {
             "symbol": "BIOEN.IS",
             "price": 19.979999542236328,
+            "score": 75,
+            "label": "Strong Short Zone",
+            "chg": -0.09999999999999788,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T14:32:49+03:00"
+        },
+        {
+            "symbol": "EUREN.IS",
+            "price": 6.510000228881836,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.09999999999999788,
+            "chg": 0.15384615384615058,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,7 +68,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:32:49+03:00"
+            "time": "2025-12-12T14:34:14+03:00"
         },
         {
             "symbol": "ISMEN.IS",
@@ -67,23 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:33:03+03:00"
-        },
-        {
-            "symbol": "ALFAS.IS",
-            "price": 44.84000015258789,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.561756633119864,
-            "range15": 0.8461515889561092,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:33:17+03:00"
+            "time": "2025-12-12T14:34:07+03:00"
         }
     ]
 }
