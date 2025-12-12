@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-12T15:37:33+03:00",
-    "count": 6,
+    "updated": "2025-12-12T15:38:31+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "TCELL.IS",
@@ -17,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:22:10+03:00"
+            "time": "2025-12-12T15:22:47+03:00"
         },
         {
-            "symbol": "TURSG.IS",
-            "price": 11.989999771118164,
+            "symbol": "MPARK.IS",
+            "price": 356,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.4382402707275799,
+            "chg": 1.7142857142857144,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -34,14 +34,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:22:25+03:00"
+            "time": "2025-12-12T15:23:21+03:00"
         },
         {
-            "symbol": "TKFEN.IS",
-            "price": 69.69999694824219,
+            "symbol": "BRISA.IS",
+            "price": 82.44999694824219,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.2277470841006752,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T15:22:20+03:00"
+        },
+        {
+            "symbol": "EGEEN.IS",
+            "price": 7435,
             "score": 60,
             "label": "Watchlist",
-            "chg": 3.1781226903177995,
+            "chg": 0.9504412763068567,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,7 +66,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:21:00+03:00"
+            "time": "2025-12-12T15:22:38+03:00"
+        },
+        {
+            "symbol": "TKFEN.IS",
+            "price": 69.75,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.1042128603104127,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T15:23:01+03:00"
         },
         {
             "symbol": "TOASO.IS",
@@ -66,23 +98,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:22:15+03:00"
-        },
-        {
-            "symbol": "MPARK.IS",
-            "price": 355.5,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.5714285714285716,
-            "range15": 0.8571428571428571,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T15:22:06+03:00"
+            "time": "2025-12-12T15:23:04+03:00"
         },
         {
             "symbol": "KORDS.IS",
@@ -98,7 +114,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T15:21:06+03:00"
+            "time": "2025-12-12T15:22:43+03:00"
         }
     ]
 }
