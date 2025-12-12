@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T15:33:33+03:00",
+    "updated": "2025-12-12T15:34:33+03:00",
     "count": 3,
     "data": [
         {
@@ -17,39 +17,41 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:17:45+03:00"
+            "time": "2025-12-12T15:18:00+03:00"
         },
         {
-            "symbol": "ALARK.IS",
-            "price": 97.75,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 2.142110762800415,
+            "symbol": "TURSG.IS",
+            "price": 11.979999542236328,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.3536379018612532,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-12T15:17:51+03:00"
+            "time": "2025-12-12T15:19:27+03:00"
         },
         {
-            "symbol": "TAVHL.IS",
-            "price": 302,
+            "symbol": "EGEEN.IS",
+            "price": 7432.5,
             "score": 70,
             "label": "Watchlist",
-            "chg": 1.1725293132328307,
+            "chg": 0.9164969450101833,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-12T15:18:13+03:00"
+            "time": "2025-12-12T15:18:49+03:00"
         }
     ]
 }
