@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-12T15:15:30+03:00",
-    "count": 3,
+    "updated": "2025-12-12T15:16:32+03:00",
+    "count": 5,
     "data": [
+        {
+            "symbol": "TCELL.IS",
+            "price": 101.9000015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.3930348258706524,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T15:00:59+03:00"
+        },
         {
             "symbol": "MGROS.IS",
             "price": 535,
@@ -16,7 +33,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:59:53+03:00"
+            "time": "2025-12-12T15:01:07+03:00"
         },
         {
             "symbol": "TOASO.IS",
@@ -32,7 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:00:14+03:00"
+            "time": "2025-12-12T15:01:14+03:00"
+        },
+        {
+            "symbol": "ULKER.IS",
+            "price": 115.80000305175781,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.7574692442882252,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T15:01:14+03:00"
         },
         {
             "symbol": "TURSG.IS",
@@ -48,7 +81,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:00:25+03:00"
+            "time": "2025-12-12T15:01:18+03:00"
         }
     ]
 }
