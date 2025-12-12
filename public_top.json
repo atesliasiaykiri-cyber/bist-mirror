@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-12T12:43:32+03:00",
-    "count": 8,
+    "updated": "2025-12-12T12:44:31+03:00",
+    "count": 9,
     "data": [
         {
             "symbol": "CANTE.IS",
@@ -17,13 +17,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:28:04+03:00"
+            "time": "2025-12-12T12:29:05+03:00"
+        },
+        {
+            "symbol": "GSDHO.IS",
+            "price": 4.860000133514404,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.3157894736842173,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:29:03+03:00"
         },
         {
             "symbol": "OTKAR.IS",
             "price": 499.25,
-            "score": 70,
-            "label": "Watchlist",
+            "score": 80,
+            "label": "Strong Short Zone",
             "chg": 1.3705583756345179,
             "range15": 1,
             "vwapPrem": null,
@@ -31,48 +48,34 @@
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-12T12:28:06+03:00"
+            "time": "2025-12-12T12:29:08+03:00"
         },
         {
-            "symbol": "KORDS.IS",
-            "price": 50.75,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 0.894632206759449,
+            "symbol": "KUYAS.IS",
+            "price": 54.04999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.7566539923954294,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-12T12:27:39+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.510000228881836,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.15384615384615058,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:27:56+03:00"
+            "time": "2025-12-12T12:29:13+03:00"
         },
         {
             "symbol": "BIOEN.IS",
-            "price": 19.940000534057617,
+            "price": 19.950000762939453,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.2999999999999936,
+            "chg": -0.25000000000000355,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -80,7 +83,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T12:27:57+03:00"
+            "time": "2025-12-12T12:29:04+03:00"
         },
         {
             "symbol": "BRISA.IS",
@@ -110,7 +113,22 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T12:27:56+03:00"
+            "time": "2025-12-12T12:28:00+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 537,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.8009478672985781,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T12:29:03+03:00"
         },
         {
             "symbol": "ODAS.IS",
@@ -125,7 +143,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T12:28:03+03:00"
+            "time": "2025-12-12T12:28:58+03:00"
         }
     ]
 }
