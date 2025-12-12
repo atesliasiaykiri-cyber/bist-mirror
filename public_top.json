@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-12T15:43:55+03:00",
+    "updated": "2025-12-12T15:44:33+03:00",
     "count": 4,
     "data": [
-        {
-            "symbol": "MPARK.IS",
-            "price": 357,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2,
-            "range15": 0.9230769230769231,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T15:28:32+03:00"
-        },
         {
             "symbol": "BRISA.IS",
             "price": 82.44999694824219,
@@ -36,6 +19,22 @@
             "time": "2025-12-12T15:28:14+03:00"
         },
         {
+            "symbol": "EGEEN.IS",
+            "price": 7430,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.8825526137135099,
+            "range15": 0.9166666666666666,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T15:29:06+03:00"
+        },
+        {
             "symbol": "KUYAS.IS",
             "price": 53.75,
             "score": 60,
@@ -49,14 +48,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:28:36+03:00"
+            "time": "2025-12-12T15:29:22+03:00"
         },
         {
             "symbol": "KORDS.IS",
-            "price": 50.25,
+            "price": 50.29999923706055,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.0994035785288214,
+            "chg": 0,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -65,7 +64,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T15:28:09+03:00"
+            "time": "2025-12-12T15:29:12+03:00"
         }
     ]
 }
