@@ -1,60 +1,7 @@
 {
-    "updated": "2025-12-12T17:56:33+03:00",
-    "count": 6,
+    "updated": "2025-12-12T17:57:34+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "KORDS.IS",
-            "price": 51.20000076293945,
-            "score": 100,
-            "label": "Strong Short Zone",
-            "chg": 1.789264413518898,
-            "range15": 0.9375008940699914,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-12T17:41:18+03:00"
-        },
-        {
-            "symbol": "GLYHO.IS",
-            "price": 12.760000228881836,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.1093502377179125,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-12T17:41:19+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 29.739999771118164,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.47297297297296287,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:41:15+03:00"
-        },
         {
             "symbol": "CEMTS.IS",
             "price": 11.960000038146973,
@@ -69,39 +16,37 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:41:04+03:00"
+            "time": "2025-12-12T17:41:00+03:00"
         },
         {
-            "symbol": "OTKAR.IS",
-            "price": 497.75,
-            "score": 60,
+            "symbol": "BIOEN.IS",
+            "price": 19.959999084472656,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 1.065989847715736,
+            "chg": -0.19999999999999576,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
+                "dayHighClose",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-12T17:40:12+03:00"
+            "time": "2025-12-12T17:42:03+03:00"
         },
         {
-            "symbol": "THYAO.IS",
-            "price": 272,
-            "score": 60,
+            "symbol": "GARAN.IS",
+            "price": 140,
+            "score": 55,
             "label": "Watchlist",
-            "chg": 0.927643784786642,
+            "chg": 0.5747126436781691,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "strongUpDay",
+                "dayHighClose",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-12T17:41:15+03:00"
+            "time": "2025-12-12T17:41:56+03:00"
         }
     ]
 }
