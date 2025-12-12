@@ -1,40 +1,56 @@
 {
-    "updated": "2025-12-12T17:18:32+03:00",
-    "count": 2,
+    "updated": "2025-12-12T17:19:32+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "KUYAS.IS",
-            "price": 56.04999923706055,
-            "score": 80,
+            "symbol": "HATEK.IS",
+            "price": 17.5,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 6.558935361216722,
-            "range15": 0.9285707798145181,
+            "chg": 4.353011329755518,
+            "range15": 0.9193559303255773,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-12T17:03:23+03:00"
+            "time": "2025-12-12T17:04:20+03:00"
         },
         {
-            "symbol": "HATEK.IS",
-            "price": 17.459999084472656,
-            "score": 70,
+            "symbol": "THYAO.IS",
+            "price": 271.75,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 4.114490161001797,
-            "range15": 0.8548382134879317,
+            "chg": 0.8348794063079777,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-12T17:03:16+03:00"
+            "time": "2025-12-12T17:04:14+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 55.900001525878906,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 6.273764258555127,
+            "range15": 0.8536588542880422,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:04:22+03:00"
         }
     ]
 }
