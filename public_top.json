@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-12T14:55:32+03:00",
-    "count": 4,
+    "updated": "2025-12-12T14:56:32+03:00",
+    "count": 3,
     "data": [
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.319999933242798,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.977375565610854,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:41:03+03:00"
+        },
         {
             "symbol": "SEKUR.IS",
             "price": 4,
@@ -19,38 +36,6 @@
             "time": "2025-12-12T14:39:34+03:00"
         },
         {
-            "symbol": "CANTE.IS",
-            "price": 2.309999942779541,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 4.524886877828059,
-            "range15": 0.8749999999995323,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:40:03+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 11.970000267028809,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.0126582278481095,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:39:59+03:00"
-        },
-        {
             "symbol": "MGROS.IS",
             "price": 535,
             "score": 60,
@@ -64,7 +49,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:40:08+03:00"
+            "time": "2025-12-12T14:41:08+03:00"
         }
     ]
 }
