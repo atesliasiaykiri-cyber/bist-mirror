@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T15:00:31+03:00",
-    "count": 5,
+    "updated": "2025-12-12T15:01:31+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "SKBNK.IS",
-            "price": 7.940000057220459,
-            "score": 80,
+            "price": 7.989999771118164,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 3.1168831168831197,
+            "chg": 3.766233766233767,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -15,17 +15,18 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-12T14:45:07+03:00"
+            "time": "2025-12-12T14:46:03+03:00"
         },
         {
             "symbol": "GLYHO.IS",
-            "price": 12.850000381469727,
+            "price": 12.90999984741211,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.822503961965138,
-            "range15": 0.8750089407116627,
+            "chg": 2.29793977812996,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -34,14 +35,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:45:11+03:00"
+            "time": "2025-12-12T14:46:16+03:00"
         },
         {
             "symbol": "SEKUR.IS",
-            "price": 4.019999980926514,
+            "price": 4.03000020980835,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.49999999999998934,
+            "chg": 0.7500000000000062,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -50,7 +51,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:45:22+03:00"
+            "time": "2025-12-12T14:45:52+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 535,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.4218009478672986,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:46:06+03:00"
         },
         {
             "symbol": "TAVHL.IS",
@@ -66,7 +83,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:45:03+03:00"
+            "time": "2025-12-12T14:46:11+03:00"
         },
         {
             "symbol": "ULKER.IS",
