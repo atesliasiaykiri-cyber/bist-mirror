@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T18:45:32+03:00",
+    "updated": "2025-12-12T18:46:33+03:00",
     "count": 97,
     "data": [
         {
@@ -301,6 +301,23 @@
             "time": "2025-12-12T18:00:00+03:00"
         },
         {
+            "symbol": "SISE.IS",
+            "price": 40.060001373291016,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.9576612903225871,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
             "symbol": "THYAO.IS",
             "price": 272.25,
             "score": 60,
@@ -340,22 +357,6 @@
             "score": 50,
             "label": "Neutral",
             "chg": 1.952662721893498,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp30",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
-            "symbol": "SISE.IS",
-            "price": 40.060001373291016,
-            "score": 50,
-            "label": "Neutral",
-            "chg": 0.9576612903225871,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
