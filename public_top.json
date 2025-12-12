@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T16:19:33+03:00",
-    "count": 10,
+    "updated": "2025-12-12T16:20:33+03:00",
+    "count": 11,
     "data": [
         {
             "symbol": "TCELL.IS",
-            "price": 102.69999694824219,
+            "price": 102.80000305175781,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 2.189054726368162,
+            "chg": 2.2885572139303454,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-12T16:04:16+03:00"
+            "time": "2025-12-12T16:05:15+03:00"
         },
         {
             "symbol": "BRISA.IS",
@@ -40,10 +40,10 @@
         },
         {
             "symbol": "TTKOM.IS",
-            "price": 57.650001525878906,
+            "price": 57.70000076293945,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 1.5859030837004378,
+            "chg": 1.6740088105726925,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -53,7 +53,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:04:23+03:00"
+            "time": "2025-12-12T16:05:26+03:00"
         },
         {
             "symbol": "BIMAS.IS",
@@ -69,40 +69,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:04:03+03:00"
-        },
-        {
-            "symbol": "TAVHL.IS",
-            "price": 304.25,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 1.9262981574539362,
-            "range15": 0.6,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-12T16:04:14+03:00"
-        },
-        {
-            "symbol": "EUREN.IS",
-            "price": 6.519999980926514,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.30769230769230116,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T16:04:04+03:00"
+            "time": "2025-12-12T16:05:04+03:00"
         },
         {
             "symbol": "OZKGY.IS",
@@ -122,52 +89,98 @@
             "time": "2025-12-12T16:03:28+03:00"
         },
         {
-            "symbol": "CLEBI.IS",
-            "price": 1608,
+            "symbol": "OTKAR.IS",
+            "price": 497.25,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.0050251256281406,
-            "range15": 0.6666666666666666,
+            "chg": 0.9644670050761422,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T16:05:09+03:00"
+        },
+        {
+            "symbol": "SAHOL.IS",
+            "price": 86.25,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.0710059171597637,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T16:05:11+03:00"
+        },
+        {
+            "symbol": "SISE.IS",
+            "price": 40.099998474121094,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.0584677419354882,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T16:05:14+03:00"
+        },
+        {
+            "symbol": "DOHOL.IS",
+            "price": 17.969999313354492,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.8130311614730894,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp30",
-                "rp60"
+                "rp15"
             ],
-            "time": "2025-12-12T16:03:21+03:00"
+            "time": "2025-12-12T16:05:06+03:00"
         },
         {
-            "symbol": "MGROS.IS",
-            "price": 535,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.4218009478672986,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T16:03:45+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 53.400001525878906,
+            "symbol": "TAVHL.IS",
+            "price": 304.25,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.1111111111111138,
-            "range15": 1,
+            "chg": 1.9262981574539362,
+            "range15": 0.6,
             "vwapPrem": null,
             "reasons": [
-                "rp15",
-                "rp30",
+                "dayHighClose",
+                "strongUpDay",
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T16:03:52+03:00"
+            "time": "2025-12-12T16:05:15+03:00"
+        },
+        {
+            "symbol": "MPARK.IS",
+            "price": 357,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 2,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T16:05:16+03:00"
         }
     ]
 }
