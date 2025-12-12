@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T14:20:32+03:00",
-    "count": 8,
+    "updated": "2025-12-12T14:21:32+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "GESAN.IS",
-            "price": 44.459999084472656,
-            "score": 100,
+            "symbol": "ALARK.IS",
+            "price": 97.8499984741211,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.460520310360567,
+            "chg": 2.246603970741893,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,10 +16,27 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB",
-                "rsiExtreme"
+                "rsiOB"
             ],
-            "time": "2025-12-12T14:05:08+03:00"
+            "time": "2025-12-12T14:05:58+03:00"
+        },
+        {
+            "symbol": "GESAN.IS",
+            "price": 44.36000061035156,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 1.2323140118667257,
+            "range15": 0.8717966274112354,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T14:06:08+03:00"
         },
         {
             "symbol": "SANEL.IS",
@@ -40,73 +57,6 @@
             "time": "2025-12-12T13:55:15+03:00"
         },
         {
-            "symbol": "ALARK.IS",
-            "price": 97.80000305175781,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.194357366771154,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:04:53+03:00"
-        },
-        {
-            "symbol": "CANTE.IS",
-            "price": 2.259999990463257,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.262443438914019,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:05:02+03:00"
-        },
-        {
-            "symbol": "TKFEN.IS",
-            "price": 70.0999984741211,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.621581670362141,
-            "range15": 0.916667726307549,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:05:16+03:00"
-        },
-        {
-            "symbol": "ALFAS.IS",
-            "price": 44.47999954223633,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.7383348581884677,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-12T14:05:15+03:00"
-        },
-        {
             "symbol": "ISMEN.IS",
             "price": 41.15999984741211,
             "score": 60,
@@ -120,7 +70,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:05:10+03:00"
+            "time": "2025-12-12T14:06:04+03:00"
         },
         {
             "symbol": "TURSG.IS",
@@ -136,7 +86,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:05:13+03:00"
+            "time": "2025-12-12T14:06:18+03:00"
         }
     ]
 }
