@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-12T17:32:34+03:00",
-    "count": 6,
+    "updated": "2025-12-12T17:33:34+03:00",
+    "count": 7,
     "data": [
         {
-            "symbol": "KUYAS.IS",
-            "price": 56.95000076293945,
+            "symbol": "ALARK.IS",
+            "price": 97.94999694824219,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 8.269961977186314,
-            "range15": 0.9230780516855712,
+            "chg": 2.351097178683385,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,14 +18,32 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:17:22+03:00"
+            "time": "2025-12-12T17:17:56+03:00"
         },
         {
-            "symbol": "ALARK.IS",
-            "price": 97.9000015258789,
+            "symbol": "KUYAS.IS",
+            "price": 56.900001525878906,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 8.174904942965775,
+            "range15": 0.8846170775291274,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T17:18:23+03:00"
+        },
+        {
+            "symbol": "TCELL.IS",
+            "price": 104.30000305175781,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.298850574712646,
+            "chg": 3.781094527363181,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,23 +53,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:16:54+03:00"
-        },
-        {
-            "symbol": "THYAO.IS",
-            "price": 271.75,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.8348794063079777,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:17:07+03:00"
+            "time": "2025-12-12T17:18:15+03:00"
         },
         {
             "symbol": "CLEBI.IS",
@@ -66,14 +68,14 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-12T17:16:00+03:00"
+            "time": "2025-12-12T17:17:49+03:00"
         },
         {
             "symbol": "TOASO.IS",
-            "price": 238.8000030517578,
+            "price": 238.89999389648438,
             "score": 55,
             "label": "Watchlist",
-            "chg": 1.9641332194705479,
+            "chg": 2.006831767719905,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -81,15 +83,30 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-12T17:17:05+03:00"
+            "time": "2025-12-12T17:18:15+03:00"
+        },
+        {
+            "symbol": "ULKER.IS",
+            "price": 115.9000015258789,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.8453427065026438,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T17:18:12+03:00"
         },
         {
             "symbol": "LIDER.IS",
             "price": 53.79999923706055,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.3703703703703756,
-            "range15": 0.9473690550769401,
+            "chg": -0.4629629629629629,
+            "range15": 0.9444451508722909,
             "vwapPrem": null,
             "reasons": [
                 "rp15",
@@ -97,7 +114,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:17:19+03:00"
+            "time": "2025-12-12T17:17:00+03:00"
         }
     ]
 }
