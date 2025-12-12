@@ -1,31 +1,13 @@
 {
-    "updated": "2025-12-12T14:50:30+03:00",
-    "count": 4,
+    "updated": "2025-12-12T14:51:33+03:00",
+    "count": 3,
     "data": [
         {
-            "symbol": "BRISA.IS",
-            "price": 82.5999984741211,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 1.411909146715766,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T14:31:37+03:00"
-        },
-        {
             "symbol": "CANTE.IS",
-            "price": 2.2899999618530273,
+            "price": 2.309999942779541,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.6199095022624466,
+            "chg": 4.524886877828059,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,31 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:35:03+03:00"
+            "time": "2025-12-12T14:36:05+03:00"
         },
         {
-            "symbol": "BIOEN.IS",
-            "price": 19.979999542236328,
-            "score": 75,
-            "label": "Strong Short Zone",
-            "chg": -0.09999999999999788,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T14:32:49+03:00"
-        },
-        {
-            "symbol": "BIMAS.IS",
-            "price": 555,
+            "symbol": "SEKUR.IS",
+            "price": 3.990000009536743,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.09025270758122744,
+            "chg": -0.24999999999999467,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -68,7 +33,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:34:00+03:00"
+            "time": "2025-12-12T14:36:16+03:00"
+        },
+        {
+            "symbol": "SKBNK.IS",
+            "price": 7.920000076293945,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.857142857142854,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:36:13+03:00"
         }
     ]
 }
