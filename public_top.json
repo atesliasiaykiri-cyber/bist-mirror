@@ -1,41 +1,7 @@
 {
-    "updated": "2025-12-12T12:27:32+03:00",
-    "count": 5,
+    "updated": "2025-12-12T12:28:31+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "CLEBI.IS",
-            "price": 1610,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.1306532663316584,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T12:12:06+03:00"
-        },
-        {
-            "symbol": "GLYHO.IS",
-            "price": 12.729999542236328,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 0.8716323296355087,
-            "range15": 0.8666632758135954,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T12:12:13+03:00"
-        },
         {
             "symbol": "IZMDC.IS",
             "price": 7.210000038146973,
@@ -50,23 +16,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T12:11:59+03:00"
-        },
-        {
-            "symbol": "CANTE.IS",
-            "price": 2.2200000286102295,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.45248868778281587,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T12:11:55+03:00"
+            "time": "2025-12-12T12:12:00+03:00"
         },
         {
             "symbol": "SUNTK.IS",
@@ -74,7 +24,7 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 2.958876629889668,
-            "range15": 0.6250149011736006,
+            "range15": 0.8333333333305701,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -82,7 +32,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:10:02+03:00"
+            "time": "2025-12-12T12:12:56+03:00"
+        },
+        {
+            "symbol": "ASELS.IS",
+            "price": 206.39999389648438,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 0.6832601268911692,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T12:12:00+03:00"
         }
     ]
 }
