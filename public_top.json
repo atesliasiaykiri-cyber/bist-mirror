@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-12T12:24:33+03:00",
+    "updated": "2025-12-12T12:25:32+03:00",
     "count": 5,
     "data": [
+        {
+            "symbol": "GLYHO.IS",
+            "price": 12.729999542236328,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 0.8716323296355087,
+            "range15": 0.8823503012468569,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:10:11+03:00"
+        },
         {
             "symbol": "CANTE.IS",
             "price": 2.2200000286102295,
@@ -16,23 +33,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:09:04+03:00"
-        },
-        {
-            "symbol": "ALARK.IS",
-            "price": 97.5999984741211,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.9853709508881834,
-            "range15": 0.7999877929679542,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T12:08:57+03:00"
+            "time": "2025-12-12T12:10:02+03:00"
         },
         {
             "symbol": "CLEBI.IS",
@@ -52,11 +53,11 @@
         },
         {
             "symbol": "SUNTK.IS",
-            "price": 41.08000183105469,
+            "price": 41.060001373291016,
             "score": 60,
             "label": "Watchlist",
-            "chg": 3.0090270812437203,
-            "range15": 0.7500178814108076,
+            "chg": 2.958876629889668,
+            "range15": 0.6250149011736006,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -64,7 +65,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:09:24+03:00"
+            "time": "2025-12-12T12:10:02+03:00"
         },
         {
             "symbol": "ASELS.IS",
@@ -79,7 +80,7 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T12:09:05+03:00"
+            "time": "2025-12-12T12:10:02+03:00"
         }
     ]
 }
