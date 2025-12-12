@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T13:04:32+03:00",
-    "count": 5,
+    "updated": "2025-12-12T13:05:31+03:00",
+    "count": 9,
     "data": [
         {
-            "symbol": "TAVHL.IS",
-            "price": 302,
+            "symbol": "DOHOL.IS",
+            "price": 17.889999389648438,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 1.1725293132328307,
+            "chg": 1.3597733711048272,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +18,41 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T12:49:06+03:00"
+            "time": "2025-12-12T12:49:58+03:00"
+        },
+        {
+            "symbol": "ALARK.IS",
+            "price": 97.6500015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.037617554858937,
+            "range15": 0.8750095368892805,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:49:56+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1609,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.0678391959798994,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:49:46+03:00"
         },
         {
             "symbol": "GUBRF.IS",
@@ -35,14 +69,48 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:49:02+03:00"
+            "time": "2025-12-12T12:49:44+03:00"
         },
         {
-            "symbol": "DOHOL.IS",
-            "price": 17.809999465942383,
+            "symbol": "GSDHO.IS",
+            "price": 4.880000114440918,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.7368421052631557,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:50:03+03:00"
+        },
+        {
+            "symbol": "TTKOM.IS",
+            "price": 57.54999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.409691629955942,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:50:23+03:00"
+        },
+        {
+            "symbol": "TCELL.IS",
+            "price": 101.80000305175781,
             "score": 70,
             "label": "Watchlist",
-            "chg": 0.9065155807365447,
+            "chg": 1.293532338308455,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -51,39 +119,39 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T12:47:52+03:00"
+            "time": "2025-12-12T12:50:10+03:00"
         },
         {
-            "symbol": "OZKGY.IS",
-            "price": 14.640000343322754,
+            "symbol": "KUYAS.IS",
+            "price": 54,
             "score": 65,
             "label": "Watchlist",
-            "chg": -0.6109979633401212,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB",
-                "rsiExtreme"
-            ],
-            "time": "2025-12-12T12:45:42+03:00"
-        },
-        {
-            "symbol": "NTHOL.IS",
-            "price": 47.7400016784668,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.33627574611181943,
+            "chg": 2.661596958174902,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp60"
             ],
-            "time": "2025-12-12T12:49:10+03:00"
+            "time": "2025-12-12T12:50:18+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 301.75,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.0887772194304857,
+            "range15": 0.6666666666666666,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T12:50:12+03:00"
         }
     ]
 }
