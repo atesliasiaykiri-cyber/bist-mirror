@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T18:44:34+03:00",
+    "updated": "2025-12-12T18:45:32+03:00",
     "count": 97,
     "data": [
         {
@@ -208,6 +208,23 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "rp30",
+                "rp60",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.2799999713897705,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 3.1674208144796308,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
                 "rp30",
                 "rp60",
                 "rsiOB",
@@ -588,26 +605,26 @@
             "time": "2025-12-12T18:00:00+03:00"
         },
         {
-            "symbol": "CANTE.IS",
-            "price": 2.2799999713897705,
-            "score": 40,
-            "label": "Neutral",
-            "chg": 3.1674208144796308,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
             "symbol": "ASELS.IS",
             "price": 204,
             "score": 35,
             "label": "Neutral",
             "chg": -0.4392386530014669,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30",
+                "rsiOB",
+                "rsiExtreme"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
+            "symbol": "CEMTS.IS",
+            "price": 11.90999984741211,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 0.5063291139240548,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -841,19 +858,6 @@
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
-            ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
-            "symbol": "CEMTS.IS",
-            "price": 11.90999984741211,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 0.5063291139240548,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "rp30"
             ],
             "time": "2025-12-12T18:00:00+03:00"
         },
