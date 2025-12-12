@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T15:08:33+03:00",
-    "count": 4,
+    "updated": "2025-12-12T15:09:33+03:00",
+    "count": 6,
     "data": [
         {
             "symbol": "SKBNK.IS",
-            "price": 8.069999694824219,
-            "score": 90,
+            "price": 8.140000343322754,
+            "score": 100,
             "label": "Strong Short Zone",
-            "chg": 4.805194805194807,
+            "chg": 5.714285714285719,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,9 +16,10 @@
                 "rp15",
                 "rp30",
                 "rp60",
-                "rsiOB"
+                "rsiOB",
+                "rsiExtreme"
             ],
-            "time": "2025-12-12T14:53:14+03:00"
+            "time": "2025-12-12T14:54:13+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -35,7 +36,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:52:57+03:00"
+            "time": "2025-12-12T14:54:07+03:00"
+        },
+        {
+            "symbol": "BIMAS.IS",
+            "price": 555,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.18050541516245489,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:53:53+03:00"
         },
         {
             "symbol": "BIOEN.IS",
@@ -51,7 +68,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:51:27+03:00"
+            "time": "2025-12-12T14:53:47+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 535,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.4218009478672986,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:53:00+03:00"
         },
         {
             "symbol": "TTKOM.IS",
@@ -66,7 +99,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-12T14:53:27+03:00"
+            "time": "2025-12-12T14:54:25+03:00"
         }
     ]
 }
