@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T15:05:34+03:00",
-    "count": 3,
+    "updated": "2025-12-12T15:06:33+03:00",
+    "count": 2,
     "data": [
         {
             "symbol": "SKBNK.IS",
-            "price": 8.010000228881836,
+            "price": 8.020000457763672,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.025974025974021,
+            "chg": 4.155844155844148,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,40 +18,23 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T14:50:05+03:00"
+            "time": "2025-12-12T14:51:13+03:00"
         },
         {
             "symbol": "SEKUR.IS",
-            "price": 4.039999961853027,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.0000000000000009,
-            "range15": 1,
+            "price": 4.03000020980835,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": 0.7500000000000062,
+            "range15": 0.8571462631254932,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:50:12+03:00"
-        },
-        {
-            "symbol": "TURSG.IS",
-            "price": 11.960000038146973,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.1844331641286003,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T14:50:22+03:00"
+            "time": "2025-12-12T14:51:24+03:00"
         }
     ]
 }
