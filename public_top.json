@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T18:16:34+03:00",
+    "updated": "2025-12-12T18:17:33+03:00",
     "count": 97,
     "data": [
         {
@@ -192,7 +192,7 @@
             "score": 60,
             "label": "Watchlist",
             "chg": 1.6219239373601941,
-            "range15": 0.8333598245246733,
+            "range15": 0.7500357636773974,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -386,7 +386,7 @@
             "score": 35,
             "label": "Neutral",
             "chg": 1.7563739376770668,
-            "range15": 0.24999999998119327,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -465,20 +465,6 @@
             "time": "2025-12-12T17:58:00+03:00"
         },
         {
-            "symbol": "VAKBN.IS",
-            "price": 29.299999237060547,
-            "score": 35,
-            "label": "Neutral",
-            "chg": -0.7462686567164141,
-            "range15": 0.8888865341453664,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-12T17:58:00+03:00"
-        },
-        {
             "symbol": "TSKB.IS",
             "price": 12.960000038146973,
             "score": 35,
@@ -521,12 +507,26 @@
             "time": "2025-12-12T17:58:00+03:00"
         },
         {
+            "symbol": "VAKBN.IS",
+            "price": 29.299999237060547,
+            "score": 25,
+            "label": "Neutral",
+            "chg": -0.7462686567164141,
+            "range15": 0.8333280351014781,
+            "vwapPrem": null,
+            "reasons": [
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:58:00+03:00"
+        },
+        {
             "symbol": "BIOEN.IS",
             "price": 19.959999084472656,
             "score": 20,
             "label": "Neutral",
             "chg": -0.2999999999999936,
-            "range15": 0.4999761575588082,
+            "range15": 0.666645473059907,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
@@ -656,7 +656,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.2631578947368338,
-            "range15": 0.49998807905614573,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -760,7 +760,7 @@
             "score": 15,
             "label": "Neutral",
             "chg": 1.4638609332113461,
-            "range15": 0.40001525901885554,
+            "range15": 0.25001192121744265,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay"
@@ -979,7 +979,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": 0.6598984771573604,
-            "range15": 0.2,
+            "range15": 0.3333333333333333,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-12T17:58:00+03:00"
@@ -1122,7 +1122,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -0.31695721077653843,
-            "range15": 0.09090278560016189,
+            "range15": 0.12499105928835673,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-12T17:58:00+03:00"
@@ -1144,7 +1144,7 @@
             "score": 0,
             "label": "Neutral",
             "chg": -1.6830294530154295,
-            "range15": 0.3333280350961786,
+            "range15": 0,
             "vwapPrem": null,
             "reasons": [],
             "time": "2025-12-12T17:58:00+03:00"
