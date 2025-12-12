@@ -1,13 +1,47 @@
 {
-    "updated": "2025-12-12T17:20:33+03:00",
-    "count": 2,
+    "updated": "2025-12-12T17:21:33+03:00",
+    "count": 5,
     "data": [
         {
+            "symbol": "TKFEN.IS",
+            "price": 70.80000305175781,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 4.6563192904656185,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:06:14+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 27,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 2.9748283752860454,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T17:06:11+03:00"
+        },
+        {
             "symbol": "EREGL.IS",
-            "price": 24.6200008392334,
+            "price": 24.639999389648438,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.9844134536505413,
+            "chg": 1.0664479081214175,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -16,7 +50,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:05:07+03:00"
+            "time": "2025-12-12T17:06:05+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -32,7 +66,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:05:12+03:00"
+            "time": "2025-12-12T17:06:16+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 55.95000076293945,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 6.368821292775668,
+            "range15": 0.8684211583017155,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:06:22+03:00"
         }
     ]
 }
