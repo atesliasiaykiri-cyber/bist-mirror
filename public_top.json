@@ -1,41 +1,7 @@
 {
-    "updated": "2025-12-12T15:28:32+03:00",
-    "count": 5,
+    "updated": "2025-12-12T15:29:33+03:00",
+    "count": 3,
     "data": [
-        {
-            "symbol": "GUBRF.IS",
-            "price": 339.75,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 2.4114544084400906,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T15:13:05+03:00"
-        },
-        {
-            "symbol": "TCELL.IS",
-            "price": 102,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.4925373134328357,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T15:13:12+03:00"
-        },
         {
             "symbol": "TURSG.IS",
             "price": 11.979999542236328,
@@ -51,14 +17,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:12:54+03:00"
+            "time": "2025-12-12T15:13:52+03:00"
         },
         {
-            "symbol": "TTKOM.IS",
-            "price": 57.5,
+            "symbol": "ALARK.IS",
+            "price": 97.75,
             "score": 70,
             "label": "Watchlist",
-            "chg": 1.3215859030837005,
+            "chg": 2.142110762800415,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -67,12 +33,12 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T15:13:16+03:00"
+            "time": "2025-12-12T15:14:02+03:00"
         },
         {
             "symbol": "SEKUR.IS",
             "price": 4.039999961853027,
-            "score": 60,
+            "score": 55,
             "label": "Watchlist",
             "chg": 1.0000000000000009,
             "range15": 0.4999880790586327,
@@ -80,10 +46,10 @@
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
-                "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-12T15:13:07+03:00"
+            "time": "2025-12-12T15:13:58+03:00"
         }
     ]
 }
