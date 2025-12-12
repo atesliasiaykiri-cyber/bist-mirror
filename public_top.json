@@ -1,24 +1,7 @@
 {
-    "updated": "2025-12-12T18:07:34+03:00",
-    "count": 6,
+    "updated": "2025-12-12T18:08:34+03:00",
+    "count": 8,
     "data": [
-        {
-            "symbol": "BRISA.IS",
-            "price": 82.8499984741211,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 1.6574585635359047,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:50:00+03:00"
-        },
         {
             "symbol": "TCELL.IS",
             "price": 104.4000015258789,
@@ -34,11 +17,28 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:51:00+03:00"
+            "time": "2025-12-12T17:52:00+03:00"
+        },
+        {
+            "symbol": "TOASO.IS",
+            "price": 239.10000610351562,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.134927412467976,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:52:00+03:00"
         },
         {
             "symbol": "TSKB.IS",
-            "price": 12.970000267028809,
+            "price": 12.979999542236328,
             "score": 80,
             "label": "Strong Short Zone",
             "chg": 2.9365079365079443,
@@ -51,6 +51,38 @@
                 "rp30",
                 "rp60"
             ],
+            "time": "2025-12-12T17:52:00+03:00"
+        },
+        {
+            "symbol": "YKBNK.IS",
+            "price": 36.380001068115234,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.7897091722595095,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T17:52:00+03:00"
+        },
+        {
+            "symbol": "BRISA.IS",
+            "price": 82.80000305175781,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.6574585635359047,
+            "range15": 0.8000183105480119,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp30",
+                "rp60"
+            ],
             "time": "2025-12-12T17:51:00+03:00"
         },
         {
@@ -58,7 +90,7 @@
             "price": 4.820000171661377,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.473684210526322,
+            "chg": 1.2631578947368338,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -70,11 +102,11 @@
             "time": "2025-12-12T17:51:00+03:00"
         },
         {
-            "symbol": "OBASE.IS",
-            "price": 33.5,
+            "symbol": "MAVI.IS",
+            "price": 39.099998474121094,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.8428657435279987,
+            "chg": 1.6112266112266231,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -83,7 +115,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:50:00+03:00"
+            "time": "2025-12-12T17:52:00+03:00"
         },
         {
             "symbol": "DOHOL.IS",
@@ -98,7 +130,7 @@
                 "strongUpDay",
                 "rp15"
             ],
-            "time": "2025-12-12T17:50:00+03:00"
+            "time": "2025-12-12T17:51:00+03:00"
         }
     ]
 }
