@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T15:09:33+03:00",
-    "count": 6,
+    "updated": "2025-12-12T15:10:32+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "SKBNK.IS",
-            "price": 8.140000343322754,
+            "price": 8.180000305175781,
             "score": 100,
             "label": "Strong Short Zone",
-            "chg": 5.714285714285719,
+            "chg": 6.233766233766228,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -19,7 +19,7 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-12T14:54:13+03:00"
+            "time": "2025-12-12T14:55:14+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -36,23 +36,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:54:07+03:00"
+            "time": "2025-12-12T14:54:58+03:00"
         },
         {
-            "symbol": "BIMAS.IS",
-            "price": 555,
-            "score": 65,
+            "symbol": "TTKOM.IS",
+            "price": 57.5,
+            "score": 70,
             "label": "Watchlist",
-            "chg": 0.18050541516245489,
+            "chg": 1.3215859030837005,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
+                "strongUpDay",
                 "rp15",
-                "rp30",
-                "rp60"
+                "rp30"
             ],
-            "time": "2025-12-12T14:53:53+03:00"
+            "time": "2025-12-12T14:55:10+03:00"
         },
         {
             "symbol": "BIOEN.IS",
@@ -84,22 +84,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:53:00+03:00"
+            "time": "2025-12-12T14:54:21+03:00"
         },
         {
-            "symbol": "TTKOM.IS",
-            "price": 57.45000076293945,
-            "score": 55,
+            "symbol": "ULKER.IS",
+            "price": 115.80000305175781,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 1.233480176211459,
+            "chg": 1.7574692442882252,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
-                "rp15"
+                "rp15",
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-12T14:54:25+03:00"
+            "time": "2025-12-12T14:54:58+03:00"
+        },
+        {
+            "symbol": "TURSG.IS",
+            "price": 11.960000038146973,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.1844331641286003,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:55:13+03:00"
         }
     ]
 }
