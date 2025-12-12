@@ -1,29 +1,30 @@
 {
-    "updated": "2025-12-12T17:43:35+03:00",
-    "count": 6,
+    "updated": "2025-12-12T17:44:33+03:00",
+    "count": 4,
     "data": [
         {
             "symbol": "ULKER.IS",
-            "price": 115.9000015258789,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 1.8453427065026438,
+            "price": 116,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.9332161687170502,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
                 "strongUpDay",
                 "rp15",
-                "rp30"
+                "rp30",
+                "rp60"
             ],
-            "time": "2025-12-12T17:28:10+03:00"
+            "time": "2025-12-12T17:29:12+03:00"
         },
         {
-            "symbol": "EUREN.IS",
-            "price": 6.53000020980835,
+            "symbol": "TUPRS.IS",
+            "price": 198.8000030517578,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0.4615384615384654,
+            "chg": 0.7092198581560312,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -32,39 +33,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:28:21+03:00"
-        },
-        {
-            "symbol": "TCELL.IS",
-            "price": 104.30000305175781,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 3.781094527363181,
-            "range15": 0.6666751436915477,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:28:16+03:00"
-        },
-        {
-            "symbol": "THYAO.IS",
-            "price": 271.75,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 0.8348794063079777,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:28:13+03:00"
+            "time": "2025-12-12T17:29:16+03:00"
         },
         {
             "symbol": "BORSK.IS",
@@ -80,23 +49,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:28:17+03:00"
+            "time": "2025-12-12T17:28:51+03:00"
         },
         {
-            "symbol": "TUPRS.IS",
-            "price": 198.60000610351562,
-            "score": 55,
+            "symbol": "MAVI.IS",
+            "price": 39.08000183105469,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.6079027355623042,
-            "range15": 0.8333354526165014,
+            "chg": 1.5592515592515632,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
+                "strongUpDay",
+                "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-12T17:28:17+03:00"
+            "time": "2025-12-12T17:29:22+03:00"
         }
     ]
 }
