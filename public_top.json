@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-12T15:42:32+03:00",
+    "updated": "2025-12-12T15:43:55+03:00",
     "count": 4,
     "data": [
+        {
+            "symbol": "MPARK.IS",
+            "price": 357,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2,
+            "range15": 0.9230769230769231,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T15:28:32+03:00"
+        },
         {
             "symbol": "BRISA.IS",
             "price": 82.44999694824219,
@@ -16,15 +33,15 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T15:25:08+03:00"
+            "time": "2025-12-12T15:28:14+03:00"
         },
         {
             "symbol": "KUYAS.IS",
-            "price": 53.79999923706055,
+            "price": 53.75,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.2813688212927676,
-            "range15": 1,
+            "chg": 2.1863117870722406,
+            "range15": 0.8888907726859384,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -32,30 +49,14 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T15:27:21+03:00"
-        },
-        {
-            "symbol": "OBASE.IS",
-            "price": 33.58000183105469,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.083684527393135,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T15:25:51+03:00"
+            "time": "2025-12-12T15:28:36+03:00"
         },
         {
             "symbol": "KORDS.IS",
-            "price": 50.20000076293945,
+            "price": 50.25,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.1988071570576428,
+            "chg": -0.0994035785288214,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -64,7 +65,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T15:26:27+03:00"
+            "time": "2025-12-12T15:28:09+03:00"
         }
     ]
 }
