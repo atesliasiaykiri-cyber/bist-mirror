@@ -1,74 +1,58 @@
 {
-    "updated": "2025-12-12T17:23:32+03:00",
+    "updated": "2025-12-12T17:24:34+03:00",
     "count": 5,
     "data": [
         {
-            "symbol": "TKFEN.IS",
-            "price": 71,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 4.951958610495187,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:08:13+03:00"
-        },
-        {
             "symbol": "HATEK.IS",
-            "price": 17.510000228881836,
-            "score": 80,
+            "price": 17.610000610351562,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 4.412641621943959,
-            "range15": 0.9354853595353912,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:08:18+03:00"
-        },
-        {
-            "symbol": "KUYAS.IS",
-            "price": 56.04999923706055,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 6.558935361216722,
-            "range15": 0.9210518918879917,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:08:19+03:00"
-        },
-        {
-            "symbol": "KRDMD.IS",
-            "price": 27.020000457763672,
-            "score": 70,
-            "label": "Watchlist",
-            "chg": 3.0511060259344043,
+            "chg": 5.008944543828264,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:07:59+03:00"
+            "time": "2025-12-12T17:09:22+03:00"
+        },
+        {
+            "symbol": "TKFEN.IS",
+            "price": 71.1500015258789,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 5.173688100517369,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:09:13+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 56.349998474121094,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 7.1292775665399235,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:09:23+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -84,7 +68,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:08:13+03:00"
+            "time": "2025-12-12T17:09:10+03:00"
+        },
+        {
+            "symbol": "TCELL.IS",
+            "price": 103.9000015258789,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 3.3830845771144333,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T17:09:15+03:00"
         }
     ]
 }
