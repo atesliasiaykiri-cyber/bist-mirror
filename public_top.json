@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-12T18:31:34+03:00",
+    "updated": "2025-12-12T18:32:33+03:00",
     "count": 97,
     "data": [
         {
@@ -345,22 +345,6 @@
             "time": "2025-12-12T18:00:00+03:00"
         },
         {
-            "symbol": "AKBNK.IS",
-            "price": 69.55000305175781,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.7971014492753581,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
             "symbol": "BASGZ.IS",
             "price": 42.279998779296875,
             "score": 55,
@@ -449,6 +433,21 @@
                 "strongUpDay",
                 "rp15",
                 "rp30"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
+            "symbol": "AKBNK.IS",
+            "price": 69.55000305175781,
+            "score": 45,
+            "label": "Neutral",
+            "chg": 0.7971014492753581,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp30",
+                "rp60"
             ],
             "time": "2025-12-12T18:00:00+03:00"
         },
@@ -948,19 +947,6 @@
             "time": "2025-12-12T18:00:00+03:00"
         },
         {
-            "symbol": "QUAGR.IS",
-            "price": 3.0399999618530273,
-            "score": 10,
-            "label": "Neutral",
-            "chg": -7.033639143730887,
-            "range15": 0,
-            "vwapPrem": null,
-            "reasons": [
-                "rsiOB"
-            ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
             "symbol": "AKSEN.IS",
             "price": 60.95000076293945,
             "score": 0,
@@ -1087,6 +1073,17 @@
             "score": 0,
             "label": "Neutral",
             "chg": -2.1818181818181785,
+            "range15": 0,
+            "vwapPrem": null,
+            "reasons": [],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
+            "symbol": "QUAGR.IS",
+            "price": 3.0399999618530273,
+            "score": 0,
+            "label": "Neutral",
+            "chg": -7.033639143730887,
             "range15": 0,
             "vwapPrem": null,
             "reasons": [],
