@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T14:56:32+03:00",
-    "count": 3,
+    "updated": "2025-12-12T14:57:31+03:00",
+    "count": 5,
     "data": [
         {
-            "symbol": "CANTE.IS",
-            "price": 2.319999933242798,
+            "symbol": "TCELL.IS",
+            "price": 101.9000015258789,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 4.977375565610854,
+            "chg": 1.3930348258706524,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,14 +17,31 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:41:03+03:00"
+            "time": "2025-12-12T14:42:10+03:00"
         },
         {
-            "symbol": "SEKUR.IS",
-            "price": 4,
+            "symbol": "GLYHO.IS",
+            "price": 12.829999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.664025356576869,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:42:03+03:00"
+        },
+        {
+            "symbol": "BIMAS.IS",
+            "price": 555,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0,
+            "chg": 0.18050541516245489,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -33,7 +50,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:39:34+03:00"
+            "time": "2025-12-12T14:41:41+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.309999942779541,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 4.524886877828059,
+            "range15": 0.8749999999995323,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:42:04+03:00"
         },
         {
             "symbol": "MGROS.IS",
@@ -49,7 +82,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:41:08+03:00"
+            "time": "2025-12-12T14:42:08+03:00"
         }
     ]
 }
