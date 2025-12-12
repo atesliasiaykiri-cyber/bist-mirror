@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-12T13:10:32+03:00",
-    "count": 9,
+    "updated": "2025-12-12T13:11:34+03:00",
+    "count": 10,
     "data": [
         {
             "symbol": "TAVHL.IS",
@@ -18,7 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T12:55:13+03:00"
+            "time": "2025-12-12T12:56:12+03:00"
         },
         {
             "symbol": "ALARK.IS",
@@ -35,7 +35,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:54:46+03:00"
+            "time": "2025-12-12T12:56:01+03:00"
         },
         {
             "symbol": "GUBRF.IS",
@@ -52,7 +52,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:55:04+03:00"
+            "time": "2025-12-12T12:55:57+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -86,14 +86,30 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:55:20+03:00"
+            "time": "2025-12-12T12:56:15+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1609,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.0678391959798994,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T12:55:26+03:00"
         },
         {
             "symbol": "BIMAS.IS",
-            "price": 554,
+            "price": 554.5,
             "score": 65,
             "label": "Watchlist",
-            "chg": 0,
+            "chg": 0.09025270758122744,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -102,7 +118,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:54:59+03:00"
+            "time": "2025-12-12T12:55:36+03:00"
         },
         {
             "symbol": "SNICA.IS",
@@ -121,27 +137,11 @@
             "time": "2025-12-12T12:54:59+03:00"
         },
         {
-            "symbol": "GSDHO.IS",
-            "price": 4.889999866485596,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.9473684210526248,
-            "range15": 0.7999961853177587,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T12:55:03+03:00"
-        },
-        {
             "symbol": "SAHOL.IS",
-            "price": 86.25,
+            "price": 86.30000305175781,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.0710059171597637,
+            "chg": 2.130177514792896,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -150,7 +150,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T12:55:11+03:00"
+            "time": "2025-12-12T12:56:02+03:00"
+        },
+        {
+            "symbol": "MGROS.IS",
+            "price": 536.5,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.7061611374407581,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T12:56:08+03:00"
         }
     ]
 }
