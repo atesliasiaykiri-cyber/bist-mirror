@@ -1,7 +1,24 @@
 {
-    "updated": "2025-12-12T15:32:34+03:00",
-    "count": 1,
+    "updated": "2025-12-12T15:33:33+03:00",
+    "count": 3,
     "data": [
+        {
+            "symbol": "TCELL.IS",
+            "price": 102,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.4925373134328357,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T15:17:45+03:00"
+        },
         {
             "symbol": "ALARK.IS",
             "price": 97.75,
@@ -16,7 +33,23 @@
                 "rp15",
                 "rp30"
             ],
-            "time": "2025-12-12T15:16:59+03:00"
+            "time": "2025-12-12T15:17:51+03:00"
+        },
+        {
+            "symbol": "TAVHL.IS",
+            "price": 302,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.1725293132328307,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T15:18:13+03:00"
         }
     ]
 }
