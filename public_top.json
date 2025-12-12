@@ -1,31 +1,13 @@
 {
-    "updated": "2025-12-12T17:59:48+03:00",
-    "count": 7,
+    "updated": "2025-12-12T18:00:35+03:00",
+    "count": 5,
     "data": [
-        {
-            "symbol": "KORDS.IS",
-            "price": 51.25,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 1.8886679920477194,
-            "range15": 0.9375008940699914,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T17:44:21+03:00"
-        },
         {
             "symbol": "TSKB.IS",
             "price": 12.949999809265137,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.777777777777775,
+            "chg": 2.6984126984126977,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,60 +17,46 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:44:33+03:00"
+            "time": "2025-12-12T17:44:00+03:00"
         },
         {
-            "symbol": "OTKAR.IS",
-            "price": 497.75,
-            "score": 60,
+            "symbol": "KORDS.IS",
+            "price": 51.20000076293945,
+            "score": 70,
             "label": "Watchlist",
-            "chg": 1.065989847715736,
-            "range15": 1,
+            "chg": 1.789264413518898,
+            "range15": 0.8461556519327449,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
-                "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-12T17:44:07+03:00"
+            "time": "2025-12-12T17:44:00+03:00"
         },
         {
-            "symbol": "BIOEN.IS",
-            "price": 19.969999313354492,
+            "symbol": "TOASO.IS",
+            "price": 238.8000030517578,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.15000000000000568,
+            "chg": 1.9214346712211787,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
-                "rp15",
-                "rp30"
+                "strongUpDay",
+                "rp15"
             ],
-            "time": "2025-12-12T17:43:48+03:00"
-        },
-        {
-            "symbol": "GARAN.IS",
-            "price": 140,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": 0.5747126436781691,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30"
-            ],
-            "time": "2025-12-12T17:43:50+03:00"
+            "time": "2025-12-12T17:44:00+03:00"
         },
         {
             "symbol": "KONYA.IS",
             "price": 4690,
             "score": 55,
             "label": "Watchlist",
-            "chg": 0.32085561497326204,
+            "chg": 0.10695187165775401,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -97,14 +65,14 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:43:56+03:00"
+            "time": "2025-12-12T17:43:00+03:00"
         },
         {
             "symbol": "TLMAN.IS",
-            "price": 100.19999694824219,
+            "price": 100.30000305175781,
             "score": 55,
             "label": "Watchlist",
-            "chg": -1.3779527559055034,
+            "chg": -1.1811023622047132,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -113,7 +81,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:44:22+03:00"
+            "time": "2025-12-12T17:44:00+03:00"
         }
     ]
 }
