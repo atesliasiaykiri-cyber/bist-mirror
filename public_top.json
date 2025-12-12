@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T17:11:33+03:00",
-    "count": 4,
+    "updated": "2025-12-12T17:12:32+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "KUYAS.IS",
-            "price": 55.29999923706055,
+            "price": 55.75,
             "score": 90,
             "label": "Strong Short Zone",
-            "chg": 5.133079847908737,
+            "chg": 5.9885931558935335,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -18,7 +18,7 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T16:56:22+03:00"
+            "time": "2025-12-12T16:57:22+03:00"
         },
         {
             "symbol": "ALBRK.IS",
@@ -35,24 +35,39 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:55:46+03:00"
+            "time": "2025-12-12T16:56:11+03:00"
         },
         {
-            "symbol": "FROTO.IS",
-            "price": 96.8499984741211,
-            "score": 80,
-            "label": "Strong Short Zone",
-            "chg": 3.4169781099839702,
-            "range15": 0.8749928474694454,
+            "symbol": "ARCLK.IS",
+            "price": 109.4000015258789,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.9225092250922509,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:56:06+03:00"
+            "time": "2025-12-12T16:56:57+03:00"
+        },
+        {
+            "symbol": "KRDMD.IS",
+            "price": 26.940000534057617,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 2.7459954233409705,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T16:56:57+03:00"
         },
         {
             "symbol": "SAHOL.IS",
@@ -68,7 +83,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:56:08+03:00"
+            "time": "2025-12-12T16:57:12+03:00"
         }
     ]
 }
