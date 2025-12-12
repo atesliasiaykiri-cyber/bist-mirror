@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T17:51:33+03:00",
-    "count": 6,
+    "updated": "2025-12-12T17:52:36+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "KORDS.IS",
-            "price": 50.79999923706055,
-            "score": 80,
+            "price": 51,
+            "score": 90,
             "label": "Strong Short Zone",
-            "chg": 0.9940357852882704,
+            "chg": 1.3916500994035843,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -15,64 +15,33 @@
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60"
+                "rp60",
+                "rsiOB"
             ],
-            "time": "2025-12-12T17:36:10+03:00"
+            "time": "2025-12-12T17:37:23+03:00"
         },
         {
-            "symbol": "TUPRS.IS",
-            "price": 198.89999389648438,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.7598784194528876,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:36:15+03:00"
-        },
-        {
-            "symbol": "AGHOL.IS",
-            "price": 29.739999771118164,
-            "score": 65,
-            "label": "Watchlist",
-            "chg": 0.47297297297296287,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:36:15+03:00"
-        },
-        {
-            "symbol": "TCELL.IS",
-            "price": 104.30000305175781,
+            "symbol": "THYAO.IS",
+            "price": 271.75,
             "score": 60,
             "label": "Watchlist",
-            "chg": 3.781094527363181,
-            "range15": 0.5000190730634579,
+            "chg": 0.8348794063079777,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
+                "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:36:14+03:00"
+            "time": "2025-12-12T17:37:15+03:00"
         },
         {
             "symbol": "CWENE.IS",
-            "price": 28.34000015258789,
+            "price": 28.420000076293945,
             "score": 60,
             "label": "Watchlist",
-            "chg": 0.8540925266903858,
+            "chg": 1.1387900355871896,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -81,7 +50,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:36:19+03:00"
+            "time": "2025-12-12T17:37:20+03:00"
+        },
+        {
+            "symbol": "MAVI.IS",
+            "price": 39.119998931884766,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 1.6632016632016646,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:37:20+03:00"
         },
         {
             "symbol": "BAGFS.IS",
@@ -98,6 +83,37 @@
                 "rsiOB"
             ],
             "time": "2025-12-12T17:33:23+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1614,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": 1.3819095477386936,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
+            ],
+            "time": "2025-12-12T17:36:54+03:00"
+        },
+        {
+            "symbol": "FMIZP.IS",
+            "price": 326,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -3.3358042994810972,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T17:37:17+03:00"
         }
     ]
 }
