@@ -1,6 +1,6 @@
 {
-    "updated": "2025-12-12T14:11:32+03:00",
-    "count": 3,
+    "updated": "2025-12-12T14:12:30+03:00",
+    "count": 5,
     "data": [
         {
             "symbol": "SANEL.IS",
@@ -21,20 +21,37 @@
             "time": "2025-12-12T13:55:15+03:00"
         },
         {
-            "symbol": "TKFEN.IS",
-            "price": 69.19999694824219,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 2.2912047302291163,
-            "range15": 0.8999938964840055,
+            "symbol": "CANTE.IS",
+            "price": 2.259999990463257,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.262443438914019,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
+                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:56:13+03:00"
+            "time": "2025-12-12T13:57:02+03:00"
+        },
+        {
+            "symbol": "VAKBN.IS",
+            "price": 29.399999618530273,
+            "score": 65,
+            "label": "Watchlist",
+            "chg": -0.2713704206241582,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T13:57:15+03:00"
         },
         {
             "symbol": "GSDDE.IS",
@@ -50,7 +67,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:56:21+03:00"
+            "time": "2025-12-12T13:57:17+03:00"
+        },
+        {
+            "symbol": "BIOEN.IS",
+            "price": 19.979999542236328,
+            "score": 55,
+            "label": "Watchlist",
+            "chg": -0.09999999999999788,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T13:56:43+03:00"
         }
     ]
 }
