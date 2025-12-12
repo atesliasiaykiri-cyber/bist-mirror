@@ -1,24 +1,22 @@
 {
-    "updated": "2025-12-12T17:19:32+03:00",
-    "count": 3,
+    "updated": "2025-12-12T17:20:33+03:00",
+    "count": 2,
     "data": [
         {
-            "symbol": "HATEK.IS",
-            "price": 17.5,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 4.353011329755518,
-            "range15": 0.9193559303255773,
+            "symbol": "EREGL.IS",
+            "price": 24.6200008392334,
+            "score": 60,
+            "label": "Watchlist",
+            "chg": 0.9844134536505413,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
                 "strongUpDay",
                 "rp15",
                 "rp30",
-                "rp60",
-                "rsiOB"
+                "rp60"
             ],
-            "time": "2025-12-12T17:04:20+03:00"
+            "time": "2025-12-12T17:05:07+03:00"
         },
         {
             "symbol": "THYAO.IS",
@@ -34,23 +32,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:04:14+03:00"
-        },
-        {
-            "symbol": "KUYAS.IS",
-            "price": 55.900001525878906,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 6.273764258555127,
-            "range15": 0.8536588542880422,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T17:04:22+03:00"
+            "time": "2025-12-12T17:05:12+03:00"
         }
     ]
 }
