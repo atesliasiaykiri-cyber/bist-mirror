@@ -1,43 +1,7 @@
 {
-    "updated": "2025-12-12T14:21:32+03:00",
-    "count": 5,
+    "updated": "2025-12-12T14:22:30+03:00",
+    "count": 7,
     "data": [
-        {
-            "symbol": "ALARK.IS",
-            "price": 97.8499984741211,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 2.246603970741893,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T14:05:58+03:00"
-        },
-        {
-            "symbol": "GESAN.IS",
-            "price": 44.36000061035156,
-            "score": 90,
-            "label": "Strong Short Zone",
-            "chg": 1.2323140118667257,
-            "range15": 0.8717966274112354,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T14:06:08+03:00"
-        },
         {
             "symbol": "SANEL.IS",
             "price": 39,
@@ -57,12 +21,79 @@
             "time": "2025-12-12T13:55:15+03:00"
         },
         {
+            "symbol": "ALARK.IS",
+            "price": 97.80000305175781,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.194357366771154,
+            "range15": 0.8750119208842178,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:06:58+03:00"
+        },
+        {
+            "symbol": "CANTE.IS",
+            "price": 2.259999990463257,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.262443438914019,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:07:04+03:00"
+        },
+        {
+            "symbol": "TKFEN.IS",
+            "price": 70.05000305175781,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 3.547671840354754,
+            "range15": 0.8750047683839973,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T14:07:12+03:00"
+        },
+        {
+            "symbol": "ALFAS.IS",
+            "price": 44.47999954223633,
+            "score": 70,
+            "label": "Watchlist",
+            "chg": 1.7383348581884677,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30"
+            ],
+            "time": "2025-12-12T14:07:12+03:00"
+        },
+        {
             "symbol": "ISMEN.IS",
-            "price": 41.15999984741211,
+            "price": 41.13999938964844,
             "score": 60,
             "label": "Watchlist",
-            "chg": 1.329394387001475,
-            "range15": 1,
+            "chg": 1.280157557853282,
+            "range15": 0.857138964574829,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -70,7 +101,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:06:04+03:00"
+            "time": "2025-12-12T14:07:05+03:00"
         },
         {
             "symbol": "TURSG.IS",
@@ -86,7 +117,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T14:06:18+03:00"
+            "time": "2025-12-12T14:07:18+03:00"
         }
     ]
 }
