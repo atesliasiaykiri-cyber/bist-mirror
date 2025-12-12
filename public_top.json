@@ -1,13 +1,31 @@
 {
-    "updated": "2025-12-12T16:47:33+03:00",
-    "count": 4,
+    "updated": "2025-12-12T16:48:33+03:00",
+    "count": 7,
     "data": [
         {
             "symbol": "TCELL.IS",
-            "price": 103.4000015258789,
+            "price": 103.80000305175781,
+            "score": 90,
+            "label": "Strong Short Zone",
+            "chg": 3.283582089552236,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60",
+                "rsiOB"
+            ],
+            "time": "2025-12-12T16:33:16+03:00"
+        },
+        {
+            "symbol": "ALARK.IS",
+            "price": 97.75,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.8855721393034885,
+            "chg": 2.142110762800415,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,7 +35,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:32:16+03:00"
+            "time": "2025-12-12T16:32:45+03:00"
+        },
+        {
+            "symbol": "CLEBI.IS",
+            "price": 1609,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.0678391959798994,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T16:32:34+03:00"
         },
         {
             "symbol": "SEKUR.IS",
@@ -37,12 +72,29 @@
             "time": "2025-12-12T16:32:09+03:00"
         },
         {
-            "symbol": "KUYAS.IS",
-            "price": 54.099998474121094,
+            "symbol": "TTKOM.IS",
+            "price": 57.70000076293945,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 1.6740088105726925,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T16:33:27+03:00"
+        },
+        {
+            "symbol": "TKFEN.IS",
+            "price": 70,
             "score": 60,
             "label": "Watchlist",
-            "chg": 2.8517110266159698,
-            "range15": 0.9166618983129162,
+            "chg": 3.4737620103473676,
+            "range15": 0.857136629173919,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -50,23 +102,22 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T16:32:19+03:00"
+            "time": "2025-12-12T16:33:13+03:00"
         },
         {
-            "symbol": "KRVGD.IS",
-            "price": 2.549999952316284,
+            "symbol": "TAVHL.IS",
+            "price": 304.25,
             "score": 55,
             "label": "Watchlist",
-            "chg": -0.7782101167315182,
+            "chg": 1.9262981574539362,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
+                "dayHighClose",
+                "strongUpDay",
+                "rp15"
             ],
-            "time": "2025-12-12T16:32:05+03:00"
+            "time": "2025-12-12T16:33:12+03:00"
         }
     ]
 }
