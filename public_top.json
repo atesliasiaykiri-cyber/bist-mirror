@@ -1,13 +1,13 @@
 {
-    "updated": "2025-12-12T17:22:32+03:00",
+    "updated": "2025-12-12T17:23:32+03:00",
     "count": 5,
     "data": [
         {
-            "symbol": "ALARK.IS",
-            "price": 97.75,
+            "symbol": "TKFEN.IS",
+            "price": 71,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 2.142110762800415,
+            "chg": 4.951958610495187,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -17,15 +17,15 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:06:53+03:00"
+            "time": "2025-12-12T17:08:13+03:00"
         },
         {
-            "symbol": "TKFEN.IS",
-            "price": 70.75,
+            "symbol": "HATEK.IS",
+            "price": 17.510000228881836,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 4.582409460458233,
-            "range15": 0.909085864890803,
+            "chg": 4.412641621943959,
+            "range15": 0.9354853595353912,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -34,7 +34,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:07:12+03:00"
+            "time": "2025-12-12T17:08:18+03:00"
+        },
+        {
+            "symbol": "KUYAS.IS",
+            "price": 56.04999923706055,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 6.558935361216722,
+            "range15": 0.9210518918879917,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T17:08:19+03:00"
         },
         {
             "symbol": "KRDMD.IS",
@@ -51,15 +68,15 @@
                 "rp60",
                 "rsiOB"
             ],
-            "time": "2025-12-12T17:07:07+03:00"
+            "time": "2025-12-12T17:07:59+03:00"
         },
         {
-            "symbol": "KUYAS.IS",
-            "price": 56,
+            "symbol": "THYAO.IS",
+            "price": 271.75,
             "score": 60,
             "label": "Watchlist",
-            "chg": 6.463878326996195,
-            "range15": 0.8947365250948536,
+            "chg": 0.8348794063079777,
+            "range15": 1,
             "vwapPrem": null,
             "reasons": [
                 "strongUpDay",
@@ -67,23 +84,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T17:07:20+03:00"
-        },
-        {
-            "symbol": "LIDER.IS",
-            "price": 53.599998474121094,
-            "score": 55,
-            "label": "Watchlist",
-            "chg": -0.740740740740738,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "rp15",
-                "rp30",
-                "rp60",
-                "rsiOB"
-            ],
-            "time": "2025-12-12T17:07:13+03:00"
+            "time": "2025-12-12T17:08:13+03:00"
         }
     ]
 }
