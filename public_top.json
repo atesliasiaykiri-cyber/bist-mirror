@@ -1,14 +1,14 @@
 {
-    "updated": "2025-12-12T13:41:31+03:00",
+    "updated": "2025-12-12T13:42:33+03:00",
     "count": 6,
     "data": [
         {
             "symbol": "GSDDE.IS",
-            "price": 10.270000457763672,
+            "price": 10.279999732971191,
             "score": 85,
             "label": "Strong Short Zone",
-            "chg": 0.09746588693956908,
-            "range15": 0.8750029802372168,
+            "chg": 0.19493177387913815,
+            "range15": 0.9374985098813847,
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose",
@@ -18,14 +18,14 @@
                 "rsiOB",
                 "rsiExtreme"
             ],
-            "time": "2025-12-12T13:26:19+03:00"
+            "time": "2025-12-12T13:27:07+03:00"
         },
         {
-            "symbol": "GSDHO.IS",
-            "price": 4.900000095367432,
+            "symbol": "CANTE.IS",
+            "price": 2.259999990463257,
             "score": 80,
             "label": "Strong Short Zone",
-            "chg": 3.157894736842113,
+            "chg": 2.262443438914019,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
@@ -35,7 +35,24 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:26:02+03:00"
+            "time": "2025-12-12T13:27:03+03:00"
+        },
+        {
+            "symbol": "SAHOL.IS",
+            "price": 86.5,
+            "score": 80,
+            "label": "Strong Short Zone",
+            "chg": 2.366863905325444,
+            "range15": 1,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay",
+                "rp15",
+                "rp30",
+                "rp60"
+            ],
+            "time": "2025-12-12T13:27:02+03:00"
         },
         {
             "symbol": "TCELL.IS",
@@ -52,23 +69,23 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:25:59+03:00"
+            "time": "2025-12-12T13:27:05+03:00"
         },
         {
-            "symbol": "BIMAS.IS",
-            "price": 555.5,
-            "score": 65,
+            "symbol": "KCHOL.IS",
+            "price": 175.10000610351562,
+            "score": 60,
             "label": "Watchlist",
-            "chg": 0.2707581227436823,
+            "chg": 1.6840882694541266,
             "range15": 1,
             "vwapPrem": null,
             "reasons": [
-                "dayHighClose",
+                "strongUpDay",
                 "rp15",
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:26:01+03:00"
+            "time": "2025-12-12T13:27:07+03:00"
         },
         {
             "symbol": "KRDMD.IS",
@@ -84,23 +101,7 @@
                 "rp30",
                 "rp60"
             ],
-            "time": "2025-12-12T13:26:06+03:00"
-        },
-        {
-            "symbol": "SISE.IS",
-            "price": 40.2599983215332,
-            "score": 60,
-            "label": "Watchlist",
-            "chg": 1.4616935483870925,
-            "range15": 1,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay",
-                "rp15",
-                "rp30",
-                "rp60"
-            ],
-            "time": "2025-12-12T13:26:05+03:00"
+            "time": "2025-12-12T13:27:10+03:00"
         }
     ]
 }
