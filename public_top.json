@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-14T11:49:10+03:00",
+    "updated": "2025-12-14T11:50:10+03:00",
     "count": 97,
     "data": [
         {
@@ -330,6 +330,20 @@
             "score": 35,
             "label": "Neutral",
             "chg": 4.0650406504065035,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
+            "symbol": "TOASO.IS",
+            "price": 240,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 2.476515798462857,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1282,19 +1296,6 @@
             "vwapPrem": null,
             "reasons": [
                 "dayHighClose"
-            ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
-            "symbol": "TOASO.IS",
-            "price": 240,
-            "score": 15,
-            "label": "Neutral",
-            "chg": 2.476515798462857,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "strongUpDay"
             ],
             "time": "2025-12-12T18:00:00+03:00"
         }
