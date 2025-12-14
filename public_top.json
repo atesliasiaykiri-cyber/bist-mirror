@@ -1,5 +1,5 @@
 {
-    "updated": "2025-12-14T03:38:09+03:00",
+    "updated": "2025-12-14T03:39:10+03:00",
     "count": 97,
     "data": [
         {
@@ -589,6 +589,19 @@
             "score": 20,
             "label": "Neutral",
             "chg": 0.5415162454873645,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
+            "symbol": "BIOEN.IS",
+            "price": 19.829999923706055,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -0.8500000000000085,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -1234,6 +1247,19 @@
             "time": "2025-12-12T18:00:00+03:00"
         },
         {
+            "symbol": "YEOTK.IS",
+            "price": 37.380001068115234,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -1.9412381951731241,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2025-12-12T18:00:00+03:00"
+        },
+        {
             "symbol": "YYLGD.IS",
             "price": 10.119999885559082,
             "score": 20,
@@ -1270,28 +1296,6 @@
             "reasons": [
                 "strongUpDay"
             ],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
-            "symbol": "BIOEN.IS",
-            "price": 19.829999923706055,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -0.8500000000000085,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
-            "time": "2025-12-12T18:00:00+03:00"
-        },
-        {
-            "symbol": "YEOTK.IS",
-            "price": 37.380001068115234,
-            "score": 0,
-            "label": "Neutral",
-            "chg": -1.9412381951731241,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [],
             "time": "2025-12-12T18:00:00+03:00"
         }
     ]
