@@ -1,7 +1,21 @@
 {
-    "updated": "2026-01-15T22:53:12+03:00",
-    "count": 94,
+    "updated": "2026-01-15T22:54:11+03:00",
+    "count": 95,
     "data": [
+        {
+            "symbol": "AKSEN.IS",
+            "price": 68.55000305175781,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 1.7062314540059218,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2026-01-15T18:00:00+03:00"
+        },
         {
             "symbol": "ALARK.IS",
             "price": 104.80000305175781,
@@ -148,20 +162,6 @@
             "score": 35,
             "label": "Neutral",
             "chg": 2.087682672233813,
-            "range15": null,
-            "vwapPrem": null,
-            "reasons": [
-                "dayHighClose",
-                "strongUpDay"
-            ],
-            "time": "2026-01-15T18:00:00+03:00"
-        },
-        {
-            "symbol": "MGROS.IS",
-            "price": 616.5,
-            "score": 35,
-            "label": "Neutral",
-            "chg": 1.3980263157894737,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
@@ -713,6 +713,19 @@
             "time": "2026-01-15T18:00:00+03:00"
         },
         {
+            "symbol": "AGHOL.IS",
+            "price": 32.81999969482422,
+            "score": 20,
+            "label": "Neutral",
+            "chg": -0.3642987249544549,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose"
+            ],
+            "time": "2026-01-15T18:00:00+03:00"
+        },
+        {
             "symbol": "BURCE.IS",
             "price": 71.1500015258789,
             "score": 20,
@@ -830,11 +843,11 @@
             "time": "2026-01-15T18:00:00+03:00"
         },
         {
-            "symbol": "FENER.IS",
-            "price": 3.680000066757202,
+            "symbol": "CEMTS.IS",
+            "price": 11.279999732971191,
             "score": 15,
             "label": "Neutral",
-            "chg": 9.850746268656717,
+            "chg": 1.6216216216216193,
             "range15": null,
             "vwapPrem": null,
             "reasons": [
