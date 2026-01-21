@@ -1,7 +1,22 @@
 {
-    "updated": "2026-01-21T17:41:06+03:00",
-    "count": 0,
-    "data": [],
+    "updated": "2026-01-21T17:42:09+03:00",
+    "count": 1,
+    "data": [
+        {
+            "symbol": "LIDER.IS",
+            "price": 77.1500015258789,
+            "score": 35,
+            "label": "Neutral",
+            "chg": 1.5131578947368496,
+            "range15": null,
+            "vwapPrem": null,
+            "reasons": [
+                "dayHighClose",
+                "strongUpDay"
+            ],
+            "time": "2026-01-21T17:26:47+03:00"
+        }
+    ],
     "meta": {
         "strategy_hash": "ddad38719819574fd544e1947e9d923ec0426f3e",
         "threshold": 55,
